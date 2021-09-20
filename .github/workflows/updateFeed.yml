@@ -11,7 +11,7 @@ on:
     paths-ignore:
     - 'docs/**'
   schedule:
-    - cron: "12 6 * * *" # UTC
+    - cron: "8 6 * * *" # UTC
 jobs:
   generateXMLFeeds:
     runs-on: ubuntu-latest
