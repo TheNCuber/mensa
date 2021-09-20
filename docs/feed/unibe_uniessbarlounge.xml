@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2021-09-20">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Spätzlipfanne | mit Schinkenwürfeli und Gemüse | an Rahmsauce mit Käse überbacken | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>Geschnetzeltes «Zürcher Art» | Rösti | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Sulfit</note>
+          <note>Herkunft Aus Soja-Weizen</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-21">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>«Das Berliner Original» | Curry Wurst | Pommes Frites | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>Chili sin Carne mit Linsen | Brot Chips | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-22">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Japanisches Sukiyaki | Nudeln mit Rindfleisch und Gemüse | an Sojasauce | Menusalat</name>
+          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>«Blättersteigpastetli» | mit Gemüse- Pilzragout | Risi Bisi | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-23">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Fleischkäse aus dem Ofen | Jus mit Rosmarin | Petersilien Kartoffeln | Rahmspinat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch:Schwein, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>UniS Herbstrisotto | mit geröstetem Kürbis, Apfel und Zitronenthymian | Menusalat</name>
+          <note>Allergene: Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-24">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Chicken Tikka Masala | Basmatireis | Menusalat</name>
+          <note>Allergene: Milch, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Geflügel: Poulet, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>«Pho» | Vietnamesische Nudelsuppe | mit Tofu, Gemüse und Shiitake-Pilze | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
+</openmensa>

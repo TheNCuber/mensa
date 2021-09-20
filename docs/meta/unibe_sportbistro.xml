@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <name>Bern, ZSSw Sport Bistro</name>
+    <address>Bremgartenstrasse 145, 3012 Bern</address>
+    <city>Bern</city>
+    <phone>+41 31 684 50 33</phone>
+    <location latitude="46.96205" longitude="7.43204" />
+    <availability>public</availability>
+    <times type="opening">
+      <monday open="09:00-14:00" />
+      <tuesday open="09:00-14:00" />
+      <wednesday open="09:00-14:00" />
+      <thursday open="09:00-14:00" />
+      <friday open="09:00-14:00" />
+      <saturday closed="true" />
+      <sunday closed="true" />
+    </times>
+    <feed name="full" priority="1">
+      <schedule dayOfMonth="*" dayOfWeek="1-5" hour="9" minute="40" retry="65 1 1440" />
+      <url>https://thencuber.github.io/mensa/feed/unibe_sportbistro.xml</url>
+      <source>https://cms.zfv.ch/food-getter.php?menuplanid=243</source>
+    </feed>
+  </canteen>
+</openmensa>
