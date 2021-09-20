@@ -1,0 +1,52 @@
+{
+  "gesellschaftsstrasse": {
+    "name": "Bern, Mensa Gesellschaftsstrasse",
+    "city": "Bern",
+    "latitude": 46.95168,
+    "longitude": 7.43842,
+    "address": "Gesellschaftsstrasse 2, 3012 Bern",
+    "phone": "+41 31 684 50 19",
+    "times": "Mo-Fr 11:30-13:30 Uhr",
+    "source": "?menuplanid=233"
+  },
+  "unitobler": {
+    "name": "Bern, Mensa Unitobler",
+    "city": "Bern",
+    "latitude": 46.95459,
+    "longitude": 7.42998,
+    "address": "Länggassstrasse / Lerchenweg 49, 3012 Bern",
+    "phone": "+41 31 684 36 00",
+    "times": "Mo-Fr 09:00-14:00 Uhr",
+    "source": "?menuplanid=233"
+  },
+  "sportbistro": {
+    "name": "Bern, ZSSw Sport Bistro",
+    "city": "Bern",
+    "latitude": 46.96205,
+    "longitude": 7.43204,
+    "address": "Bremgartenstrasse 145, 3012 Bern",
+    "phone": "+41 31 684 50 33",
+    "times": "Mo-Fr 09:00-14:00 Uhr",
+    "source": "?menuplanid=243"
+  },
+  "uniessbarlounge": {
+    "name": "Bern, UniEss – Bar Lounge",
+    "city": "Bern",
+    "latitude": 46.94998,
+    "longitude": 7.43555,
+    "address": "Schanzeneckstrasse 1, 3001 Bern",
+    "phone": "+41 31 684 55 05",
+    "times": "Mo-Fr 08:00-15:00 Uhr",
+    "source": "?menuplanid=247"
+  },
+  "vonroll": {
+    "name": "Bern, Mensa vonRoll",
+    "city": "Bern",
+    "latitude": 46.95320,
+    "longitude": 7.42302,
+    "address": "Fabrikstrasse 8, 3012 Bern",
+    "phone": "+41 31 684 58 10",
+    "times": "Mo-Fr 11:30-13:30 Uhr",
+    "source": "?menuplanid=310"
+  }
+}
