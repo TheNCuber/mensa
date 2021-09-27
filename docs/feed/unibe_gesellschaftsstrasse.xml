@@ -3,11 +3,53 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-09-20">
+    <day date="2021-09-27">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse Tajine | mit Kichererbsen | Couscous | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <name>Blätterteigpastetli | Pilzragout | Erbsli und Rüebli | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Rinds Fleischvogel geschmort | Brokkoli mit Mandeln | Polenta | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie, Senf, Sulfit, Mandel</note>
+          <note>Herkunft Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-28">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Teigwarengratin mit Quorn | Basilikum und Tomatensauce | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Paniertes Schweinsschnitzel | Pommes Frites | Blumenkohl | Menüsalat</name>
+          <note>Allergene: Gluten, Ei</note>
+          <note>Herkunft Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-29">
+      <category name="natürlich vegi">
+        <meal>
+          <name>The Green Mountain Fleischkäse | Zwiebelsauce | Schupfnudeln | Rotkraut | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit, Weizen</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,19 +57,40 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Poulet-Schenkelragout | mit mediterranen Gemüse | Polentaschnitte mit Käse | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz</note>
+          <name>Pouletbrust | Currysauce mit Max Havelaar Bananen | Basmatireis | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
+          <note>Herkunft Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-09-21">
+    <day date="2021-09-30">
       <category name="natürlich vegi">
         <meal>
-          <name>Kartoffelgnocchi mit Dörrtomaten | Salbei, Parmesan und Rucola | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <name>Chäs-Spätzli mit Bergkäse,Röstzwiebeln und | Grünen Bohnen | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Saucisson | Kartoffel-Lauchgemüse | Menüsalat | Senf</name>
+          <note>Allergene: Soja, Sellerie, Senf</note>
+          <note>Herkunft Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-01">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Pasta mit Federkohl, Haselnnüssen | und Karotten | Rettichsalat mit Apfel</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sulfit, Hasel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -36,74 +99,9 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Hackbraten | Rotweinsauce | Butternudeln | Buntes Marktgemüse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Rind/Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-09-22">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Rotes Thai Curry | Tofu grilliert | Jasmin Reis | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Schweinsbratwurst | Zwiebelsauce | Bratkartoffeln | Grüne Bohnen | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-09-23">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Spinatrisotto mit Pilzen | Süsskartoffel und Cherrytomaten | Menüsalat</name>
-          <note>Allergene: Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Spaghetti | Bolognaise | Menüsalat | Reibkäse</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-09-24">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Gemüse-Lasagne mit Wurzelgemüse | Tomatensauce | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Fischknusperli | Salzkartoffeln | Rahmspinat | Tartarsauce | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf, Weizen</note>
-          <note>Herkunft Fisch: Zucht/Wildfang, Fangzone/Land</note>
+          <name>Schlemmerfilet Bordelaise mit | Dillsauce und | Wildreis-Mix und | Safran Kohlraben | Menüsalat</name>
+          <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft NL</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
