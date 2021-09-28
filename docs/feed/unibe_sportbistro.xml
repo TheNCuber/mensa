@@ -2,5 +2,61 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2021-09-27">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Jasminreis | Kürbis, geröstetes Wurzelgemüse | Grüne Currysauce | Sautierte Pouletbrust | Erdnüsse, Koriander</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Lupinen</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-28">
+      <category name="Daily Bowl">
+        <meal>
+          <name>orientalisches Couscous | Grüne Bohnen,gebackene Auberginen | confierte Cherrytomaten, Peperoni Hummus | Hüttenkäse | Joghurt Minz Dip</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-29">
+      <category name="Daily Bowl">
+        <meal>
+          <name>geröstete Süsskartoffeln | Blumenkohl, gebratener Pak Choi | Limettenschnitz | Thailändisches Schweinstrockenfleisch | Soja-Sesamsauce, Studentennüsse</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Senf, Sesam, Sulfit, Lupinen, Weichtiere, Mandel</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-09-30">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Rice Curry Balls | Beluga Linsen, Tofu, geräuchert | Wokgemüse, Broccoli | Sweet Chili Dip, Koriander</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-01">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Schupfnudeln | Frühlingszwiebeln, Rosenkohl | geschmortes Rotkraut, glasierte Marroni | Wild Bratwurst, Preiselbeersauce</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit, Weizen</note>
+          <note>Herkunft Fleisch: EU (Hirsch) Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>
