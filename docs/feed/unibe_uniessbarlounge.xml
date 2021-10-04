@@ -3,20 +3,22 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-09-27">
+    <day date="2021-10-04">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>«Ghackets und Hörnli» | mit Apfelmus | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Sesam, Sulfit</note>
-          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <name>Grünes Thai Curry | mit Poulet und Gemüse | Basmati Reis | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch/ Geflügel: Poulet, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>Marokkanisches Gemüseragout | mit Kichererbsen | Couscous | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Asiatischer Linseneintopf | mit Gemüse und Kokosmilch | Basmatireis | Menusalat</name>
+          <note>Allergene: Soja, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -25,54 +27,79 @@
         </meal>
       </category>
     </day>
-    <day date="2021-09-28">
+    <day date="2021-10-05">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>Emmentaler Brätschnitzel | Bratensauce | Trockenreis | Tagesgemüse</name>
+          <name>Bayerischer Schweins- Krustenbraten | Dunkle Biersauce | Semmel Knödel | zweierlei Karotten | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit, Weizen</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>«Oktoberfest» | Gemüsedatschi | auf Meerrettichwirsing mit Kartoffelnockerl | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sulfit, Weizen</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-06">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Nürnberger Rostbratwürste | mit Senf | Sauerkraut | Kartoffelpüree | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>«Oktoberfest» | Gemüse-Tofugulasch an Schwammerlsauce | Polentaknödel | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft mit Tofu und Gemüse</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-07">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>«Oktoberfest» | Allgäuer Käsespatzen | mit Röstzwiebeln | Menusalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Weizen</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>«Oktoberfest» | Getrüffeltes Nudelgangerl (Spaghettini) | mit Cocktailtomaten und Zucchini | Menusalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-08">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>«Oktoberfest» | Knuspriges Backhendl | auf Kartoffel-Gurkensalat | Menusalat</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>Spaghetti aglio olio e peperoncino | mit Cherry Tomaten und Basilikum | Menusalat</name>
-          <note>Allergene: Gluten, Ei</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-09-29">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Schweins-Rahmgulasch Wiener Art | Butternüdeli | Tagesgemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>«Ocean Sticks» | Vegane Fischstäbchen | Tartaresauce | Salzkartoffeln | Blattspinat mit Zwiebeln</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Senf, Mandel</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-09-30">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Chicken Nuggets | Cocktail Sauce | Frittierten Kartoffeln | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Sellerie, Senf</note>
           <note>Herkunft Geflügel: Poulet, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -80,29 +107,8 @@
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>«Quinoa Bowl» | Roter Quinoa mit Edamame | Broccoli, Bohnen und Tomaten | Sojajoghurt-Dip | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-01">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Wildhackbraten | Pilzrahmsauce | Spätzli | Rosenkohl | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Sesam</note>
-          <note>Herkunft Fleisch: Hirsch, Rind, Schwein,  Schweiz/ EU</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>Vegane Tortelli All`Arrabbiata | an roter Pestosauce | mit frischem Rucola | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Schalenfrüchte</note>
+          <name>Orientalischer Gemüseragout | Couscous mit Pistazien und Trockenfrüchte | Zwiebel, Bockhornklee Bhajis | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Weizen</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
