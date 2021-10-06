@@ -9,8 +9,8 @@
           <name>OnePot-Pasta | mit Pesto | Cherry Tomaten, Rucola | &amp; Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
           <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="other">0.00</price>
+          <price role="student">0.00</price>
         </meal>
       </category>
       <category name="natürlich gut">
@@ -18,8 +18,8 @@
           <name>Schweinsgeschnetzeltes | in Kokos-Erdnusssauce | mit Basmatireis | &amp; Erbsen</name>
           <note>Allergene: Gluten, Erdnuss, Milch, Schalenfrüchte, Sellerie, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="other">0.00</price>
+          <price role="student">0.00</price>
         </meal>
       </category>
       <category name="voll anders">
@@ -33,26 +33,6 @@
       </category>
     </day>
     <day date="2021-10-05">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Kichererbsen-Curry | nach «indischer Art» | Couscous mit Limettenblätter | &amp; Wokgemüse</name>
-          <note>Allergene: Gluten, Sellerie, Senf</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Hörnli &amp; Ghackets | mit Apfelmus &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
       <category name="voll anders">
         <meal>
           <name>Hot Dog | mit Tomatensalsa, Röstzwiebeln | Käsesauce | &amp; Pommes Frites</name>
@@ -64,25 +44,6 @@
       </category>
     </day>
     <day date="2021-10-06">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Pilzragout an Rahmsauce | mit Gemüse-Rösti | &amp; Gartenkresse</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Pouletragout | an Paprikasauce | mit Eierspätzli | &amp; Romanesco</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
       <category name="voll anders">
         <meal>
           <name>Tofu-Piccata | mit Salsa Verde | Kürbis-Risotto | &amp; Randengemüse</name>
@@ -95,27 +56,6 @@
       </category>
     </day>
     <day date="2021-10-07">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Griechische Kartoffelpfanne | mit Auberginen, Zucchetti | zweierlei Oliven, Tomaten | &amp; veganer Frischkäse</name>
-          <note>Allergene: Gluten, Ei, Soja, Schalenfrüchte</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Rindsgeschnetzeltes Tex Mex | mit Mais, Bohnen, Chili | Vitaminreis | &amp; Mischgemüse</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
       <category name="voll anders">
         <meal>
           <name>Spaghetti «aglio e olio» | mit Knoblauch, Spinat | konfierten Cherry Tomaten | vegetarischen Balls | &amp; Reibkäse</name>
@@ -129,25 +69,6 @@
       </category>
     </day>
     <day date="2021-10-08">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Frühlingsrollen | mit Sweet &amp; Sour Sauce | dazu Reis-Gemüsepfanne</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Sellerie, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Schweinsbraten | an Rosmarinjus | mit Bratkartoffeln | &amp; Karotten</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
       <category name="voll anders">
         <meal>
           <name>Poulet Cordon bleu | mit Tartarsauce | dazu Bratkartoffeln mit Rauchpaprika | Rosenkohl</name>

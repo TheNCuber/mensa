@@ -9,8 +9,8 @@
           <name>Tortellini mit Spinat ,Ricotta und | Pilzsauce | Menüsalat</name>
           <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
           <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="other">0.00</price>
+          <price role="student">0.00</price>
         </meal>
       </category>
       <category name="einfach gut">
@@ -18,93 +18,8 @@
           <name>Rindshamburger mit | Rotweinsauce | Rosenkohl und | Bratkartoffeln | Menüsalat</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
           <note>Herkunft schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-05">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Gemüse süss- sauer mit Peperoni und Mais und Frühlauch und | Reis | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Walliser Rösti mit Speck, Schinken und Raclettekäse | Menüsalat</name>
-          <note>Allergene: Milch</note>
-          <note>Herkunft Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-06">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Brokkoli Lauch Curry mit Cashew Nüssen und | Orangen Bulgur | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Senf, Sulfit, Cashew</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Schweins Hals Braten mit Senfkruste | Kartoffelstock und | Sauerkraut | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-07">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Paniertes Gemüse Schnitzel | Ofen Kartoffel.Kürbisgemüse | Joghurt Dip Kebab | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Weizen</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Gebratene Pouletoberschenkel mit | Rosmarinsauce | Ratatouille und | Tagliatelle | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-08">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Aubergine gefüllt mit Kichererbsen Granatapfel und | Couscous | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Hörnli | Gehacktes mit Rindfleisch und | Apfelmus | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="other">0.00</price>
+          <price role="student">0.00</price>
         </meal>
       </category>
     </day>

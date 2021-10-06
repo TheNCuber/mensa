@@ -11,8 +11,8 @@
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch/ Geflügel: Poulet, Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="other">0.00</price>
+          <price role="student">0.00</price>
         </meal>
       </category>
       <category name="Veganes Schüsselgericht">
@@ -22,96 +22,8 @@
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-05">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Bayerischer Schweins- Krustenbraten | Dunkle Biersauce | Semmel Knödel | zweierlei Karotten | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit, Weizen</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>«Oktoberfest» | Gemüsedatschi | auf Meerrettichwirsing mit Kartoffelnockerl | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sulfit, Weizen</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-06">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Nürnberger Rostbratwürste | mit Senf | Sauerkraut | Kartoffelpüree | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>«Oktoberfest» | Gemüse-Tofugulasch an Schwammerlsauce | Polentaknödel | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft mit Tofu und Gemüse</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-07">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>«Oktoberfest» | Allgäuer Käsespatzen | mit Röstzwiebeln | Menusalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf, Weizen</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>«Oktoberfest» | Getrüffeltes Nudelgangerl (Spaghettini) | mit Cocktailtomaten und Zucchini | Menusalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-08">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>«Oktoberfest» | Knuspriges Backhendl | auf Kartoffel-Gurkensalat | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Geflügel: Poulet, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>Orientalischer Gemüseragout | Couscous mit Pistazien und Trockenfrüchte | Zwiebel, Bockhornklee Bhajis | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Weizen</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="other">0.00</price>
+          <price role="student">0.00</price>
         </meal>
       </category>
     </day>
