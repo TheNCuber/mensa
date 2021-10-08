@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2021-10-08">
+      <category name="Menu 1">
+        <meal>
+          <name>Rissoles aux légumes | Sauce crème | Blé Ebly | Légume | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Poêlée de crevettes (VN) | au curry rouge | Riz | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-11">
+      <category name="Menu 1">
+        <meal>
+          <name>Emincé de boeuf Stroganoff | Pâtes | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Epaule de veau rôtie | Sauce balsamique | Pommes purée | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-12">
+      <category name="Menu 1">
+        <meal>
+          <name>Cheeseburger de boeuf | Pommes frites | Salade | Cheeseburger végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Poitrine de poulet | Sauce Voronoff | Pâtes | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-13">
+      <category name="Menu 1">
+        <meal>
+          <name>Cannelloni ricotta-épinards | Salade mêlée | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de perches frits (RUS) | Sauce tartare | Pommes vapeur | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-14">
+      <category name="Menu 1">
+        <meal>
+          <name>Demi-poulet du pays rôti | Pommes soufflées | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Civet de cerf (Europe) | Spätzli | Poire à Botzi
+Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
+</openmensa>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2021-10-08">
+      <category name="Menu 1">
+        <meal>
+          <name>Poulet Basquaise | Pâtes complètes | Salade de doucette</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Aumonière de lentilles et sérac | Blé | Courgettes grillées | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-11">
+      <category name="Menu 1">
+        <meal>
+          <name>Sauté de cuisse de poulet | à la tomate et au gingembre | Riz parfumé aux légumes | Salade aux pousses de soja</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Burger de lentilles | et haricots azuki | Fusilli complets | Haricots beurrés aux échalotes | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-12">
+      <category name="Menu 1">
+        <meal>
+          <name>Tortilla aux herbes | Coulis de légumes piquant | Légumes grillés | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Pavé de saumon (N) | aux épices cajun | Pommes nature | Salade de tomates au basilic</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-13">
+      <category name="Menu 1">
+        <meal>
+          <name>Spaghetti | Sauce Bolognaise | Grana Padano râpé | Salade mêlée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Escalope de tofu grillée | Sauce Dijonnaise | Polenta | Petits pois et carottes | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-14">
+      <category name="Menu 1">
+        <meal>
+          <name>Croûte aux délices des sous-bois | Salade de betteraves au vinaigre de pommes | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Epaule de veau aux herbes de Provence | Jus | Gratin Dauphinois | Courge glacée à la cannelle</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
+</openmensa>
