@@ -1,0 +1,32 @@
+{
+  "perolles": {
+    "name": "Fribourg, Mensa Pérolles",
+    "city": "Fribourg",
+    "latitude": 46.79390,
+    "longitude": 7.15773,
+    "address": "PER 20, Bd de Pérolles 95, 1700 Fribourg",
+    "phone": "+41 26 300 71 90",
+    "times": "Mo-Fr 11:00-13:30 Uhr",
+    "source": "Mensa Pérolles"
+  },
+  "misericorde": {
+    "name": "Fribourg, Mensa Miséricorde",
+    "city": "Fribourg",
+    "latitude": 46.80589,
+    "longitude": 7.15266,
+    "address": "MIS 07, Avenue de l'Europe 20, 1700 Fribourg",
+    "phone": "+41 26 300 71 80",
+    "times": "Mo-Fr 11:00-13:30 Uhr",
+    "source": "Mensa Miséricorde"
+  },
+  "reginamundi": {
+    "name": "Fribourg, Mensa Regina Mundi",
+    "city": "Fribourg",
+    "latitude": 46.79618,
+    "longitude": 7.15599,
+    "address": "RM 02, Rue P.-A. Faucigny, 1700 Fribourg",
+    "phone": "+41 26 300 71 88",
+    "times": "Mo-Fr 11:00-13:30 Uhr",
+    "source": "Mensa Regina Mundi"
+  }
+}
