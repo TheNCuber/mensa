@@ -3,6 +3,7 @@ Parsers for openmensa.org. The parsers runs in a [Github action](https://github.
 
 Parsers support:
 *   [University of Bern](https://www.gastro-unibern.ch/)
+*   [University of Fribourg](https://www.unifr.ch/mensa/)
 
 |  Feeds       |                                         Status                                                                                                                  |                     Cron                                                                                                                                      |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
