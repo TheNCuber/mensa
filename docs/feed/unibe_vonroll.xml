@@ -42,7 +42,7 @@
           <note>Allergene: Ei, Schalenfrüchte, Sellerie, Senf</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -150,8 +150,8 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Pouletflügeli | mit Pommes Frites | dazu gebratener Pak Choi</name>
-          <note>Allergene: Gluten, Fisch, Erdnuss, Soja, Sellerie, Senf, Sesam</note>
+          <name>Pouletflügeli | mit Pommes Frites</name>
+          <note>Allergene: Fisch</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
           <price role="student">11.90</price>

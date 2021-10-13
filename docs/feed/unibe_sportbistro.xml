@@ -54,7 +54,7 @@
       <category name="Daily Bowl">
         <meal>
           <name>Hörnli | Gebratener Pak Choi, Rosenkohl | Tomatensauce | Rinds Meatballs | Salbei, Reibkäse</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Sellerie, Senf, Sesam</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
