@@ -3,63 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-10-11">
-      <category name="Menu 1">
-        <meal>
-          <name>Chicken nuggets | Mayonnaise au curry | Pommes soufflées | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Emincé de boeuf Stroganoff | Pommes mousseline | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-12">
-      <category name="Menu 1">
-        <meal>
-          <name>Ravioli aux épinards | Sauces à choix | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Piccata de porc | Risotto aux bolets | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-13">
-      <category name="Menu 1">
-        <meal>
-          <name>Steak de poulet mariné | Jus clair | Baked potatoes | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Burger de cerf (Europe) | Sauce aux 3 poivres | Spätzli | Choux de Bruxelles
-Poire à Botzi</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-14">
-      <category name="Menu 1">
-        <meal>
-          <name>Rouleaux de printemps aux légumes | Riz basmati | Salade | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Entrecôte de boeuf grillée | Mousse au Café de Paris | Pommes rissolées | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-10-15">
       <category name="Menu 1">
         <meal>
@@ -70,6 +13,62 @@ Poire à Botzi</name>
       <category name="Menu 2">
         <meal>
           <name>Escalope de saumon (Féroé) | Sauce Maltaise | Tagliatelle | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-18">
+      <category name="Menu 1">
+        <meal>
+          <name>Meat balls | Sauce aux tomates séchées | Kernotto à l'épautre | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Cordon bleu de volaille | Pommes frites | Légumes</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-19">
+      <category name="Menu 1">
+        <meal>
+          <name>Spaghetti | Sauces à choix | Salade mêlée | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Filets de perches frits (RUS) | Sauce Tartare | Pommes vapeur | Légumes</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-20">
+      <category name="Menu 1">
+        <meal>
+          <name>Rôti de porc | Argovien | Pomme mousseline | Légumes</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Suprême de poulet | Jus à l'estragon | Risotto au parmesan | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-21">
+      <category name="Menu 1">
+        <meal>
+          <name>Vol-au-vent | ou Vol-au-vent *végé* | Pommes frites | Petits pois</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Magret de canard (F) | Sauce à l'orange | Gnocchis poêlés | Salade</name>
           <price role="other">9.00</price>
         </meal>
       </category>
