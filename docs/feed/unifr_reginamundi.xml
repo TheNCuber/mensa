@@ -32,16 +32,16 @@
       </category>
     </day>
     <day date="2021-10-20">
-      <category name="Menu chasse">
-        <meal>
-          <name>Entrecôte de cerf | Sauce Grand Veneur | Garniture chasse</name>
-          <price role="other">16.00</price>
-        </meal>
-      </category>
       <category name="Menu 1">
         <meal>
           <name>Tortelloni tricolore (fromage) | Salade mêlée</name>
           <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Entrecôte de cerf | Sauce Grand Veneur | Garniture chasse</name>
+          <price role="other">16.00</price>
         </meal>
       </category>
     </day>
@@ -62,11 +62,7 @@
     <day date="2021-10-22">
       <category name="Menu 1">
         <meal>
-          <name>Papet vaudois | Saucisse aux chouxou au foie</name>
-          <price role="other">7.50</price>
-        </meal>
-        <meal>
-          <name>Croûte aux champignons | Salade | Menu végétarien</name>
+          <name>Papet vaudois | Saucisse aux chouxou au foie | Croûte aux champignons, salade</name>
           <price role="other">7.50</price>
         </meal>
       </category>
