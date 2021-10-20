@@ -16,16 +16,16 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Panierte Scholle | Tartarsauce | Salzkartoffeln | Rahmspinat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Fisch: Nordwest Pazifik (Scholle)</note>
+          <name>Poulet-Cordonbleu | Tartarsauce | Salzkartoffeln | Rahmspinat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Pad Thai» | Reisnudeln | mit Sojasprossen &amp; Bundzwiebeln | dazu Pouletspiessli | mit Erdnusssauce</name>
+          <name>«Pad Thai» | Reisnudeln | mit Sojasprossen &amp; Bundzwiebeln | Poulet-Meatballs | mit Erdnusssauce</name>
           <note>Allergene: Gluten, Erdnuss, Soja, Sesam, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
