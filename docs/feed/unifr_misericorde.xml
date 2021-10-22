@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-10-18">
-      <category name="Menu 1">
-        <meal>
-          <name>Saucisse à rôtir de la Gruyère | Rösti | Haricots verts</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Escalope de choux-fleurs | Sauce à l'ail | Pâtes tricolore | Salade de fenouil | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-19">
-      <category name="Menu 1">
-        <meal>
-          <name>Penne | Sauce aux légumes et soja | Salade de doucette et croûtons | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Crevettes poêlées (VN) | Sauce curry vert | Riz sauvage | Brocoli à la vapeur</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-20">
-      <category name="Menu 1">
-        <meal>
-          <name>Ailerons de poulet suisse frits | Sauce BBQ Maison | Blé façon risotto | Tomates Provençales</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Dhal de lentilles à l'Indienne | Pommes à l'anglaise | Bol de choux chinois | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-21">
-      <category name="Menu 1">
-        <meal>
-          <name>Galette de courge | au poivre de Sichuan | Pommes sautées | Carottes Vichy | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Lasagne de boeuf | Batavia et julienne de carottes | à l'Italienne</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-10-22">
       <category name="Menu 1">
         <meal>
@@ -69,6 +13,62 @@
       <category name="Menu 2">
         <meal>
           <name>Coin de cerf à l'Anglaise (Europe) | Sauce au sureau et baies de genièvre | Spätzli | Choux de Bruxelles sautés</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-25">
+      <category name="Menu 1">
+        <meal>
+          <name>Escalope d'épinards et fromage | Jus au Madère | Quinoa | Salade de carottes | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Emincé de boeuf | au curry et poireau | Pâtes tricolore | Choux pommes persillés</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-26">
+      <category name="Menu 1">
+        <meal>
+          <name>Rôti de cou de porc de la Gruyère | au romarin | Pommes Mousseline | Haricots verts aux oignons rouges</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Galette Maison d'haricots noirs | Sauce Mexicaine | Riz complet aux légumes | Salade de chou blanc | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-27">
+      <category name="Menu 1">
+        <meal>
+          <name>Vol-au-vent aux champignons | Pommes frites | Salade de doucette | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Sauté de cerf (NZ) | au sureau | Linguine | Courge aux 4 épices</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-10-28">
+      <category name="Menu 1">
+        <meal>
+          <name>Oeuf au plat | Rösti aux oignons | Salade | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Faux filet de boeuf au grill | Sauce Béarnaise | Pâtes au beurre | Brocoli aux amandes</name>
           <price role="other">9.00</price>
         </meal>
       </category>
