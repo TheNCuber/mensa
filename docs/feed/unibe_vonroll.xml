@@ -18,7 +18,7 @@
       <category name="natürlich gut">
         <meal>
           <name>«Wurst-Gulasch» | mit Grillbratwurst | Peperoni, Zwiebeln | &amp; Butterkartoffeln</name>
-          <note>Allergene: Milch, Sulfit</note>
+          <note>Allergene: Soja, Milch, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein / Kalb)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
@@ -27,9 +27,9 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Spaghetti | mit Lachsstreifen | an Zitronen-Rahmsauce | mit Blattspinat, Tomaten | &amp; Reibkäse</name>
+          <name>Spaghetti | mit Crevetten-Spiess | an Zitronen-Rahmsauce | mit Blattspinat, Tomaten | &amp; Reibkäse</name>
           <note>Allergene: Gluten, Ei, Fisch, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Fisch: Nordostatlantik (Lachs)</note>
+          <note>Herkunft Fisch: Nordwest Pazifik</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
