@@ -70,7 +70,7 @@
     <day date="2021-10-27">
       <category name="natürlich vegi">
         <meal>
-          <name>«Penne Cinque P» | an Tomatenrahmsauce | mit Petersilie &amp; Reibkäse</name>
+          <name>«Spaghetti Cinque P» | an Tomatenrahmsauce | mit Petersilie &amp; Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -81,7 +81,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsbraten | an Senfsauce | mit Kartoffelstock | &amp; Wirz</name>
+          <name>Wurst-Gulasch | mit Peperoni &amp; Zwiebeln | mit Kartoffelstock | &amp; Wirz</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
@@ -93,7 +93,6 @@
           <name>Gelbes Kichererbsencurry | mit Wokgemüse, Koriander | dazu Poulet-Satay-Spiess | &amp; Jasminreis</name>
           <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf</note>
           <note>Herkunft Flesich Schweiz (Poulet)</note>
-          <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">10.90</price>
         </meal>
