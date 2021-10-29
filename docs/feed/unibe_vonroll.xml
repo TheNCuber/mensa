@@ -101,10 +101,9 @@
     <day date="2021-10-28">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse an süss-sauer Sauce | mit Basmatireis</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <name>Tortellini mit Spinat und Ricotta | an Tomatensauce | mit Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Weizen</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
