@@ -3,11 +3,102 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-10-25">
+    <day date="2021-11-01">
       <category name="natürlich vegi">
         <meal>
-          <name>Chili sin Carne | mit Tofu, Mais, Bohnen | &amp; Vitaminreis</name>
-          <note>Allergene: Soja</note>
+          <name>Tortellini mit | Spinat-Ricottafüllung | an Kürbisrahmsauce | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Schweinsgeschnetzeltes «Berner Art» | mit Speck, Pilzen, Zwiebeln | &amp; Eierspätzli</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Rindsburger | mit Cheddarkäse, Speck | BBQ Sauce, Zwiebeln | Tomaten, &amp; Eisbergsalat | im Bun-Brötli | mit Pommes Frites</name>
+          <note>Allergene: Gluten, Ei, Fisch, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind/Speck)</note>
+          <price role="other">15.90</price>
+          <price role="student">13.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-02">
+      <category name="natürlich vegi">
+        <meal>
+          <name>vonRolls rotes Curry | mit Tofu, Wokgemüse | Jasminreis | &amp; Erdnüssen</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Schalenfrüchte, Lupinen</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Poulethackbraten mit Greyerzer | an Kürbissauce | mit Hörnli | &amp; Erbsen</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Flesich: Schweiz (Poulet)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>«Fish &amp; Chips» | Dorschfilet im Backteig | mit Wedges | &amp; Tartarsauce</name>
+          <note>Allergene: Gluten, Ei, Fisch</note>
+          <note>Herkunft Fisch: Nordwest Pazifik (Dorsch)</note>
+          <price role="other">15.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-03">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Gemüse-Lasagne | mit Reibkäse überbacken</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Rindsgeschnetzeltes | mit Rüebli und Silberzwiebeln | dazu Gnocchi</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Falafel | auf gelben Gemüse-Curry | dazu Couscous | mit Zitronen und Limettenblätter</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">15.90</price>
+          <price role="student">10.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-04">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Paella | mit Peperoni, Fenchel | Erbsen, Bohnen | &amp; Oliven</name>
+          <note>Allergene: Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -17,9 +108,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>«Wurst-Gulasch» | mit Grillbratwurst | Peperoni, Zwiebeln | &amp; Butterkartoffeln</name>
-          <note>Allergene: Soja, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein / Kalb)</note>
+          <name>Grillbratwurst | an Zwiebelsauce | mit Bratkartoffel | &amp; Broccoli</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -27,136 +118,41 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Spaghetti | mit Crevetten-Spiess | an Zitronen-Rahmsauce | mit Blattspinat, Tomaten | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Fisch, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Fisch: Nordwest Pazifik</note>
+          <name>Steinpilz Tortelli | an Rahmsauce | mit Kürbiswürfel, Rucola | und Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2021-10-26">
+    <day date="2021-11-05">
       <category name="natürlich vegi">
         <meal>
-          <name>Pizokel | mit Gemüse | an Pilzrahmsauce | mit Schnittlauch &amp; Reibkäse</name>
+          <name>Kartoffel-Lauch-Gratin | mit Gemüsejulienne garniert</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Schweinsragout | an Kräutercremesauce | mit Vitaminreis | dazu grüne Bohnen</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="natürlich gut">
+      <category name="voll anders">
         <meal>
-          <name>Nasi Goreng | mit gebratenem Poulet | Reis, Wokgemüse | &amp; Sweet-Chili-Sauce</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sesam, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Poulet Cordon-Bleu | mit Pommes Frites | &amp; Karotten</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Schweinsgeschnetzeltes | an Salbeirahmsauce | mit Eierspätzli | &amp; gedünsteten Mangold</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">15.90</price>
-          <price role="student">11.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-27">
-      <category name="natürlich vegi">
-        <meal>
-          <name>«Spaghetti Cinque P» | an Tomatenrahmsauce | mit Petersilie &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Wurst-Gulasch | mit Peperoni &amp; Zwiebeln | mit Kartoffelstock | &amp; Wirz</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Gelbes Kichererbsencurry | mit Wokgemüse, Koriander | dazu Poulet-Satay-Spiess | &amp; Jasminreis</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf</note>
-          <note>Herkunft Flesich Schweiz (Poulet)</note>
-          <price role="other">15.90</price>
-          <price role="student">10.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-28">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Tortellini mit Spinat und Ricotta | an Tomatensauce | mit Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Weizen</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Spaghetti | mit Rindfleisch-Bolognese | Rucola &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Gemüse Tajine | mit sautierten Tofuwürfel | &amp; Zitronen-Couscous</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit</note>
-          <note>Vegan</note>
-          <price role="other">15.90</price>
-          <price role="student">11.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-29">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Walliser Rösti | mit Tomaten | &amp; Raclettekäse überbacken</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Rindsragout | mit Wurzelgemüse | &amp; Spiralen-Teigwaren</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Paniertes Gemüseschnitzel | mit Kräuter-Mayonnaise | Salzkartoffeln | &amp; Blumenkohl</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">15.90</price>
-          <price role="student">11.90</price>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>

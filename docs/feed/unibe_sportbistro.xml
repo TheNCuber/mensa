@@ -3,59 +3,59 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-10-25">
+    <day date="2021-11-01">
       <category name="Daily Bowl">
         <meal>
-          <name>Vitaminreis, Red Kidney Bohnen | Peperoni, Mais | Tofuwürfel Tandoori | Tomaten-Erdbeerdressing | Thai-Basilikum</name>
-          <note>Allergene: Soja, Schalenfrüchte, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Tortellini Ricotta Spinat | gedünstete Pilze | Romanesco | Rucola, Cherrytomaten mit Pesto | mit Kürbisrahmsauce, Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Weizen</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-02">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Jasminreis | Tofu mit Sojasauce mariniert | geröstetes Wokgemüse | Erbsen | Erdnüsse | Rote-Currysauce | Thai Basilikum</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie, Senf, Sesam</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2021-10-26">
+    <day date="2021-11-03">
       <category name="Daily Bowl">
         <meal>
-          <name>Blumenkohl-Gnocchi | Geröstetes Wokgemüse | Pfälzerrübenstreifen, Broccoli | Pouletstreifen | Pilzrahmsauce, Feta</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Sulfit</note>
+          <name>Gnocchi | Karottenscheiben, Silberzwiebeln | Broccoli, Tomatensauce | Poulet Meatballs | Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-10-27">
+    <day date="2021-11-04">
       <category name="Daily Bowl">
         <meal>
-          <name>Penne | Blumenkohl, Wirz | Rinds Meatballs | Tomatensauce | Reibkäse, Petersilie</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Bratkartoffeln | Blumenkohl, Erbsen | Peperoni | Grillbratwurst-Räder | Zwiebelsauce &amp; Rosmarin</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-10-28">
+    <day date="2021-11-05">
       <category name="Daily Bowl">
         <meal>
-          <name>Basmatireis | Kichererbsen | Mischgemüse, Chinakohl | Süsskartoffel-Falafel | Sweet Chili Dip, Koriander</name>
-          <note>Allergene: Sulfit</note>
+          <name>Vitaminreis | Kichererbsen | grüne Bohnen, Gemüsejulienne | Eiersalat | Quark Dip mit Curry, Schnittlauch</name>
+          <note>Allergene: Ei, Milch, Sulfit</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-10-29">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Spiralen-Teigwaren | Wurzelgemüse | Blumenkohl, Kürbiswürfel | Schinkenstreifen | Basilikumpesto, Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
