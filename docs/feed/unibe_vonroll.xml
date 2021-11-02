@@ -6,8 +6,9 @@
     <day date="2021-11-01">
       <category name="natürlich vegi">
         <meal>
-          <name>Tortellini mit | Spinat-Ricottafüllung | an Kürbisrahmsauce | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <name>Vegetarisches Schnitzel | mit Soja-Dip | Couscous | &amp; Broccoli</name>
+          <note>Allergene: Gluten, Ei, Soja, Sellerie, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,7 +16,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes «Berner Art» | mit Speck, Pilzen, Zwiebeln | &amp; Eierspätzli</name>
+          <name>Schweinsgeschnetzeltes | «Berner Art» | mit Speck, Pilzen, Zwiebeln | &amp; Spiralen</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
@@ -24,9 +25,9 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Rindsburger | mit Cheddarkäse, Speck | BBQ Sauce, Zwiebeln | Tomaten, &amp; Eisbergsalat | im Bun-Brötli | mit Pommes Frites</name>
+          <name>Rindsburger mit Cheddarkäse | Speck, BBQ-Sauce, Zwiebeln | Tomaten, &amp; Eisbergsalat | mit Pommes frites</name>
           <note>Allergene: Gluten, Ei, Fisch, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind/Speck)</note>
+          <note>Herkunft Fleisch: Schweiz (Rind/Schwein)</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
