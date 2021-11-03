@@ -57,7 +57,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Sparerips mit Barbecue Marinade | Bohnen-Cassoulet mit Mais und Kartoffel | Menüsalat</name>
+          <name>Sparerips mit BBQ-Marinade | Bohnen-Mais-Cassoulet und Kartoffel | Menüsalat</name>
           <note>Allergene: Soja, Sellerie</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.90</price>
@@ -78,11 +78,20 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Pouletschenkel | Rotweinsauce | Rosenkohl und | Kartoffel Kroketten | Menüsalat</name>
+          <name>Pouletschenkelsteak | Rotweinsauce | Rosenkohl und | Kartoffel Kroketten | Menüsalat</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Sparerips mit BBQ-Marinade | Bohnen-Mais-Cassoulet und Kartoffel | Menüsalat</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.90</price>
+          <price role="student">13.90</price>
         </meal>
       </category>
     </day>
@@ -109,7 +118,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Sparerips mit Barbecue Marinade | Bohnen-Cassoulet mit Mais und Kartoffel | Menüsalat</name>
+          <name>Sparerips mit BBQ-Marinade | Bohnen-Mais-Cassoulet und Kartoffel | Menüsalat</name>
           <note>Allergene: Soja, Sellerie</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.90</price>

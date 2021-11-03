@@ -17,7 +17,7 @@
     <day date="2021-11-02">
       <category name="Daily Bowl">
         <meal>
-          <name>Jasminreis | Tofu mit Sojasauce mariniert | geröstetes Wokgemüse | Erbsen | Erdnüsse | Rote-Currysauce | Thai Basilikum</name>
+          <name>Jasminreis | geröstetes Wokgemüse, Erbsen | Tofu mit Sojasauce mariniert | Rote-Currysauce</name>
           <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie, Senf, Sesam</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -28,7 +28,7 @@
     <day date="2021-11-03">
       <category name="Daily Bowl">
         <meal>
-          <name>Gnocchi | Karottenscheiben, Silberzwiebeln | Broccoli, Tomatensauce | Poulet Meatballs | Reibkäse</name>
+          <name>Gnocchi | Karotten, Silberzwiebeln | Broccoli, Tomatensauce | Poulet Meatballs</name>
           <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
@@ -39,7 +39,7 @@
     <day date="2021-11-04">
       <category name="Daily Bowl">
         <meal>
-          <name>Bratkartoffeln | Blumenkohl, Erbsen | Peperoni | Grillbratwurst-Räder | Zwiebelsauce &amp; Rosmarin</name>
+          <name>Bratkartoffeln | Blumenkohl, Erbsen, Peperoni | Zwiebelsauce | gebratene Wurstscheiben</name>
           <note>Allergene: Gluten, Milch, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -51,7 +51,7 @@
     <day date="2021-11-05">
       <category name="Daily Bowl">
         <meal>
-          <name>Vitaminreis | Kichererbsen | grüne Bohnen, Gemüsejulienne | Eiersalat | Quark Dip mit Curry, Schnittlauch</name>
+          <name>Vitaminreis | Kichererbsen, Mischgemüse | grüne Bohnen, Eier | Quark Dip mit Curry, Schnittlauch</name>
           <note>Allergene: Ei, Milch, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
