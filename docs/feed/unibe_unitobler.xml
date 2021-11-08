@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-01">
+    <day date="2021-11-08">
       <category name="natürlich vegi">
         <meal>
-          <name>Randen Falafel mit | Gurkenjoghurt mit Minze und | Reis mit Wurzelgemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Milch</note>
+          <name>Green Mountain Balls | Zwetschgensauce | Herbstgemüse und Kartoffelstock | Menüsalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,9 +16,8 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Schweinsgeschnetzeltes Gyros | Gurkenjoghurt mit Minze | Reis mit Wurzelgemüse | Menüsalat</name>
-          <note>Allergene: Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Schweinsbraten | Zwetschgensauce | Herbstgemüse und Kartoffelstock | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -26,20 +25,20 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Sparerips mit Barbecue Marinade | Bohnen-Cassoulet mit Mais und Kartoffel | Menüsalat</name>
+          <name>Misosuppe mit Udonnudeln, Ei | Asiatischemgemüse und Seidentofu</name>
           <note>Allergene: Soja, Sellerie</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.90</price>
-          <price role="student">13.90</price>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2021-11-02">
+    <day date="2021-11-09">
       <category name="natürlich vegi">
         <meal>
-          <name>Soja Ghackets mit | Hörnli und | Hausgemachten Apfelmus | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Tortellini mit Spinat und Ricotta | Ratatouille und | Tomaten-Basilikumsauce | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -47,59 +46,29 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Ghackets mit | Hörnli und | Hausgemachten Apfelmus | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <name>Tortellini mit Rindfleisch | Ratatouille und | Tomaten-Basilikumsauce | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Herkunft Rind: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Sparerips mit BBQ-Marinade | Bohnen-Mais-Cassoulet und Kartoffel | Menüsalat</name>
+          <name>Misosuppe mit Udonnudeln, Ei | Asiatischemgemüse und Seidentofu</name>
           <note>Allergene: Soja, Sellerie</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.90</price>
-          <price role="student">13.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-03">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Herbstliche Gnocchipfanne | mit Feigen, Rotkohl und Haselnnüssen | Menüsalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Sulfit, Weizen, Hasel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Pouletschenkelsteak | Rotweinsauce | Rosenkohl und | Kartoffel Kroketten | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Sparerips mit BBQ-Marinade | Bohnen-Mais-Cassoulet und Kartoffel | Menüsalat</name>
-          <note>Allergene: Soja, Sellerie</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.90</price>
-          <price role="student">13.90</price>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2021-11-04">
+    <day date="2021-11-10">
       <category name="natürlich vegi">
         <meal>
-          <name>Auberginen Piccata mit | Peperonata Gemüse und | Cremiger Polenta | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie</note>
+          <name>Paniertes Gemüse Schnitzel | Paprikasauce | Glacierte Karotten | Maisgnocchi | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -108,29 +77,57 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Truten Brust Piccata mit | Peperonata Gemüse und | Cremiger Polenta | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Trutthahn: Schweiz</note>
+          <name>Rinds Fleischvogel | Paprikasauce | Glacierte Karotten | Maisgnocchi | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Sparerips mit BBQ-Marinade | Bohnen-Mais-Cassoulet und Kartoffel | Menüsalat</name>
+          <name>Misosuppe mit Udonnudeln, Ei | Asiatischemgemüse und Seidentofu</name>
           <note>Allergene: Soja, Sellerie</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.90</price>
-          <price role="student">13.90</price>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2021-11-05">
+    <day date="2021-11-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Oceansticks | Zitronen-Mayonnaise mit | Rahmspinat und | Salzkartoffeln | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Weizen</note>
+          <name>Gemüse Tajine mit Kichererbsen | Auberginen, Karotten und | Couscous | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Poulet Tajine mit Kichererbsen | Auberginen, Karotten und | Couscous | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Misosuppe mit Udonnudeln, Ei | Asiatischemgemüse und Seidentofu</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-12">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Onion Cuts mit | Weissweinsauce | Kürbisgemüse Thymian und | Schupfnudeln | Menüsalat</name>
+          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -138,8 +135,8 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Fischknusperli Portion mit | Zitronen-Mayonnaise | Rahmspinat und | Salzkartoffeln | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf, Weizen</note>
+          <name>Schlemmerfilet Bordelaise mit | Weissweinsauce | Kürbisgemüse Thymian und | Schupfnudeln</name>
+          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Herkunft Fisch: Atlantik und Pazifik</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
