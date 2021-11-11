@@ -67,9 +67,8 @@
     <day date="2021-11-10">
       <category name="natürlich vegi">
         <meal>
-          <name>Asiatische Reis-Tofupfanne | Wokgemüse, Sojasprossen | gerösteten Cashew Nüssen | &amp; Sweet Chili Dip</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Sesam</note>
-          <note>Genuss in Balance</note>
+          <name>Falafel | mit Couscous | &amp; Soja-Dip</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -77,9 +76,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Cannelloni | mit Rindfleischfüllung | an Tomaten-Basilikumsauce | mit Käse überbacken</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Asiatische Reis-Pouletpfanne | Wokgemüse, Sojasprossen | gerösteten Cashew Nüssen | &amp; Sweet Chili Dip</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
