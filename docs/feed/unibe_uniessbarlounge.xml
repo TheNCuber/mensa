@@ -3,33 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-08">
+    <day date="2021-11-15">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>Penne Cinque Pi | mit Schinkenwürfeli | an Tomaten- Rahmsauce | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>Veganes Masaman Thai Curry | mit Gemüse und Kartoffeln | Basmatireis | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-09">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>«Viva Mexico» | Rassiges Chili Con Carne | mit Kartoffeln, Gemüse, Bohnen und Sauerrahm | knuspriges Kräuter-Baguette | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit, Weizen</note>
+          <name>Japanisches Sukiyaki | Nudeln mit Rindfleisch und Gemüse | an Sojasauce | Menusalat</name>
+          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
           <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -37,8 +15,9 @@
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>Gemüse-Pilz Stroganoff | Vegane Gnocchi | Menusalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <name>Indisches Linsen Dal | mit Kokosmilch, Gemüse und Kartoffeln | Naan Brot | Menusalat</name>
+          <note>Allergene: Gluten, Sellerie, Weizen</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -46,11 +25,11 @@
         </meal>
       </category>
     </day>
-    <day date="2021-11-10">
+    <day date="2021-11-16">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>Schweinshalsbraten aus dem Ofen | Zitronenthymian Jus | Butternudeln | Tagesgemüse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <name>Schweinsgeschnetzeltes Tessiner Art | Polenta | grüne Bohnen | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -58,8 +37,29 @@
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>Kürbis Gersotto | mit Baumnüsse | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sulfit</note>
+          <name>Tomaten- Zitronenrisotto | mit Pilzen und Rosmarin | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-17">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Chicken Tikka Masala | Basmatireis | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Geflügel: Poulet, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>Kürbis Falafel Burger | Kartoffel-Gemüsepfanne | Safran- Knoblauchjoghurt | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -67,22 +67,21 @@
         </meal>
       </category>
     </day>
-    <day date="2021-11-11">
+    <day date="2021-11-18">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>Trutenragout Garam Masala | Basmatireis | Menusalat</name>
-          <note>Allergene: Soja, Schalenfrüchte, Sulfit</note>
+          <name>Wildhackbraten | Champignonrahmsauce | Kartoffelstock | Rotkraut | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Sesam</note>
           <note>Genuss in Balance</note>
-          <note>Herkunft Geflügel: Truthan, Ungarn</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <note>Herkunft Fleisch: Hirsch, Rind, Schwein,  Schweiz/ EU</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>Spaghetti aglio olio e peperoncino | mit Cherry Tomaten, Basilikum und Rucola | Menusalat</name>
-          <note>Allergene: Gluten, Ei</note>
+          <name>African- Gemüsecurry | mit Süsskartoffeln und Okra | Couscous | Menüsalat</name>
+          <note>Allergene: Gluten</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -90,20 +89,20 @@
         </meal>
       </category>
     </day>
-    <day date="2021-11-12">
+    <day date="2021-11-19">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>Schlemmerfilet Italiano | Salzkartoffeln | Blattspinat mit Zwiebeln | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sellerie</note>
-          <note>Herkunft Fisch: MSC Alaska-Seelachs, Deutschland</note>
+          <name>Tortellini con carne | Tomaten-Basilikumsauce | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>Vegane Lasagne | mit Gemüse und Soja | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
+          <name>«Laksa Ayam» | Indonesische Suppe mit Nudeln, Gemüse, Shiitake, Kokosmilch und Tofu | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
