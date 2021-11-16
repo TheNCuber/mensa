@@ -7,7 +7,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Rotes Thai Curry | mit Shiitake-Pilze | Gemüse, Sojasprossen | &amp; Basmatireis</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -25,9 +25,8 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Walnuss-Cheddar Burger | mit BBQ Sauce | Zwiebelchutney, Peperoncini | im Bun-Brötli | dazu Pommes Frites</name>
-          <note>Allergene: Gluten, Sesam</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Walnuss-Cheddar Burger | mit BBQ Sauce | Zwiebelchutney, Peperoncini | im Bun-Brötli | mit Pommes-Frites</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Milch, Schalenfrüchte, Senf, Sesam, Sulfit, Lupinen</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
@@ -38,7 +37,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Gnocchipfanne | mit Salbei, Gemüsewürfel | &amp; Haselnüsse</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Sulfit</note>
+          <note>Allergene: Gluten, Schalenfrüchte, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
