@@ -3,63 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-15">
-      <category name="Menu 1">
-        <meal>
-          <name>Spaghetti | Sauce tomates et basilic | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Hamburger de boeuf | Sauce au poivre vert | Pommes rissolées | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-16">
-      <category name="Menu 1">
-        <meal>
-          <name>Chicken nuggets | Mayonnaise au curry | Pommes frites | Légume | Chicken végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Escalope de porc | aux champignons | Pâtes en forme de riz | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-17">
-      <category name="Menu 1">
-        <meal>
-          <name>Sauté de porc | aux tomates séchées | Polenta | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Steak de cheval (E) | Sauce à l'ail | Gratin Dauphinois | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-18">
-      <category name="Menu 1">
-        <meal>
-          <name>Rouleaux de printemps | Sauce aigre douce | Riz parfumé | Salade | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Emincé de cerf (NZ) minute | Spätzli | Choux-rouges
-Poire à Botzi</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-11-19">
       <category name="Menu 1">
         <meal>
@@ -70,6 +13,62 @@ Poire à Botzi</name>
       <category name="Menu 2">
         <meal>
           <name>Filet de sandre (RUS) en pâte à frire | Sauce Tartare | Pommes vapeur | Epinards en branches</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-22">
+      <category name="Menu 1">
+        <meal>
+          <name>Sauté de boeuf aux olives | Pommes mousseline | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Poulet &quot;crouspy&quot; | Sauce cocktail piquante | Pommes frites | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-23">
+      <category name="Menu 1">
+        <meal>
+          <name>Falafel | Couscous aux légumes orientaux | Salade | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Cordon-bleu de porc au Gruyère | Pommes carrées | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-24">
+      <category name="Menu 1">
+        <meal>
+          <name>Nasi Goreng | Salade mêlée | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Escalope de poulet marinée | Sauce au citron | Nouilles | Tomate aux herbes</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-25">
+      <category name="Menu 1">
+        <meal>
+          <name>Penne | Sauce bolognaise végétarienne | Salade mêlée | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Tranches de porc à l'ail noir | Risotto | Légume</name>
           <price role="other">9.00</price>
         </meal>
       </category>

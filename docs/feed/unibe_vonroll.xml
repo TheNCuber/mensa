@@ -118,7 +118,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Gemüsebällchen | auf Massaman Currysauce | mit Jasminreis | &amp; geröstetem Pak Choi</name>
+          <name>Gemüsebällchen | auf Massaman Currysauce | mit Vitaminreis | &amp; geröstetem Pak Choi</name>
           <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -130,7 +130,7 @@
     <day date="2021-11-19">
       <category name="natürlich vegi">
         <meal>
-          <name>Falafel | mit orientalischem Gemüsecouscous | &amp; Kräuterjoghurt</name>
+          <name>Falafel | Gemüse-Penne-Pfanne | &amp; Kräuterjoghurt</name>
           <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -149,7 +149,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Fischknusperli | mit Tartarsauce | &amp; Kartoffel-Wedges</name>
+          <name>Fischknusperli | mit Tartarsauce | &amp; Bratkartoffeln</name>
           <note>Allergene: Gluten, Ei, Fisch, Senf, Sulfit</note>
           <note>Herkunft Fisch: Nordwest-Atlantik (Dorsch)</note>
           <price role="other">15.90</price>
