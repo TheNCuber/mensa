@@ -3,20 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-19">
-      <category name="Menu 1">
-        <meal>
-          <name>Bami Goreng | Oeuf au plat | Salade mêlée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Filet de sandre (RUS) en pâte à frire | Sauce Tartare | Pommes vapeur | Epinards en branches</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-11-22">
       <category name="Menu 1">
         <meal>
@@ -69,6 +55,20 @@
       <category name="Menu 2">
         <meal>
           <name>Tranches de porc à l'ail noir | Risotto | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-26">
+      <category name="Menu 1">
+        <meal>
+          <name>Ailerons de poulet (DK) | Sauce barbecue | Country fries | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de plie poché (mer baltique) | Sauce au beurre blanc | Riz aux petits légumes | Lentilles béluga</name>
           <price role="other">9.00</price>
         </meal>
       </category>
