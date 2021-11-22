@@ -3,33 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-15">
+    <day date="2021-11-22">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>Japanisches Sukiyaki | Nudeln mit Rindfleisch und Gemüse | an Sojasauce | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
-          <note>Herkunft Fleisch: Rind, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>Indisches Linsen Dal | mit Kokosmilch, Gemüse und Kartoffeln | Naan Brot | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie, Weizen</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-16">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Schweinsgeschnetzeltes Tessiner Art | Polenta | grüne Bohnen | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <name>«Zwiebelemärit» | Schweins Bratwurst | mit Zwiebelsauce | Rösti | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -37,51 +15,9 @@
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>Tomaten- Zitronenrisotto | mit Pilzen und Rosmarin | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-17">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Chicken Tikka Masala | Basmatireis | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Geflügel: Poulet, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>Kürbis Falafel Burger | Kartoffel-Gemüsepfanne | Safran- Knoblauchjoghurt | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Weizen</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-18">
-      <category name="Warmes Schüsselgericht">
-        <meal>
-          <name>Wildhackbraten | Champignonrahmsauce | Kartoffelstock | Rotkraut | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Sesam</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Hirsch, Rind, Schwein,  Schweiz/ EU</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Veganes Schüsselgericht">
-        <meal>
-          <name>African- Gemüsecurry | mit Süsskartoffeln und Okra | Couscous | Menüsalat</name>
+          <name>Penne alla Putanesca | Kapern, Oliven, getrocknete Tomaten | auf Wunsch mit Grana Padano | Menusalat</name>
           <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -89,11 +25,11 @@
         </meal>
       </category>
     </day>
-    <day date="2021-11-19">
+    <day date="2021-11-23">
       <category name="Warmes Schüsselgericht">
         <meal>
-          <name>Tortellini con carne | Tomaten-Basilikumsauce | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <name>«Red Thaicurry » | mit Rindfleisch | grünen Bohnen und Cherrytomaten | Basmatireis | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
           <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -101,8 +37,74 @@
       </category>
       <category name="Veganes Schüsselgericht">
         <meal>
-          <name>«Laksa Ayam» | Indonesische Suppe mit Nudeln, Gemüse, Shiitake, Kokosmilch und Tofu | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch</note>
+          <name>Chili sin Carne mit Linsen | Brot Chips | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-24">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Hirschpfeffer Jäger Art | Spätzli | Rosenkohl | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Hirsch, EU</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>Marokkanische Tajine | mit Kichererbsen und Gemüse | Perlen- Couscous | Menusalat</name>
+          <note>Allergene: Gluten, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-25">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>«VegVeg Tag» | Oberländer-Käse-Makkaroni | mit Bergkäse, Röstzwiebeln, Apfelmus | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>«VegVeg Tag» | Kokos Curry mit planted Streifen | Spinat und Tomaten | Sesamreis | Menusalat</name>
+          <note>Allergene: Gluten, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-26">
+      <category name="Warmes Schüsselgericht">
+        <meal>
+          <name>Chicken Nuggets | Cocktail Sauce | Kartoffel Wedges | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Sellerie, Senf</note>
+          <note>Herkunft Geflügel: Poulet, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Veganes Schüsselgericht">
+        <meal>
+          <name>Orecchiette alla Mediterranea | mit Olivenöl, Basilikum, Knoblauch, Peperoncino, Tomaten und frischer Rucola | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>

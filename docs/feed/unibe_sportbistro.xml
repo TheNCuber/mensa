@@ -3,58 +3,58 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-15">
+    <day date="2021-11-22">
       <category name="Daily Bowl">
         <meal>
-          <name>Basmatireis | geröstete Auberginen | Wokgemüse, Karotten | Rote Currysauce | Poulet Meatballs, Soja-Spross</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sesam</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Spinat-Ricotta Tortelloni | Broccoli, Gemüsestreifen | Tomatensauce | Petersilie, Tomatenstreifen</name>
+          <note>Allergene: Gluten, Fisch, Milch, Sellerie</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-23">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Quinoa, Kichererbsen | Broccoli, Edamame | Hüttenkäse | Soja-Dip, Mandeln</name>
+          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-24">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Salzkartoffeln | Peperonistreifen | geröstete Auberginen | Karotten, Feta, Oliven</name>
+          <note>Allergene: Fisch, Milch, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-25">
+      <category name="Daily Bowl">
+        <meal>
+          <name>«VegVeg-Tag» | Jasminreis | Wokgemüse, Blumenkohl | Soja-Sprossen, Tofu | Gelbe Currysauce, Koriander</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-26">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Kartoffelwürfel | Kidney Bohnen, Mais | Gerösteter Kürbis, Gemüse | Fleischkäse, Thymiansauce</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-16">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Gnocchi | Gemüsewürfel, Broccoli | Tomatensauce | Quorn Geschnetzeltes | Haselnüssen, Salbei</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Schalenfrüchte, Sellerie, Sulfit</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-17">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Eierspätzli | Rosenkohl, Rotkraut gekocht | Schweinsbratenwürfel | Rosmarinsauce | Röstzwiebeln, Schnittlauch</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-18">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Penne | Blumenkohl, Erbsen | Tomatenrahmsauce | Tofu Bratwursträder | Reibkäse, Petersilie</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-19">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Orientalisches Couscous | Kräuter-Joghurt, Peperonistreifen | Tomatenwürfel, Gurkenwürfel | Falafel | Zwiebel-Sprossen</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
