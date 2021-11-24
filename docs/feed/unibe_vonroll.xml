@@ -35,8 +35,8 @@
     <day date="2021-11-23">
       <category name="natürlich vegi">
         <meal>
-          <name>Powerfood-Pfanne | mit Quinoa, Broccoli | Kichererbsen, Mandeln | &amp; Sojadip | Allergen Sellerie</name>
-          <note>Allergene: Erdnuss, Soja, Schalenfrüchte, Sellerie</note>
+          <name>Powerfood-Pfanne | mit Quinoa, Broccoli | Kichererbsen, Mandeln | &amp; Sojadip</name>
+          <note>Allergene: Erdnuss, Soja, Schalenfrüchte</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -46,16 +46,15 @@
         <meal>
           <name>Fleischvogel mit seiner Sauce | dazu Eierspätzli | &amp; grüne Bohnen</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Herkunft Fleisch: Schweiz (Rind, Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Gedämpfte Gemüse-Momos | Soja-Knoblauch Sauce | auf geröstetem Wokgemüse</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit</note>
-          <note>Vegetarisch</note>
+          <name>Gedämpfte Gemüse-Momos | Soja-Knoblauch Sauce | auf Peperoniröstgemüse</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit, Weichtiere</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
