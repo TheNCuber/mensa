@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-22">
-      <category name="Menu 1">
-        <meal>
-          <name>Sauté de boeuf aux olives | Pommes mousseline | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Poulet &quot;crouspy&quot; | Sauce cocktail piquante | Pommes frites | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-23">
-      <category name="Menu 1">
-        <meal>
-          <name>Falafel | Couscous aux légumes orientaux | Salade | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Cordon-bleu de porc au Gruyère | Pommes carrées | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-24">
-      <category name="Menu 1">
-        <meal>
-          <name>Nasi Goreng | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Escalope de poulet marinée | Sauce au citron | Nouilles | Tomate aux herbes</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-25">
-      <category name="Menu 1">
-        <meal>
-          <name>Penne | Sauce bolognaise végétarienne | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Tranches de porc à l'ail noir | Risotto | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-11-26">
       <category name="Menu 1">
         <meal>
@@ -69,6 +13,62 @@
       <category name="Menu 2">
         <meal>
           <name>Filet de plie poché (mer baltique) | Sauce au beurre blanc | Riz aux petits légumes | Lentilles béluga</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-29">
+      <category name="Menu 1">
+        <meal>
+          <name>Riz Casimir | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Jambon au miel | Gratin Dauphinois | Haricots verts</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-30">
+      <category name="Menu 1">
+        <meal>
+          <name>Brochette de boeuf | Sauce peperonata | Pommes frites | Légume | Brochette végétarienne</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Tagliatelle au saumon fumé (N) Maison | Salade mêlée</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-01">
+      <category name="Menu 1">
+        <meal>
+          <name>Lasagne Maison | Salade mêlée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Escalope de dinde (Europe) panée | Pommes rissolées au romarin | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-02">
+      <category name="Menu 1">
+        <meal>
+          <name>Emincé de boeuf Stroganoff | Blé pourpre | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Potée de chou frisé | Carré de porc fumé | Pommes vapeur | Saucisse végane</name>
           <price role="other">9.00</price>
         </meal>
       </category>
