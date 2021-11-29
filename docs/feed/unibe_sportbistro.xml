@@ -3,58 +3,58 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-22">
+    <day date="2021-11-29">
       <category name="Daily Bowl">
         <meal>
-          <name>Spinat-Ricotta Tortelloni | Broccoli, Gemüsestreifen | Tomatensauce | Petersilie, Tomatenstreifen</name>
-          <note>Allergene: Gluten, Fisch, Milch, Sellerie</note>
+          <name>Couscous | Thai Gemüse, Sojasprossen | Sautierte Quornstreifen | Tikka Masala Sauce</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2021-11-23">
+    <day date="2021-11-30">
       <category name="Daily Bowl">
         <meal>
-          <name>Quinoa, Kichererbsen | Broccoli, Edamame | Hüttenkäse | Soja-Dip, Mandeln</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sesam</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-24">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Salzkartoffeln | Peperonistreifen | geröstete Auberginen | Karotten, Feta, Oliven</name>
-          <note>Allergene: Fisch, Milch, Sulfit</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-25">
-      <category name="Daily Bowl">
-        <meal>
-          <name>«VegVeg-Tag» | Jasminreis | Wokgemüse, Blumenkohl | Soja-Sprossen, Tofu | Gelbe Currysauce, Koriander</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-26">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Kartoffelwürfel | Kidney Bohnen, Mais | Gerösteter Kürbis, Gemüse | Fleischkäse, Thymiansauce</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
+          <name>Safranreis | Peperonistreifen, Fenchel | Erbsen, Zucchetti | Poulet-Geschnetzeltes | Tomatensauce</name>
+          <note>Allergene: Gluten, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-01">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Spaghetti | Cherrytomaten, Broccoli | Gorgonzola Sauce | Baumnüsse</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Milch, Schalenfrüchte</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-02">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Salzkartoffeln, Grüne Linsen | Wurzelgemüse, Currysauce | Sautierter Räuchertofu | Labneh, Koriander</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-03">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Vitaminreis | Wokgemüse, Romanesco | Auberginen, Frühlingsrolle | Sweet Chili Dip</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>

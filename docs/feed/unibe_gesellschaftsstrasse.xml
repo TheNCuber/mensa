@@ -3,11 +3,40 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-11-22">
+    <day date="2021-11-29">
       <category name="natürlich vegi">
         <meal>
-          <name>Walliser Vegi Rösti mit | Tomaten und Raclettekäse | Menüsalat</name>
-          <note>Allergene: Milch, Sellerie</note>
+          <name>Ricotta-Spinat-Tortelloni | Gorgonzola Sauce | Rucola | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Tortellini mit Fleisch | Gorgonzola Sauce | Rucola | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Ossobuco vom Schwein | Ratatouille | Bramata Polenta mit Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-11-30">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Quornstreifen «Zürcher Art» | Glacierte Karotten | Nudeln | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,65 +45,38 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Walliser Rösti mit | Speck, Schinken und Raclettekäse | Menüsalat</name>
-          <note>Allergene: Milch</note>
+          <name>Schweinsgeschnetzeltes «Zürcher Art» | Glacierte Karotten | Nudeln | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>«Curry Wurst » | vom Aaretaler Duroc Schwein | Pommes Frites | Gurken-Minz-Salat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <price role="other">15.90</price>
-          <price role="student">11.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-11-23">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Vegi-Schnitzel | Marroni-Apfel- Sauce | Rosenkohl | Butternudeln | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Schweinsschnitzel | Marroni-Apfel- Sauce | Rosenkohl | Butternudeln | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Curry Wurst» | vom Aaretaler Duroc Schwein | Pommes Frites | Gurken-Minz- Salat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <price role="other">15.90</price>
-          <price role="student">11.90</price>
+          <name>Ossobuco vom Schwein | Ratatouille | Bramata Polenta mit Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2021-11-24">
+    <day date="2021-12-01">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse Balls | Blumenkohl-Süsskartoffel-Pfanne | mit Erdnüssen | Menüsalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Lupinen, Weizen</note>
-          <note>Vegetarisch</note>
+          <name>Rotes Thai Curry | Tofu und Gemüse | Jasmin Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Spicy Chickenwings | Blumenkohl-Süsskartoffel-Pfanne | mit Erdnüssen | Menüsalat</name>
-          <note>Allergene: Erdnuss, Soja, Schalenfrüchte, Sellerie, Senf, Lupinen</note>
+          <name>Rotes Thai Curry | Pouletragout und Gemüse | Jasmin Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -82,18 +84,19 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Curry Wurst» | vom Aaretaler Duroc Schwein | Pommes Frites | Gurken-Minz-Salat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <price role="other">15.90</price>
-          <price role="student">11.90</price>
+          <name>Ossobuco vom Schwein | Ratatouille | Bramata Polenta mit Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2021-11-25">
+    <day date="2021-12-02">
       <category name="natürlich vegi">
         <meal>
-          <name>«VegVeg-Tag» | Herbstliche Gemüse-Lasagne | mit Kürbis, Auberginen und Tomaten | im Ofen mit Mozzarella gebacken | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Vegi-Schnitzel Ricotta Spinat | Grüne Pfeffercremesauce | Kartoffelstock | Randen Salat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -102,31 +105,31 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>«VegVeg-Tag» | Vegane Currywurstalternative | an Tomaten-Currysauce | Pommes Frites | Gurken-Minz-Salat</name>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <name>Hackbraten | Grüne Pfeffercremesauce | Kartoffelstock | Randen Salat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind, Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Ossobuco vom Schwein | Ratatouille | Bramata Polenta mit Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">12.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2021-11-26">
+    <day date="2021-12-03">
       <category name="natürlich vegi">
         <meal>
-          <name>Orientalisches Linsenragout | mit Wurzelgemüse | Menüsalat</name>
-          <note>Allergene: Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Oceansticks | Zitronen-Mayonnaise | Rahmspinat | Pilaw Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Weizen</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Orientalisches Rindsgeschnetzeltes | mit Linsen, Wurzelgemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
