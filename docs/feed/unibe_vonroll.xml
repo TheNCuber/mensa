@@ -7,7 +7,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Quorn Geschnetzeltes | an Tikka Masala Sauce | mit Thai-Gemüse | &amp; Couscous</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -47,9 +47,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Älpler Magronen | mit Speck, Schinken | Kartoffeln, Reibkäse | &amp; Apfelmus</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Tortellini mit Fleischfüllung | an Tomatensauce | mit Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -57,7 +57,7 @@
       <category name="voll anders">
         <meal>
           <name>Poulet-Spiessli Tandoori | mit Joghurt Dip | dazu Bulgur | mit Kürbis &amp; Randen aus dem Ofen</name>
-          <note>Allergene: Gluten, Milch, Senf</note>
+          <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
           <price role="student">11.90</price>
