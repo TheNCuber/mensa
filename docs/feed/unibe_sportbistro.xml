@@ -40,7 +40,7 @@
       <category name="Daily Bowl">
         <meal>
           <name>Salzkartoffeln, Grüne Linsen | Wurzelgemüse, Currysauce | Sautierter Räuchertofu | Labneh, Koriander</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -50,7 +50,7 @@
     <day date="2021-12-03">
       <category name="Daily Bowl">
         <meal>
-          <name>Vitaminreis | Wokgemüse, Romanesco | Auberginen, Frühlingsrolle | Sweet Chili Dip</name>
+          <name>Paella | Wokgemüse, Romanesco | Auberginen, Frühlingsrolle | Sweet Chili Dip</name>
           <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
