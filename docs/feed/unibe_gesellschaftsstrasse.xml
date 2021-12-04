@@ -132,6 +132,15 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Fischstäbchen | Zitronen-Mayonnaise | Rahmspinat | Pilaw Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf, Weizen</note>
+          <note>Herkunft Fisch: Pazifik</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
     </day>
   </canteen>
 </openmensa>

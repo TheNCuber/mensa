@@ -3,20 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-12-03">
-      <category name="Menu 1">
-        <meal>
-          <name>Ragoût de poissons | au safran | Couronne de riz | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Boeuf en daube | Gnocchi romaine | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-12-06">
       <category name="Menu 1">
         <meal>
@@ -63,6 +49,20 @@
       <category name="Menu 2">
         <meal>
           <name>Ravioloni aux truffes | Sauce Périgourdine | Salade mêlée | Ravioloni tomate-basilic</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-10">
+      <category name="Menu 1">
+        <meal>
+          <name>Filet de sébaste (Mer baltique) | Sauce aux crustacés | Riz créole | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Cordon-bleu de porc | au Gruyère | Pommes frites | Légume</name>
           <price role="other">9.00</price>
         </meal>
       </category>
