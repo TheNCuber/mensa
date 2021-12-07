@@ -16,9 +16,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsragout | an Kräuterbratensauce | mit Gnocchi | dazu Broccoli</name>
+          <name>Pouletgeschnetzeltes | an Bratensauce | mit Spätzli | dazu Broccoli</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -88,7 +88,7 @@
       <category name="voll anders">
         <meal>
           <name>Lachsfilet im Blätterteig | mit Safransauce | dazu Petersilienkartoffeln | &amp; Romanesco</name>
-          <note>Allergene: Gluten, Ei, Fisch, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sulfit, Lupinen</note>
+          <note>Allergene: Gluten, Ei, Fisch, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Lupinen</note>
           <note>Herkunft Fisch: Nordwest Pazifik (Lachs)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">15.90</price>
