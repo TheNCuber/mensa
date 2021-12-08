@@ -58,8 +58,8 @@
         <meal>
           <name>Gemüse-Momos | auf Wokgemüse | mit Sojasauce | Dazu Jasminreis</name>
           <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
