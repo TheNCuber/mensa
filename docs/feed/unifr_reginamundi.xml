@@ -3,56 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-12-06">
-      <category name="Menu 1">
-        <meal>
-          <name>Hamburger de boeuf ou de veau | Sauce poivre vert | Pâtes | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Steak de cheval grillé (E) | Beurre Café de Paris | Rösti | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-12-07">
-      <category name="Menu 1">
-        <meal>
-          <name>Coeur de lieu noir (ISL) Meunière | Sauce au vin blanc | Riz | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Choucroute garnie | jambon, lard, saucisson, Wienerli | Pommes vapeur</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-12-08">
-      <category name="Menu 1">
-        <meal>
-          <name>La Mensa est fermée | Immaculée Conception</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-12-09">
-      <category name="Menu 1">
-        <meal>
-          <name>Brochette de chipolata de veau | Jus de viande | Pommes frites | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Sauté de lapin (B) | à la moutarde | Polenta | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-12-10">
       <category name="Menu 1">
         <meal>
@@ -63,6 +13,62 @@
       <category name="Menu 2">
         <meal>
           <name>Escalope de dinde (F) poêlée | Sauce champignons | Pommes frites ou pâtes | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-13">
+      <category name="Menu 1">
+        <meal>
+          <name>Penne | Sauces à choix | Salade mêlée | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Steak de boeuf Chasseur | Sauce poivre noir | Pommes frites | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-14">
+      <category name="Menu 1">
+        <meal>
+          <name>Rôti de porc aux pruneaux | Risotto au safran | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Filets de perches frits (RUS) | Sauce tartare | Pommes vapeur | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-15">
+      <category name="Menu 1">
+        <meal>
+          <name>Nuggets de poulet | Sauce curry | Pommes frites | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Gigot d'agneau (NZ) | Couscous aux raisins | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-16">
+      <category name="Menu 1">
+        <meal>
+          <name>Brochette de viande hachée | Sauce Mexicaine | Gratin de pommes de terre | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Escalope de porc panée | de la Gruyère | Pâtes, sauce tomates | Salade</name>
           <price role="other">9.00</price>
         </meal>
       </category>
