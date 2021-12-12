@@ -3,20 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-12-10">
-      <category name="Menu 1">
-        <meal>
-          <name>Rouleaux de printemps | Sauce sweet &amp; sour | Nouillettes aux légumes | Salade | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Escalope de dinde (F) poêlée | Sauce champignons | Pommes frites ou pâtes | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2021-12-13">
       <category name="Menu 1">
         <meal>
@@ -69,6 +55,20 @@
       <category name="Menu 2">
         <meal>
           <name>Escalope de porc panée | de la Gruyère | Pâtes, sauce tomates | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-12-17">
+      <category name="Menu 1">
+        <meal>
+          <name>Filet de cabillaud meunière (Atl. N-E) | Sauce au citron | Blé Ebly | Salade | Brochette de céréales et légumes, garniture du jour</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Magret de canette (F) ou Poitrine de poulet (CH) | Sauce à l'orange | Riz aux oeufs | Légume</name>
           <price role="other">9.00</price>
         </meal>
       </category>
