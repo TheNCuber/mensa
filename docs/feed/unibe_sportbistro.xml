@@ -3,56 +3,59 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-12-06">
+    <day date="2021-12-13">
       <category name="Daily Bowl">
         <meal>
-          <name>Penne | Gemüsewürfel | Broccoli, Cherrytomaten | Pilzrahmsauce, Rucola</name>
+          <name>Hörnli | Gemüsewürfel, Erbsen | Quorn-Geschnetzeltes | Pilzrahmsauce | Reibkäse, Rucola</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <note>Genuss in Balance</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-07">
+    <day date="2021-12-14">
       <category name="Daily Bowl">
         <meal>
-          <name>Bulgur, Beluga Linsen | Thai-Gemüse, Auberginen | Süsskartoffellbällchen | pikante Tomatensauce</name>
-          <note>Allergene: Gluten, Sellerie</note>
+          <name>Vitaminreis | geröstete Peperoni, Zucchetti | Rote Zwiebeln mariniert | Sweet Chili Dip | Soja-Sprossen, Ananas</name>
+          <note>Allergene: Soja, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-08">
+    <day date="2021-12-15">
       <category name="Daily Bowl">
         <meal>
-          <name>Hörnli | Rosenkohl, Rotkraut, Silberzwiebeln | Poulet Meatballs, Rosmarinjus | Baumnuss Kerne</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>«VegVeg Tag» | Bratkartoffeln | Kichererbsen, Bohnen, Cherrytomaten | Sautierter Tofu, Kürbissauce, Petersilie</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-09">
+    <day date="2021-12-16">
       <category name="Daily Bowl">
         <meal>
-          <name>Basmatireis | Rote Currysauce | Wokgemüse, geräucherter Tofu | Sojasprossen, Erdnüsse</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Schalenfrüchte, Sellerie</note>
+          <name>Quinoa, Süsskartoffeln | Broccoli, Edamame | Hüttenkäse | Baumnüsse | Schnittlauch</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Schalenfrüchte, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-10">
+    <day date="2021-12-17">
       <category name="Daily Bowl">
         <meal>
-          <name>Ebly | Kichererbsen, Wurzelgemüse | Romanesco, Planted- Streifen | Kräuter-Rahmsauce, Kürbiskerne</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <name>Basmatireis | Grüne Linsen, Red Kidney | Blumenkohl | geröstetes Wurzelgemüse | Currysauce, Labneh</name>
+          <note>Allergene: Milch, Sellerie, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
