@@ -4,7 +4,7 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2021-12-20">
-      <category name="Daily Bowl">
+      <category name="Vegie Bowl">
         <meal>
           <name>Gnocchi | Wirsing, Kürbis | Rosenkohl | Poulet Meat Balls | Rosmarinjus, Haselnüsse</name>
           <note>Allergene: Gluten, Ei, Erdnuss, Milch, Schalenfrüchte, Sellerie, Sulfit, Lupinen</note>
@@ -15,7 +15,7 @@
       </category>
     </day>
     <day date="2021-12-21">
-      <category name="Daily Bowl">
+      <category name="Vegie Bowl">
         <meal>
           <name>Vitaminreis | Wokgemüse | Broccoli, Kefen | mit Sesam marinierter Tofu | Grüne Currysauce, Koriander</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie, Sesam</note>
@@ -27,7 +27,7 @@
       </category>
     </day>
     <day date="2021-12-22">
-      <category name="Daily Bowl">
+      <category name="Vegie Bowl">
         <meal>
           <name>Penne | Erbsen, Cherrytomaten | sautierte Zucchetti | Mozzarella-Perlen | Basilikumpesto, Rucola</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
@@ -38,7 +38,7 @@
       </category>
     </day>
     <day date="2021-12-23">
-      <category name="Daily Bowl">
+      <category name="Vegie Bowl">
         <meal>
           <name>Couscous mit Ras el Hanout | Kichererbsen, Grüne Bohnen | Karotten mit Vanille | Falafel | Soja-Dip, Schnittlauch</name>
           <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Senf</note>
