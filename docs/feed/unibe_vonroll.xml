@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-12-20">
+    <day date="2021-12-27">
       <category name="natürlich vegi">
         <meal>
-          <name>Gnocchi-Gemüsepfanne | mit Weissweinrahmsauce | Wirsing, Rosenkohl, Kürbis | &amp; Haselnüsse</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Sulfit</note>
+          <name>Tortellini mit Ricotta-Spinat Füllung | Gemüse Rahmsauce | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,18 +15,18 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Poulet-Meatballs | mit Rosmarinsauce | dazu Gnocchi-Gemüsepfanne</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Tortellini mit Rindfleischfüllung | Gemüse Rahmsauce | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-21">
+    <day date="2021-12-28">
       <category name="natürlich vegi">
         <meal>
-          <name>Grünes Curry | mit Gemüse, Kefen | &amp; Shiitake | dazu Vitaminreis</name>
+          <name>Asiatische Reispfanne | mit Mariniertem Tofu | &amp; Sweet-Chilli Dip</name>
           <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -35,19 +35,23 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | an Champignons-Rahmsauce | mit Vitaminreis | &amp; Broccoli</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Asiatische Reispfanne | mit Gebratenem Poulet | &amp; Sweet-Chilli Dip</name>
+          <note>Allergene: Soja, Sellerie, Senf, Sesam</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-22">
+    <day date="2021-12-29">
       <category name="natürlich vegi">
         <meal>
-          <name>Penne | mit Basilikumpesto | Cherrytomaten | &amp; Mozzarella-Perlen</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Pasta-Pfanne mit Wurzelgemüse | &amp; Zwiebeln | an Tomatensauze | &amp; Feta käse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -55,35 +59,35 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindsragout an Kräuterbratensauce | mit Penne | &amp; Erbsen</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <name>Pasta-Pfanne mit Meatballs | Champignon, Zwiebeln | an Tomatensauce | &amp; Feta Käse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-23">
+    <day date="2021-12-30">
       <category name="natürlich vegi">
         <meal>
-          <name>«Weihnachtsessen» | Menüsalat mit Mais und Gurken | Gemüse Tajine mit Kichererbsen, Zimt | &amp; Couscous mit Ras el Hanout | dazu Dessert im Glas</name>
-          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie, Sesam, Sulfit</note>
-          <note>Vegetarisch</note>
+          <name>Food-Waste Menue</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>«Weihnachtsessen» | Menüsalat mit Mais und Gurken | Schweinsbraten an Senfsauce | Penne &amp; Karotten mit Vanille | dazu Dessert im Glas</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Food-Waste Menue</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-24">
+    <day date="2021-12-31">
       <category name="natürlich vegi">
         <meal>
           <name>Mensa Geschlossen</name>
