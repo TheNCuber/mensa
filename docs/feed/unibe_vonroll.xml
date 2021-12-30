@@ -72,16 +72,18 @@
     <day date="2021-12-30">
       <category name="natürlich vegi">
         <meal>
-          <name>Food-Waste Menue</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>Asiatische Reispfanne | mit Mariniertem Tofu | &amp; Sweet-Chilli Dip</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Food-Waste Menue</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>Pasta-Pfanne mit Meatballs | Champignon, Zwiebeln | an Tomatensauce | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
