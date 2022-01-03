@@ -3,10 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2021-12-27">
+    <day date="2022-01-03">
       <category name="natürlich vegi">
         <meal>
-          <name>Tortellini mit Ricotta-Spinat Füllung | Gemüse Rahmsauce | &amp; Reibkäse</name>
+          <name>Tortellini | gefüllt mit Ricotta &amp; Spinat | an Gemüse-Rahmsauce | dazu Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -15,19 +15,22 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Tortellini mit Rindfleischfüllung | Gemüse Rahmsauce | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Gnocchi an Pilzrahmsauce | mit Speck, Zwiebeln | &amp; Reibkäse | mit Rucola</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-28">
+    <day date="2022-01-04">
       <category name="natürlich vegi">
         <meal>
-          <name>Asiatische Reispfanne | mit Mariniertem Tofu | &amp; Sweet-Chilli Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <name>Orientalisches Linsen Dal | mit Kartoffel, Wurzelgemüse | &amp; Koriander</name>
+          <note>Allergene: Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -35,9 +38,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Asiatische Reispfanne | mit Gebratenem Poulet | &amp; Sweet-Chilli Dip</name>
+          <name>Nasi Goreng | mit gebratenem Poulet | &amp; Wokgemüse | dazu Sweet Chili Dip</name>
           <note>Allergene: Soja, Sellerie, Senf, Sesam</note>
-          <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
@@ -45,12 +47,11 @@
         </meal>
       </category>
     </day>
-    <day date="2021-12-29">
+    <day date="2022-01-05">
       <category name="natürlich vegi">
         <meal>
-          <name>Pasta-Pfanne mit Wurzelgemüse | &amp; Zwiebeln | an Tomatensauze | &amp; Feta käse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Spaghetti «Cinque Pi» | an Tomatenrahmsauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -59,21 +60,42 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pasta-Pfanne mit Meatballs | Champignon, Zwiebeln | an Tomatensauce | &amp; Feta Käse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Spaghetti «alla Carbonara» | mit Schinken, Speck &amp; Knoblauch | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2021-12-30">
+    <day date="2022-01-06">
       <category name="natürlich vegi">
         <meal>
-          <name>Asiatische Reispfanne | mit Mariniertem Tofu | &amp; Sweet-Chilli Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <name>Pad Thai mit Reisnudeln | mit Soja-Mungosprossen, Bundzwiebeln | Koriander &amp; Sesam</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sesam</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Überbackener Rindsburger | mit Jägersauce, Speck &amp; Pilzen | dazu zweierlei Spätzli</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind/Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-07">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Griechische Kartoffelpfanne | mit Aubergine, Zucchetti &amp; Oliven | dazu Feta</name>
+          <note>Allergene: Milch, Senf</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -81,27 +103,11 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pasta-Pfanne mit Meatballs | Champignon, Zwiebeln | an Tomatensauce | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <name>Hörnli «gehacktes» | mit Rindshackfleischsauce | dazu vonRoll's Apfelmus</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2021-12-31">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Mensa Geschlossen</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Mensa Geschlossen</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
