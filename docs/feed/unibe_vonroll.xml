@@ -83,9 +83,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Überbackener Rindsburger | mit Jägersauce, Speck &amp; Pilzen | dazu zweierlei Spätzli</name>
+          <name>Überbackener Burger | an Pilzsauce | dazu zweierlei Spätzli</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind/Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Rind/Schwein/Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
