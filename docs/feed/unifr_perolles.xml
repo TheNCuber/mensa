@@ -51,5 +51,17 @@
         </meal>
       </category>
     </day>
+    <day date="2022-01-14">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Ravioloni aux truffes | Sauce tomate-basilic | Salade mêlée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Poisson pané (VN) | Sauce tartare | Pommes vapeur | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

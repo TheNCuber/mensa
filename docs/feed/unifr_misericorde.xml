@@ -51,5 +51,17 @@
         </meal>
       </category>
     </day>
+    <day date="2022-01-14">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Ailerons de poulet frits | Sauce aigre-douce | Pommes frites | Carottes glacées</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Spaghetti Bolognaise | au soja et légumes | Salade du moment | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
