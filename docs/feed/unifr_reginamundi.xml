@@ -2,5 +2,66 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2022-01-10">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Burger de céréales | Sauce au poivre noir | Pâtes | Salade ou légumes | menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Cordon bleu de poulet | Pommes frites | Salade ou légumes</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-11">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Falafelle | Légumes orientaux | Couscous | menu  végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Filet de saumon rôti | Sauce Nantua | Riz | Salade ou légumes</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-12">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Quiche aux poireaux et fromage | Risotto | Légumes | menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Filet de porc au romarin | Pomme mousseline | Salade ou légumes</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-13">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Lasagne aux légumes | Salade mêlée | menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Lasagne *Maison* | Salade mêlée</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-14">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Omelette Espagnole | (poivrons, pommes de terre, maïs, oignons) | Pâtes | Légumes | menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Steack de boeuf &quot;chasseur&quot; | Sauce à l'ail | Gratin dauphinois | Salade ou légumes</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>
