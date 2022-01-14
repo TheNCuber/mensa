@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-01-10">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Cordon-bleu de volaille | Quartier de citron | Pommes country | Duo d'haricots</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cordon-bleu végétarien | à la tomate | Pâtes tricolore | Salade de crudités | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-11">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Sauté de boeuf Stroganoff | Blé pourpre | Brocoli</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Beignets d'oignons | Sauce BBQ | Pommes rissolées | Salade de céleri | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-12">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Paupiette de carrelet au safran | (Pacifique Ouest) | Riz sauvage | Laitue braisée</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Emincé (protéine de lait) aux bolets | Nouilles au beurre | Salade de légumes racine | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-13">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Coin de cerf (E) à l'Anglaise | Sauce aux baies de genièvre | Spätzli Maison | Choux rouges braisés</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Galette de potimarron | au poivre vert | Riz sauté aux légumes | Salade d'iceberg aux noix | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-01-14">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,54 @@
         </meal>
         <meal>
           <name>Spaghetti Bolognaise | au soja et légumes | Salade du moment | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-17">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Galette d'haricots blancs | à la moutarde | Pommes sautées | Carottes et petits pois | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Steak de porc de la Gruyère | à la Tessinoise | Polenta | Salade de chou chinois</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-18">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Filet de truite (I) | au Mont-Vully | Riz créole | Medley du moment</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Oeuf au plat | Rösti aux oignons | Salade de doucette | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-19">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Pâtes aux légumes d'hiver | Salade de crudités | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Boeuf braisé à la Mode | Pomme mousseline | Haricots verts</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-20">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Suprême de volaille maïs jaune (F) | au Calvados | Pâtes au beurre | Salade de pain de sucre</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Rissole Maison au soja | Légumes sautés | Menu végétarien</name>
           <price role="other">8.50</price>
         </meal>
       </category>

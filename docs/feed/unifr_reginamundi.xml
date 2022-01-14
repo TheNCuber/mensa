@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-01-10">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Burger de céréales | Sauce au poivre noir | Pâtes | Salade ou légumes | menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cordon bleu de poulet | Pommes frites | Salade ou légumes</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-11">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Falafelle | Légumes orientaux | Couscous | menu  végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Filet de saumon rôti | Sauce Nantua | Riz | Salade ou légumes</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-12">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Quiche aux poireaux et fromage | Risotto | Légumes | menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Filet de porc au romarin | Pomme mousseline | Salade ou légumes</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-13">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Lasagne aux légumes | Salade mêlée | menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Lasagne *Maison* | Salade mêlée</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-01-14">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,54 @@
         </meal>
         <meal>
           <name>Steack de boeuf &quot;chasseur&quot; | Sauce à l'ail | Gratin dauphinois | Salade ou légumes</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-17">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Burger noix et fromage | Pâtes | Salade ou légume | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Suprême de poulet jaune (F) | Jus à l'estragon | Pommes frites | Salade ou légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-18">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Curry végétarien | Riz | Salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Beefburger | Sauce champignons | Gnocchi de patate | Salade ou légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-19">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Rösti Pizza | champignons, oignons, courgettes | Salade mêlée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Cannelloni à la viande gratinés | Salade mêlée</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-20">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Piccata d'aubergines | Sauce tomates | Nouilles | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Escalope de porc panée | Country potatoes | Salade ou légume</name>
           <price role="other">8.50</price>
         </meal>
       </category>

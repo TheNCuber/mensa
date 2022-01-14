@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-01-10">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Médaillon aux épinards et fromage | Risotto | Salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cordon-bleu de volaille | Pommes frites | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-11">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Falafel aux betteraves | Couscous | Légumes oriental | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Escalope de saumon poêlée (Iles Féroé) | Sauce Maltaise | Riz créole | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-12">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Omelette au fromage | Pommes rissolées | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Emincé de boeuf Stroganoff | Pâtes | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-13">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Piccata d'aubergines | Sauce pépéronata | Spaghetti | Salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Escalope de porc | Sauce moutarde à l'ancienne | Gnocchi | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-01-14">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,54 @@
         </meal>
         <meal>
           <name>Poisson pané (VN) | Sauce tartare | Pommes vapeur | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-17">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Rouleaux de printemps | Sauce aigre-doux | Riz basmati | Légume ou salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Escalope de volaille | Sauce aux champignons | Coquillettes tricolore | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-18">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Ta`ameia (boulets de pois chiche) | sauce | Kernotto | Légume ou salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Filets de sandre frits (EU) | Sauce remoulade | Pommes vapeur | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-19">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Fromage d'Italie (végétarien) | Sauce Café de Paris | Penne épeautre | Légume ou salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Saucisse de porc en escargot | Sauce aux oignons | Galette de rösti | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-20">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Bami Goreng | Salade mêlée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Suprême de poulet (F) | Sauce tomates séchées | Risotto | Légume ou salade</name>
           <price role="other">8.50</price>
         </meal>
       </category>
