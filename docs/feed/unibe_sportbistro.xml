@@ -97,9 +97,9 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Kräuterreis | Kidneybohnen, Mais | Poulet Meat Balls | Tomaten-Chili-Sauce | Koriander, Cashew Nüsse</name>
+          <name>Kräuterreis | Kidneybohnen, Mais | Rinds Meat Balls | Tomaten-Chili-Sauce | Koriander, Cashew Nüsse</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Sesam</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
