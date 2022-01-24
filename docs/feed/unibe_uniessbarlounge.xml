@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-01-17">
+    <day date="2022-01-24">
       <category name="Vegan">
         <meal>
-          <name>«Veganuary» | Falafel | Randenhummus | Geröstete Gemüse Frites | Libanesischer Petersiliensalat</name>
-          <note>Allergene: Gluten, Erdnuss, Sesam, Sulfit</note>
+          <name>«Veganuary» | «African Curry» | mit Gemüse, Kartoffeln und Okra | Couscous | Menusalat</name>
+          <note>Allergene: Gluten</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,7 +16,7 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>«Penne Cinque Pi» | (Tomaten- Rahmsauce mit Parmesan und Petersilie) | Menusalat</name>
+          <name>Älplermaggronen | mit Röstzwiebeln, Apfelmus und Gruyère | Menusalat</name>
           <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -25,12 +25,11 @@
         </meal>
       </category>
     </day>
-    <day date="2022-01-18">
+    <day date="2022-01-25">
       <category name="Vegan">
         <meal>
-          <name>«Veganuary» | Koreanisches Japchae | gebratene Glasnudeln | mit Karotte, Champignons | Lauch, Koriander und Sesam</name>
-          <note>Allergene: Gluten, Soja, Sesam</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>«Veganuary» | Cripsy Chunks | mit Quinoa, Kaki, Avocado und verschiedenen Blattsalaten | Pineapple &amp; Coconut Dressing</name>
+          <note>Allergene: Fisch, Erdnuss, Soja, Sellerie, Senf</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -38,8 +37,8 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Weissweinrisotto | mit Apfel, Fenchel, Baumnüssen und Greyerzer | Menusalat</name>
-          <note>Allergene: Soja, Milch, Schalenfrüchte, Sellerie, Sulfit</note>
+          <name>Gemüse Stroganoff | Eierspätzli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -48,12 +47,11 @@
         </meal>
       </category>
     </day>
-    <day date="2022-01-19">
+    <day date="2022-01-26">
       <category name="Vegan">
         <meal>
-          <name>«Veganuary» | Veganes Masaman Thai Curry | mit Gemüse und Kartoffeln | Basmatireis | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>«Veganuary» | Haferflocken Bratlinge | mit Sojajoghurt- Gewürzdip | Mediterranes Gemüse mit Spinat | Süsskartoffelpüree</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Senf, Sulfit</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -61,41 +59,19 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Blätterteigpastetli | mit Quorn Geschnetzeltem an Safransauce | Pommes Frites | Erbsli und Rüebli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Sellerie, Sulfit</note>
+          <name>Cannelloni mit Ricotta und Spinat | an Rahmsauce und Käse überbacken | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2022-01-20">
+    <day date="2022-01-27">
       <category name="Vegan">
         <meal>
-          <name>««Veganuary»» | «Conchiglie alla trapanese » | Müschli mit Knoblauch- Tomaten- Basilikumpesto und Mandeln | mit veganem Parmesan | Menusalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>«Walliser Rösti» | überbacken mit Raclettekäse Zwiebeln und Tomaten | Menusalat</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-01-21">
-      <category name="Vegan">
-        <meal>
-          <name>««Veganuary» » | Legendary Uniess Burger «VEGAN» | mit BBQ Sauce, Zwiebeln, Gurke, Tomate und Rucola | mit Kartoffel Wedges | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit, Weizen, Gerste</note>
+          <name>«Veganuary» | Orecchiette alla Mediterranea | mit Olivenöl, Basilikum, Knoblauch, Peperoncino, Tomaten und frischer Rucola | Menusalat</name>
+          <note>Allergene: Gluten</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -105,8 +81,30 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüse Lasagne alla Nonna | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Kürbis- Linsen Masala | Gurkenraita | Basmatireis | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-01-28">
+      <category name="Vegan">
+        <meal>
+          <name>Chickeriki Nuggets vegan | Aioli mit Curry | frittierte Kartoffeln | Cole Slaw | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Griechische Moussaka | mit Gemüse und Kartoffeln | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
