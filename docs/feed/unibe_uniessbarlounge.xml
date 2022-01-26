@@ -29,7 +29,8 @@
       <category name="Vegan">
         <meal>
           <name>«Veganuary» | Cripsy Chunks | mit Quinoa, Kaki, Avocado und verschiedenen Blattsalaten | Pineapple &amp; Coconut Dressing</name>
-          <note>Allergene: Fisch, Erdnuss, Soja, Sellerie, Senf</note>
+          <note>Allergene: Erdnuss, Soja, Sellerie, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
