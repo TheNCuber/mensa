@@ -3,58 +3,58 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-01-31">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Duo de légumes farcis | Couscous | Salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Steak de boeuf Chasseur | Café de Paris | Pommes frites | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-01">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Galette de lentilles | Sauce curry | Riz | Légume | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Filets de perches frits (RUS) | Sauce tartare | Pommes persillées | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-02">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Pizza végétarienne | (poivron-oignon-olive-artichaut) | Salade mêlée | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cordon-bleu de porc Maison | &quot;vacherin-jambon&quot; | Pâtes | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-03">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Cheeseburger de racines rouges | Country cuts | Salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cheeseburger garni | Country cuts | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-02-04">
       <category name="Menu hors semestre">
         <meal>
           <name>Rouleaux de printemps Maison | Sauce aigre douce | Nouilles aux légumes | Salade ou légumes | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-07">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Crêpes aux épinards | Sauce crème | Blé Ebly | Légume | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Piccata de poulet | Spaghetti, sauce tomates | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-08">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Tomme Vaudoise panée | Pommes en robe | Salade mêlée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Paupiette de boeuf | Pommes purée | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-09">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Feuilleté aux légumes | Pommes Mont d'Or | Salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Côtelette de porc | Jus au Porto | Spätzli | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-10">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Tomate farcie | Riz | Légume ou salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Saucisse de veau | Sauce échalotes | Rösti Maison | Légume ou salade</name>
           <price role="other">8.50</price>
         </meal>
       </category>
