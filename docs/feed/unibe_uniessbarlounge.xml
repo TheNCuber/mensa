@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-01-31">
+    <day date="2022-02-07">
       <category name="Vegan">
         <meal>
-          <name>«Veganuary» | Indisches Curry Korma | mit Linsen, Gemüse und Edamame | Vollreis | Menusalat</name>
-          <note>Allergene: Soja, Schalenfrüchte</note>
+          <name>Penne Rigate | alla Bolognese | veganer Parmesan | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Senf, Sulfit, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,38 +16,8 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohl- Käse- Medaillon | Petersilien Kartoffeln | Rahmspinat | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Ahi Poké Bowl | mit Lachs, Reis, Avocado | Mango, Edamame | Rotkohl und Frühlingszwiebeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Herkunft: Norwegen</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-01">
-      <category name="Vegan">
-        <meal>
-          <name>Tofu Gulasch Ungarische Art | Stampfkartoffeln mit | Olivenöl und Zitrone | Menusalat</name>
-          <note>Allergene: Soja, Senf, Sulfit</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Zucchini Piccata | Spaghetti | Tomatensauce | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <name>Uniess Risotto | mit Gorgonzola, Spinat und Baumnusskernen | Menusalat</name>
+          <note>Allergene: Soja, Milch, Schalenfrüchte, Sellerie, Sulfit, Walnuss</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -57,20 +27,20 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Ahi Poké Bowl | mit Lachs, Reis, Avocado, Mango | Edamame, Rotkohl und Frühlingszwiebeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Herkunft: Norwegen</note>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poluet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Ei, Fisch, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-02-02">
+    <day date="2022-02-08">
       <category name="Vegan">
         <meal>
-          <name>«Bami Goreng» | Indonesisches Nudelgericht | mit Gemüse und Pilzen | an Sojasauce | Menusalat</name>
-          <note>Allergene: Gluten, Soja</note>
-          <note>Genuss in Balance</note>
+          <name>«Uniess Mexican Bowl» | mit Pulled Planted, Tex-Mex Gemüse | Power Getreide und Guacamole | Menusalat</name>
+          <note>Allergene: Gluten, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -79,58 +49,20 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Curry Casimir | mit Früchten und gerösteten Mandeln | Trockenreis | Menusalat</name>
-          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie, Sesam, Sulfit, Mandel</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Ahi Poké Bowl | mit Lachs, Reis, Avocado, Mango | Edamame, Rotkohl und Frühlingszwiebeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Herkunft: Norwegen</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-03">
-      <category name="Vegan">
-        <meal>
-          <name>Seitan Geschnetzeltes Zürcher Art | Rösti | Karotten zweierlei | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Shakshuka mit Ei | Petersilien Couscous | Pitabrot | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
+          <name>Polenta Pizza | mit Gemüse, Champignon und Mozzarella | Menusalat</name>
+          <note>Allergene: Ei, Milch</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Ahi Poké Bowl | mit Lachs, Reis, Avocado, Mango | Edamame, Rotkohl und Frühlingszwiebeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Herkunft: Norwegen</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
     </day>
-    <day date="2022-02-04">
+    <day date="2022-02-09">
       <category name="Vegan">
         <meal>
-          <name>Vegane Tortelli All`Arrabbiata | an Pesto Rosso | mit frischem Rucola | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Schalenfrüchte</note>
+          <name>«Ocean Sticks» | Vegane Fischstäbchen | Tartaresauce | Pommes Rissolées | grüne Bohnen</name>
+          <note>Allergene: Soja, Milch, Schalenfrüchte, Senf, Mandel</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -138,21 +70,57 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Knusprige Frühlingsrollen | Gemüsereis | Sweet Chili Sauce | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sesam</note>
+          <name>Gemüse Stroganoff | Butternudeln | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
+    </day>
+    <day date="2022-02-10">
+      <category name="Vegan">
         <meal>
-          <name>Ahi Poké Bowl | mit Lachs, Reis, Avocado, Mango | Edamame, Rotkohl und Frühlingszwiebeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Herkunft: Norwegen</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
+          <name>«Laksa Ayam» | Indonesische Suppe mit Glasnudeln, Gemüse, Shiitake und Kokosmilch | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Walnuss-Cheddar Burger | auf Gemüsepfanne mit Kartoffeln | Hüttenkäse- Tatar | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-11">
+      <category name="Vegan">
+        <meal>
+          <name>Indischer Linsen Eintopf mit Gemüse | Basmatireis | Naan Brot | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti alla Carbonara | Rahmsauce mit Ei und geräuchten Tofuwürfeli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
