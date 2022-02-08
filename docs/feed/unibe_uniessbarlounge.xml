@@ -27,8 +27,8 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poluet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
-          <note>Allergene: Gluten, Ei, Fisch, Milch, Sellerie, Senf, Sulfit</note>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">8.50</price>
@@ -56,6 +56,16 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-02-09">
       <category name="Vegan">
@@ -77,6 +87,16 @@
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
@@ -101,6 +121,16 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-02-11">
       <category name="Vegan">
@@ -121,6 +151,16 @@
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
