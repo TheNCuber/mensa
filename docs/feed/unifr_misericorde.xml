@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-07">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Burger de boeuf | au poivre vert | Penne | Choux pommes à la ciboulette</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Pané de blé au fromage et épinards | Pommes country | Salade de chicon | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-08">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Nuggets au soja | Mayonnaise aux épices de Cajun | Pommes rissolées | Salade de carottes au sésame | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Pavé de lieu noir (Atlantique Nord) | Bordelaise | Riz Camarguais | Epinards en branche</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-09">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Saucisson Vaudois brioché | Gratin Dauphinois | Haricots verts</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Sauté végétarien aux pommes et Whisky | (protéines de lait) | Blé pourpre | Salade de chou blanc au cumin | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-10">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Pôtée de lentilles, légumes et | pommes de terre | Paneer bio sauté | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Sauté de poulet | au curry rouge | Nouilles | Pak-choï</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-02-11">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,55 @@
         </meal>
         <meal>
           <name>Oignons rings | Sauce BBQ | Ebly à la tomate | Salade du moment | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-14">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Galettes de légumes | à la Mexicaine | Quinoa créole | Brocoli aux amandes | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Côte de porc de la Gruyère | Sauce Dijonnaise | Pommes grenailles | Racines rouges aux oignons</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-15">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Lasagne &quot;con carne&quot; (boeuf CH) | Salade iceberg aux graines torréfiées</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Tofu bio fumé croustillant | Sauce citron vert | Riz sauvage | Carottes glacées | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-16">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Sauté de quorn au poivre vert | de Sechuan et à la menthe | Blé façon Pilaf | Julienne de céleri Waldorf | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Goujonnettes de cabillaud (NL) | en pâte à frire | Pommes nature de Cormagens | Laitues braisées</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-17">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Brochette merguez | (cheval (ES)-boeuf (CH)-agneau (IRL) | Sauce paprika fumé | Penne
+Salade verte, courgettes grillées et olives</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Tajine de légumes et pois chiche | au miel et thym | Falafel | Menu végétarien</name>
           <price role="other">8.50</price>
         </meal>
       </category>
