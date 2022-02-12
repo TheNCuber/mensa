@@ -3,18 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-11">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Blanquette de veau | Riz Pilaf | Légumes du bouillon</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Oignons rings | Sauce BBQ | Ebly à la tomate | Salade du moment | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-02-14">
       <category name="Menu hors semestre">
         <meal>
@@ -60,6 +48,18 @@ Salade verte, courgettes grillées et olives</name>
         </meal>
         <meal>
           <name>Tajine de légumes et pois chiche | au miel et thym | Falafel | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-18">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Pizokel gratinés | Légumes et sauge | Salade mêlée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Steak de boeuf | Sauce aux 3 baies | Pommes frites | Tomate Provençale</name>
           <price role="other">8.50</price>
         </meal>
       </category>
