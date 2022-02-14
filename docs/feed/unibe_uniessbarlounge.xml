@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-07">
+    <day date="2022-02-14">
       <category name="Vegan">
         <meal>
-          <name>Penne Rigate | alla Bolognese | veganer Parmesan | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Senf, Sulfit, Weizen</note>
+          <name>Gemüse Bananen Curry mit Thaibasilikum | Basmatireis | Menusalat</name>
+          <note>Allergene: Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,127 +16,40 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Uniess Risotto | mit Gorgonzola, Spinat und Baumnusskernen | Menusalat</name>
-          <note>Allergene: Soja, Milch, Schalenfrüchte, Sellerie, Sulfit, Walnuss</note>
-          <note>Genuss in Balance</note>
+          <name>«Swiss Macaroni and Cheese» | Apfelmus | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
     </day>
-    <day date="2022-02-08">
+    <day date="2022-02-15">
       <category name="Vegan">
         <meal>
-          <name>«Uniess Mexican Bowl» | mit Pulled Planted, Tex-Mex Gemüse | Power Getreide und Guacamole | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Polenta Pizza | mit Gemüse, Champignon und Mozzarella | Menusalat</name>
-          <note>Allergene: Ei, Milch</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-09">
-      <category name="Vegan">
-        <meal>
-          <name>«Ocean Sticks» | Vegane Fischstäbchen | Tartaresauce | Pommes Rissolées | grüne Bohnen</name>
-          <note>Allergene: Soja, Milch, Schalenfrüchte, Senf, Mandel</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Gemüse Stroganoff | Butternudeln | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-10">
-      <category name="Vegan">
-        <meal>
-          <name>«Laksa Ayam» | Indonesische Suppe mit Glasnudeln, Gemüse, Shiitake und Kokosmilch | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Walnuss-Cheddar Burger | auf Gemüsepfanne mit Kartoffeln | Hüttenkäse- Tatar | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-11">
-      <category name="Vegan">
-        <meal>
-          <name>Indischer Linsen Eintopf mit Gemüse | Basmatireis | Naan Brot | Menusalat</name>
+          <name>«Lebanese Bowl» | Couscous mit Zitrone und Kräutern | geröstete Randen Würfel, Safran- Hummus | Falafel und Harissa Dip | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Quorn Tandoori | Tikka Masala Sauce | Kurkumakartoffeln mit Sesam | Wokgemüse | Menusalat</name>
+          <note>Allergene: Ei, Soja, Milch, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-16">
+      <category name="Vegan">
+        <meal>
+          <name>«Conchiglie alla trapanese » | Müschli mit Knoblauch- Tomaten- Basilikumpesto und Mandeln | Menusalat</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -145,22 +58,56 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Spaghetti alla Carbonara | Rahmsauce mit Ei und geräuchten Tofuwürfeli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch</note>
+          <name>Blättersteigpastetli | mit Gemüseragout an Rahmsauce | Risi Bisi | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
+    </day>
+    <day date="2022-02-17">
+      <category name="Vegan">
         <meal>
-          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <name>Tessiner Polenta | mit Pilz- Tomatenragout und Wurzelgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tortellini mit Spinat-Ricotta-Füllung | Tomaten-Basilikumsauce | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-18">
+      <category name="Vegan">
+        <meal>
+          <name>Gemüsemedaillon | auf Kartoffeln- Gemüsepfanne | Tomaten Chili Salsa | Menusalat</name>
+          <note>Allergene: Sulfit</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Weizentortilla «Teotihuacán» | mit Tex-mex Gemüse | Süsskartoffelfrites und Gallo Pinto | Menusalat</name>
+          <note>Allergene: Ei, Milch, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
