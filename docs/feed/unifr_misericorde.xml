@@ -3,55 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-14">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Galettes de légumes | à la Mexicaine | Quinoa créole | Brocoli aux amandes | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Côte de porc de la Gruyère | Sauce Dijonnaise | Pommes grenailles | Racines rouges aux oignons</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-15">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Lasagne &quot;con carne&quot; (boeuf CH) | Salade iceberg aux graines torréfiées</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Tofu bio fumé croustillant | Sauce citron vert | Riz sauvage | Carottes glacées | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-16">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Sauté de quorn au poivre vert | de Sechuan et à la menthe | Blé façon Pilaf | Julienne de céleri Waldorf | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Goujonnettes de cabillaud (NL) | en pâte à frire | Pommes nature de Cormagens | Laitues braisées</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-17">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Brochette merguez | (cheval (ES)-boeuf (CH)-agneau (IRL) | Sauce paprika fumé | Penne
-Salade verte, courgettes grillées et olives</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Tajine de légumes et pois chiche | au miel et thym | Falafel | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-02-18">
       <category name="Menu hors semestre">
         <meal>
@@ -61,6 +12,62 @@ Salade verte, courgettes grillées et olives</name>
         <meal>
           <name>Steak de boeuf | Sauce aux 3 baies | Pommes frites | Tomate Provençale</name>
           <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-21">
+      <category name="Menu 1">
+        <meal>
+          <name>Suprême de poulet jaune (F) | au thym | Polenta à la crème | Choux-fleurs</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Lasagne au soja Maison | Salade du marché | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-22">
+      <category name="Menu 1">
+        <meal>
+          <name>Escalope végétarienne | à la Valaisanne | Pommes frites | Salade verte et coleslaw | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Cou de porc de la Gruyère rôti au four | Sauce Provençale | Pâtes au beurre | Duo de carottes glacées</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-23">
+      <category name="Menu 1">
+        <meal>
+          <name>Vol-au-vent champignons et légumes | Riz | Haricots verts | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Paupiettes de boeuf | Garniture Bourguignonne | Pommes mousseline | Doucette suisse et croûtons</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-02-24">
+      <category name="Menu 1">
+        <meal>
+          <name>Rösti aux oignons garni | d'oeufs au plat | Salade chou chinois | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de claresse (NL) | Sauce safran | Blésotto | Etuvé de fenouil à la tomate</name>
+          <price role="other">9.00</price>
         </meal>
       </category>
     </day>
