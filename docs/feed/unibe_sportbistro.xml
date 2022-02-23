@@ -48,7 +48,7 @@
     <day date="2022-02-23">
       <category name="Vegie Bowl">
         <meal>
-          <name>«Veg-Veg Tag» | Penne, Mischgemüse | getrocknete Tomaten, Kräuter-Rahmsauce | Vegetarische Speckwürfel | Reibkäse, Baumnüsse</name>
+          <name>«Veg-Veg Tag» | Penne, Mischgemüse | getrocknete Tomaten, Kräuter-Rahmsauce | Vegane Fleischkäsewürfel | Reibkäse, Baumnüsse</name>
           <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -56,28 +56,8 @@
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>«Veg-Veg Tag» | Gnocchi, Lauch, Mischgemüse | getrocknete Tomaten | Vegane Fleischkäsewürfel | Tomaten-Paprikasauce, Petersilie</name>
-          <note>Allergene: Gluten, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
     </day>
     <day date="2022-02-24">
-      <category name="Vegie Bowl">
-        <meal>
-          <name>Kartoffeln | Zucchetti, Peperoni | Feta | Soja-Knoblauch-Dip | Oliven, Thymian</name>
-          <note>Allergene: Soja, Milch, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
       <category name="Daily Bowl">
         <meal>
           <name>Basmatireis | Pouletgeschnetzeltes | Currysauce | Zucchetti, Peperoni | Limettenschnitz, Thaibasilikum</name>

@@ -26,9 +26,8 @@
     <day date="2022-02-22">
       <category name="natürlich vegi">
         <meal>
-          <name>Grünes Curry mit | Fritiertem Tofu und | Jasmin Reis</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Rotes Thai Curry mit Gemüse | Fritiertem Tofu und | Jasmin Reis</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -36,8 +35,8 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Grünes Curry mit Gemüse | Poulet Brust Spiess gebraten und | Jasmin Reis</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <name>Rotes Thai Curry mit Gemüse | Poulet Brust Spiess gebraten und | Jasmin Reis</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
