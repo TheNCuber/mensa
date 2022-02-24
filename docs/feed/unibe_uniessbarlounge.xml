@@ -143,14 +143,6 @@
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Wird täglich am Screen aktualisiert.</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
       <category name="Wochenbowl">
         <meal>
           <name>Italian Bowl | mit Prosciutto crudo, Salami Nostrano, Antipasti, Mozzarella, Pasta mit Trockentomaten, Rucola und Basilikumpesto</name>
