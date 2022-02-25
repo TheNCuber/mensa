@@ -175,8 +175,9 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Wird täglich am Screen aktualisiert.</name>
+          <name>«Riz Casimir» | Schwiizer Pouletcurry mit Früchten | Lankornreis | Menüsalat</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Herkunft Geflügel: Poulet, Schweiz</note>
           <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>

@@ -3,73 +3,73 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-21">
-      <category name="Menu 1">
-        <meal>
-          <name>Suprême de poulet jaune (F) | au thym | Polenta à la crème | Choux-fleurs</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Lasagne au soja Maison | Salade du marché | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-22">
-      <category name="Menu 1">
-        <meal>
-          <name>Escalope végétarienne | à la Valaisanne | Pommes frites | Salade verte et coleslaw | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Cou de porc de la Gruyère rôti au four | Sauce Provençale | Pâtes au beurre | Duo de carottes glacées</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-23">
-      <category name="Menu 1">
-        <meal>
-          <name>Vol-au-vent champignons et légumes | Riz | Haricots verts | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Paupiettes de boeuf | Garniture Bourguignonne | Pommes mousseline | Doucette suisse et croûtons</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-24">
-      <category name="Menu 1">
-        <meal>
-          <name>Rösti aux oignons garni | d'oeufs au plat | Salade chou chinois | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Filet de claresse (NL) | Sauce safran | Blésotto | Etuvé de fenouil à la tomate</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-02-25">
+      <category name="Menu 2">
+        <meal>
+          <name>Macaroni Montagnard | (épinards, poireaux, pommes de terre) | Gruyère râpé | Salade de betteraves | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
       <category name="Menu 1">
         <meal>
           <name>Saucisse à rôtir de porc de la Gruyère | Sauce Lyonnaise | Gnocchi | Panais persillés</name>
           <price role="other">7.50</price>
         </meal>
       </category>
+    </day>
+    <day date="2022-02-28">
       <category name="Menu 2">
         <meal>
-          <name>Macaroni Montagnard | (épinards, poireaux, pommes de terre) | Gruyère râpé | Salade de betteraves | Menu végétarien</name>
+          <name>Galette d'haricots rouges | à la moutarde | Nouilles au beurre | Choux-pomme à la ciboulette | Menu végétarien</name>
           <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Beignets de crevettes (VN) | Riz parfumé sauté au soja | Salade verte et papaye</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-01">
+      <category name="Menu 2">
+        <meal>
+          <name>Cordon-bleu de porc de la Gruyère | Pommes frites | Brocoli aux graines</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Sauté végétarien Stroganoff | Riz complet | Salade de chicon | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-02">
+      <category name="Menu 2">
+        <meal>
+          <name>Médaillon de lentilles | Crème à l'ail | Pâtes à l'huile d'olives | Duo d'haricots | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Goulache de boeuf | Brochette de pommes de terre grenailles | Salade d'iceberg et maïs</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-03">
+      <category name="Menu 2">
+        <meal>
+          <name>Cou de veau braisé | à l'Italienne | Polenta bramata | Salade verte et tomates</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Tortilla aux légumes et pommes de terre | Coulis de poivron épicé | Courgettes sautées | Menu végétarien</name>
+          <price role="other">7.50</price>
         </meal>
       </category>
     </day>

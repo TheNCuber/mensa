@@ -3,73 +3,73 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-21">
-      <category name="Menu 1">
-        <meal>
-          <name>Demi-poulet du pays rôti | Pommes de terre au thym | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Emincé de veau Zurichoise | Pâtes | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-22">
-      <category name="Menu 1">
-        <meal>
-          <name>Pâtes | Sauces à choix | Salade mêlée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Filet de saumon rôti (N) | Sauce Nantua | Pommes vapeur | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-23">
-      <category name="Menu 1">
-        <meal>
-          <name>Rôti  de porc aux pruneaux | Gratin de cornettes | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Sauté d'agneau (IRL) | Merguez | Couscous | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-24">
-      <category name="Menu 1">
-        <meal>
-          <name>Chicken nuggets | Sauce curry | Pommes frites | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-      <category name="Menu 2">
-        <meal>
-          <name>Rôti de boeuf braisé | Pommes purée | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-02-25">
+      <category name="Menu 2">
+        <meal>
+          <name>Steak de boeuf Chasseur | Sauce Mexicaine | Pommes frites | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
       <category name="Menu 1">
         <meal>
           <name>Filet de colin meunière | Sauce vin blanc | Riz | Légume | Galette de lentilles, sauce Mexicaine, garniture à choix</name>
           <price role="other">7.50</price>
         </meal>
       </category>
+    </day>
+    <day date="2022-02-28">
       <category name="Menu 2">
         <meal>
-          <name>Steak de boeuf Chasseur | Sauce Mexicaine | Pommes frites | Salade</name>
+          <name>Steack de cheval grillé | Sauce à l'ail | Pommes frites | légumes</name>
           <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Sauté de porc aux carottes | Pâtes | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-01">
+      <category name="Menu 2">
+        <meal>
+          <name>Epaule de veau rôtie | Sauce balsamique | Gnocchi di patate | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Filets de sandre frits | Sauce Tartare | Pommes vapeur | Légumes</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-02">
+      <category name="Menu 2">
+        <meal>
+          <name>Piccata de porc | Sauce tomate | Pâtes | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Beef burger | Sauce champignons | Pommes frites | Légumes</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-03">
+      <category name="Menu 2">
+        <meal>
+          <name>Brochette de poulet Hawaï | Riz cantonais | Légumes</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Cannelloni à la viande | Salade mêlée</name>
+          <price role="other">7.50</price>
         </meal>
       </category>
     </day>
