@@ -3,11 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-21">
+    <day date="2022-02-28">
       <category name="natürlich vegi">
         <meal>
-          <name>Tortellini mit Spinat und Ricotta | Salbei Kräutersauce</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Penne Arrabiata mit Mozzarella, Rucola | Menüsalat</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,40 +16,61 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Tortellini mit Fleisch | Salbei Kräutersauce</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
-          <note>Herkunft Rind: Schweiz</note>
+          <name>Penne Arrabiata mit | gebratenen Speck Würfeln | Menüsalat</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schweiz: Schwein</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-02-22">
+    <day date="2022-03-01">
       <category name="natürlich vegi">
         <meal>
-          <name>Rotes Thai Curry mit Gemüse | Fritiertem Tofu und | Jasmin Reis</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Vegan</note>
+          <name>Gemüse Taler mit Rosmarinsauce und | Risotto mit Kürbis | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sesam, Sulfit, Weizen, Gerste</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Rotes Thai Curry mit Gemüse | Poulet Brust Spiess gebraten und | Jasmin Reis</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Adrio mit Rosmarinsauce und | Risotto mit Kürbis | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Schweiz: Kalb/Schwein</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-02">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Chäs-Spätzli Pfanne mit Gemüsestreifen | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Chäs-Spätzli mit Poulet Schinken | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-02-23">
+    <day date="2022-03-03">
       <category name="natürlich vegi">
         <meal>
-          <name>&gt;&gt;Veg-Veg Tag&lt;&lt; | Roter Linsentopf mit Wintergemüse und | Randen Balls</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Lasagne mit Mediterranem Gemüse | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -57,20 +79,19 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>&gt;&gt;Veg-Veg Tag&lt;&lt; | Vegi Nuggets mit | Country Frites und | Zweifarbiger Kabissalat</name>
-          <note>Allergene: Ei, Sulfit</note>
-          <note>Vegan</note>
+          <name>Rinds Lasagne mit Wurzelgemüse | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-02-24">
+    <day date="2022-03-04">
       <category name="natürlich vegi">
         <meal>
-          <name>Nasi Goreng Vegetarisch</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Dinkelburger mit | Dilldip und | Kartoffelstampf | Gurkensalat</name>
+          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -78,29 +99,9 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Nasi Goreng mit Truten</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Herkunft Truten: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-02-25">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Ozeansticks mit | Salzkartoffeln und | Rahmspinat | Zitronen-Mayonnaise</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam, Weizen</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Fischknusperli mit | Salzkartoffeln unnd | Rahmspinat | Zitronen-Mayonnaise</name>
-          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf, Weizen</note>
-          <note>Herkunft Fisch: Pazifk</note>
+          <name>Schlemmerfilet Bordelaise mit | Dilldip und | Kartoffelstampf | Gurkensalat</name>
+          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fisch: Nordwest Pazifik</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
