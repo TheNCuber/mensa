@@ -127,6 +127,15 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü» | Tortellini mit Spinat-Riccotafüllung mit Salbeibutter | Walnuss-Cheddar Burger | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Wochenbowl">
         <meal>
           <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
