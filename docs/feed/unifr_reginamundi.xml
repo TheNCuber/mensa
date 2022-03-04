@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-28">
-      <category name="Menu 2">
-        <meal>
-          <name>Steack de cheval grillé | Sauce à l'ail | Pommes frites | légumes</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Sauté de porc aux carottes | Pâtes | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-01">
-      <category name="Menu 2">
-        <meal>
-          <name>Epaule de veau rôtie | Sauce balsamique | Gnocchi di patate | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Filets de sandre frits | Sauce Tartare | Pommes vapeur | Légumes</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-02">
-      <category name="Menu 2">
-        <meal>
-          <name>Piccata de porc | Sauce tomate | Pâtes | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Beef burger | Sauce champignons | Pommes frites | Légumes</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-03">
-      <category name="Menu 2">
-        <meal>
-          <name>Brochette de poulet Hawaï | Riz cantonais | Légumes</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Cannelloni à la viande | Salade mêlée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-03-04">
       <category name="Menu végétarien (1)">
         <meal>
@@ -75,6 +19,63 @@
       <category name="Menu 1">
         <meal>
           <name>Osso bucco de porc à la bière | Risotto | Légumes</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-07">
+      <category name="Menu 2">
+        <meal>
+          <name>Saltimbocca de poulet | Risotto | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Chili con carne (boeuf CH) | Pâtes | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-08">
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de sandre meunière (Pacific Nord-Est) | Sauce curcuma | Riz | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Escargot de porc de la Gruyère | Sauce aux oignons | Pommes frites | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-09">
+      <category name="Menu 2">
+        <meal>
+          <name>Emincé de lapin (Hongrie) | à la moutarde | Polenta | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Nasi Goreng | poulet-riz-légumes-oeuf-fruit | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-10">
+      <category name="Menu 2">
+        <meal>
+          <name>Civet de cerf (Europe) | Spätzli | Choux-rouges
+Poire à Botzi</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Endives au jambon | Pommes sautées | Légume</name>
           <price role="other">7.50</price>
         </meal>
       </category>

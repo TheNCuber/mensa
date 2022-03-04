@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-02-28">
-      <category name="Menu 2">
-        <meal>
-          <name>Magret de canard grillé | Sauce à l'orange | Kernotto aux petits légumes | Duo d'haricots</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Steack de porc *mariné* | Pommes rissolées | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-01">
-      <category name="Menu 2">
-        <meal>
-          <name>Queues de langoustine (Afrique du Sud) ou émincé de quorn à la provcençale | Couronne de riz | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Hamburger de boeuf | Sauce aux 3 poivres | Pommes frites | Légumes</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-02">
-      <category name="Menu 2">
-        <meal>
-          <name>Rôti de veau glacé au balsamique | Nouilles | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Saucisse de porc en escargot | Sauce aux oignons | Galettes de röstis | Légumes</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-03">
-      <category name="Menu 2">
-        <meal>
-          <name>Filet d'omble chevaliert (Islabde) | Sauce au coulis de crustacée | Pommes vapeur | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Hauts de cuisse de poulet ou Arancini aux champignons | Sauce basquaise | Pâtes | Légumes</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-03-04">
       <category name="Menu 2">
         <meal>
@@ -69,6 +13,62 @@
       <category name="Menu 1">
         <meal>
           <name>Tortellini au fromage | Saiuces à choix | Salade mêlée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-07">
+      <category name="Menu 2">
+        <meal>
+          <name>Escalope de filet de porc | Sauce à la moutarde en grains | Risotto | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Meatballs de boeuf | Sauce aux tomates séchées | Pomme mousseline | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-08">
+      <category name="Menu 2">
+        <meal>
+          <name>Chicken &quot;fingers&quot; | Sauce cocktail | Pommes frites | Légume | Nuggets végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Emincé de boeuf | à l'asiatique | Blé Ebly | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-09">
+      <category name="Menu 2">
+        <meal>
+          <name>Emincé de veau | à la Zurichoise | Nouilles | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Filets de colin (Atlantique S-E) en pâte à bière | Sauce tartare | Pommes vapeur | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-10">
+      <category name="Menu 2">
+        <meal>
+          <name>Hamburger Chili quinoa | Bun &quot;maison&quot; | Country fries | Tomate aux herbes | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Bami Goreng | Oeuf au plat | Salade</name>
           <price role="other">7.50</price>
         </meal>
       </category>
