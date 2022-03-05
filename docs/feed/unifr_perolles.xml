@@ -3,20 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-03-04">
-      <category name="Menu 2">
-        <meal>
-          <name>Entrecôte de boeuf grillée | Mousse Café de Paris | Pommes soufflées | légumes</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Tortellini au fromage | Saiuces à choix | Salade mêlée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-03-07">
       <category name="Menu 2">
         <meal>
@@ -69,6 +55,20 @@
       <category name="Menu 1">
         <meal>
           <name>Bami Goreng | Oeuf au plat | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-11">
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de truite de mer (N) | Sauce aux câpres | Riz créole | Epinards en branches</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Cappelletti aux champignons | Sauce printanière | Salade mêlée | Menu végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>
