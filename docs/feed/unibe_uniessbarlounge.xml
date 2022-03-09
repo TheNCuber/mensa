@@ -100,9 +100,12 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü»</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">7.20</price>
+          <name>«Food Save Menü» | Pouletragout mit Gemüse an Rahmsauce | Wildreis | Broccoli | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie, Weizen</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Geflügel: Poulet, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
