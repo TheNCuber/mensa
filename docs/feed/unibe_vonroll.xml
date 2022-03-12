@@ -133,8 +133,8 @@
     <day date="2022-03-11">
       <category name="natürlich vegi">
         <meal>
-          <name>«PLANT BASED» | Powerfood-Pfanne | mit vegetarischen Hackbällchen | Bulgur, Linsen | Bohnen, Broccoli | Nüssen &amp; Kresse</name>
-          <note>Allergene: Gluten, Ei, Soja, Schalenfrüchte, Sellerie, Weizen, Gerste</note>
+          <name>Powerfood-Pfanne | mit Frischkäsekissen | Bulgur, Linsen | Bohnen, Broccoli | Nüssen &amp; Kresse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Weizen, Gerste</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -153,8 +153,8 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>«PLANT BASED» | Oceansticks | mit Pommes Frites | Tartarsauce &amp; Zitronenschnitz</name>
-          <note>Allergene: Gluten, Ei, Soja, Senf</note>
+          <name>«PLANT BASED» | Falafel | mit Pommes Frites | Tartarsauce &amp; Zitronenschnitz</name>
+          <note>Allergene: Ei, Senf</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">10.90</price>
