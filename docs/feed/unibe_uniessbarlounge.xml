@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-03-07">
+    <day date="2022-03-14">
       <category name="Natürlich vegan">
         <meal>
-          <name>«VEGAN» | Couscous mit Gemüse | Falafel | Sojajoghurt mit Knoblauch | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Vegane Tortelli All`Arrabbiata | an Pesto Rosso | mit frischem Rucola | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -15,33 +15,39 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«VEGAN» | Spaghetti alla Putanesca | Oliven, getrocknete Tomaten | auf Wunsch mit Grana Padano | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Genuss in Balance</note>
+          <name>Knusprige Frühlingsrolle | Basmatireis | Wokgemüse | Sweet Chili Sauce | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü» | Fischknusperli mit Tartaresauce | Frittierte Kartoffeln | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Erdnuss, Soja, Milch, Senf, Sulfit</note>
+          <note>Herkunft Fisch: ASC-Tilapia, CN</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Uniess Mexican Bowl» | mit Pulled Pork,Quinoa, Avocado, Süsskartoffel, Salsa Mexicana, rote Bohnen, Zwiebeln und Tortilla Chips</name>
+          <note>Allergene: Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-08">
+    <day date="2022-03-15">
       <category name="Natürlich vegan">
         <meal>
-          <name>«MNI» | Persische Auberginen | mit Zhug «Hot Sauce» aus dem Jemen | knuspriges Fladenbrot | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>«Power Bowl» | Perlen Couscous mit Kräutern | geröstete Randen Würfel, Safran- Hummus | Green Power Balls und Harissa Dip | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -49,11 +55,9 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«MNI» | Pouletragout mit Gemüse an Rahmsauce | Wildreis | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie, Weizen</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Geflügel: Poulet, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>«Linguine alla Bolognese» | Nudeln an Rindfleisch- Tomatensauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -69,63 +73,20 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-09">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>«CH PRODUKTE» | Risotto Ticinese | mit Steinpilzen und Merlot | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>«CH PRODUKTE» | Emmentaler Brät Schnitzel | Zitronenrosmarin Jus | Pommes risolées | Gerettete Karotten vom Gemüsegarten Bern</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <name>«Uniess Mexican Bowl» | mit Pulled Pork,Quinoa, Avocado, Süsskartoffel, Salsa Mexicana, rote Bohnen, Zwiebeln und Tortilla Chips</name>
+          <note>Allergene: Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Pouletragout mit Gemüse an Rahmsauce | Wildreis | Broccoli | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie, Weizen</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Geflügel: Poulet, Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-10">
+    <day date="2022-03-16">
       <category name="Natürlich vegan">
         <meal>
-          <name>«FAIR TRADE» | Indischer Linseneintopf | mit Kokosmilch und Gemüse | Max Havelaar Basmatireis | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Malaysisches Gemüsecurry | an pikanter Ananas-Kokoscurrysauce | Parfümreis | Menusalat</name>
+          <note>Allergene: Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -134,19 +95,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«FAIR TRADE» | Gemüse Sweet &amp; Sour | mit BIO Tofu, Peperoni und Max Havelaar Ananas | Chinese Noodles | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Emmentaler Brät Schnitzel | Zitronenrosmarin Jus | Pommes risolées und Steinpilzrisotto | Knackerbsen</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <name>Blätterteigpastetli mit Brätchügeli | Kartoffelstock | Erbsen und Rüebli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -154,21 +104,53 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Uniess Mexican Bowl» | mit Pulled Pork,Quinoa, Avocado, Süsskartoffel, Salsa Mexicana, rote Bohnen, Zwiebeln und Tortilla Chips</name>
+          <note>Allergene: Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-11">
+    <day date="2022-03-17">
       <category name="Natürlich vegan">
         <meal>
-          <name>«FLEISCHERSATZ» | Legendary Uniess Burger «Vegan» | im Black Bun mit BBQ Sauce, Rucola, Gurke, rote Zwiebeln und Tomate | Kartoffel- Cuts | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sellerie, Sesam, Sulfit, Weizen, Gerste</note>
+          <name>Gemüse- Medaillon | auf Gemüsepfanne mit Kartoffeln | Sojajoghurt mit Schnittlauch | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie</note>
           <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Älpler-Spätzli | Öpfumues und &quot;Röstziebele&quot; | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Uniess Mexican Bowl» | mit Pulled Pork,Quinoa, Avocado, Süsskartoffel, Salsa Mexicana, rote Bohnen, Zwiebeln und Tortilla Chips</name>
+          <note>Allergene: Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-18">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Chickeriki Nuggets vegan | hausgemachte Aioli mit Curry | frittierte Kartoffeln | Cole Slaw | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -177,27 +159,19 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Cannelloni mit Ricotta und Spinat | an Tomaten-Rahmsauce und Käse überbacken | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Weizen</note>
-          <note>Vegetarisch</note>
+          <name>«Red Thaicurry » mit Rindfleisch | grünen Bohnen und Cherrytomaten | Basmatireis | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Heute geschlossen</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Uniess Mexican Bowl» | mit Pulled Pork,Quinoa, Avocado, Süsskartoffel, Salsa Mexicana, rote Bohnen, Zwiebeln und Tortilla Chips</name>
+          <note>Allergene: Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>

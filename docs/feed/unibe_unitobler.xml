@@ -3,54 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-03-07">
+    <day date="2022-03-14">
       <category name="natürlich vegi">
         <meal>
-          <name>&gt;Vegan&lt; | Indischer Blumenkohl Süsskartoffel Eintopf | mit Koriander</name>
-          <note>Allergene: Erdnuss, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>&gt;Vegan&lt; | Vegane Bratwurst | Currysauce | Kartoffelecken</name>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-08">
-      <category name="natürlich vegi">
-        <meal>
-          <name>&gt;MNI&lt; | Chili sin Carne mit Linsen und | Green Power Balls</name>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>&gt;MNI&lt; | Chili sin Carne mit Linsen und | Poulet Meat Balls</name>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-09">
-      <category name="natürlich vegi">
-        <meal>
-          <name>&gt;CH Produkte&lt; | Gemüsekartoffelrösti mit | Karotten, Pfälzern und Sellerie</name>
-          <note>Allergene: Milch, Sellerie</note>
+          <name>Älpler Magronen Vegi | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -59,19 +16,20 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>&gt;CH Produkte&lt; | Walliser Rösti mit Speck,Käse</name>
-          <note>Allergene: Milch</note>
+          <name>Älpler Magronen mit Speck | Menüsalat</name>
+          <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-10">
+    <day date="2022-03-15">
       <category name="natürlich vegi">
         <meal>
-          <name>&gt;Fair Trade&lt; | Riz Casimir mit Quorn und Früchten | Basmati Reis</name>
-          <note>Allergene: Ei, Erdnuss, Soja, Milch, Sellerie</note>
+          <name>Eblysotto mit Frühlingsgemüse | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -80,21 +38,19 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>&gt;Fair Trade&lt; | Riz Casimir mit | Pouletschenkelgeschnetzeltes | Basmati Reis</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Chicken wings BBQ Still mit | Orangen Rüeblisalat und | Pommes Frites | Menüsalat</name>
+          <note>Allergene: Senf, Sulfit</note>
+          <note>Herkunft Gelügel: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-11">
+    <day date="2022-03-16">
       <category name="natürlich vegi">
         <meal>
-          <name>&gt;Fleischersatz&lt; | Soja Bolognaise | Spaghetti</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Planted Stroganoff mit | Peperonigemüse und | Pilaw Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -103,10 +59,51 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>&gt;Fleischersatz&lt; | Gemüse süss- sauer mit | Planted, pulled | Jasmin Reis</name>
-          <note>Allergene: Gluten, Soja, Sulfit</note>
+          <name>Rinds Fleischvogel | Peperonigemüse und | Pilaw Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Rind/Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-17">
+      <category name="natürlich vegi">
+        <meal>
+          <name>The Green Mountain Fleischkäse Ersatz mit | Thymiansauce | Grüne Bohnen und | Farfalle | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Fleischkäse gebacken | Thymiansauce | Grüne Bohnen und | Farfalle | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-03-18">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Vegetarische Fischstäbchen mit | Remouladensauce und | Kartoffel-Lauchgemüse | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Eisflunderfilet mit | Remouladensauce und | Kartoffel-Lauchgemüse | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fisch: Pazifik</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
