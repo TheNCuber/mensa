@@ -48,13 +48,13 @@
     <day date="2022-03-17">
       <category name="Menu 2">
         <meal>
-          <name>Filet de porc rôti | au romarin | Gnocchi de maïs | Légume</name>
+          <name>Croustillant de poulet | Sauce aigre-douce | Country cuts | Salade</name>
           <price role="other">9.00</price>
         </meal>
       </category>
       <category name="Menu 1">
         <meal>
-          <name>Croustillant de poulet | Sauce aigre-douce | Country cuts | Salade</name>
+          <name>Filet de porc rôti | au romarin | Gnocchi de maïs | Légume</name>
           <price role="other">7.50</price>
         </meal>
       </category>
@@ -62,7 +62,7 @@
     <day date="2022-03-18">
       <category name="Menu 2">
         <meal>
-          <name>Filets de perches frits (RUS) | Sauce tartare | Pommes vapeur | Salade</name>
+          <name>Filets de perches frits (EST) | Sauce tartare | Pommes vapeur | Salade</name>
           <price role="other">9.00</price>
         </meal>
       </category>
