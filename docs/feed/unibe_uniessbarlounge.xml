@@ -146,6 +146,15 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü» | Cannelloni mit Ricotta und Spinat | an Tomaten-Rahmsauce und Käse überbacken | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Weizen</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Wochenbowl">
         <meal>
           <name>«Uniess Mexican Bowl» | mit Pulled Pork,Quinoa, Avocado, Süsskartoffel, Salsa Mexicana, rote Bohnen, Zwiebeln und Tortilla Chips</name>
