@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-03-14">
+    <day date="2022-03-21">
       <category name="natürlich vegi">
         <meal>
-          <name>Älpler Magronen Vegi | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Gemüse Schnitzel paniert | Rahmsauce | Glacierte Karotten | Schupfnudeln | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,19 +16,19 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Älpler Magronen mit Speck | Menüsalat</name>
-          <note>Allergene: Gluten, Milch</note>
+          <name>Spargel Brätschnitzel | Rahmsauce | Glacierte Karotten | Schupfnudeln | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit, Weizen</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-15">
+    <day date="2022-03-22">
       <category name="natürlich vegi">
         <meal>
-          <name>Eblysotto mit Frühlingsgemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Marokanisches Linsenragout mit feinem Wurzelgemüse und | Falafel | Menüsalat</name>
+          <note>Allergene: Gluten, Sellerie, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -38,19 +38,19 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Chicken wings BBQ Still mit | Orangen Rüeblisalat und | Pommes Frites | Menüsalat</name>
-          <note>Allergene: Senf, Sulfit</note>
-          <note>Herkunft Gelügel: Schweiz</note>
+          <name>Marokanisches Linsenragout mit feinem Wurzelgemüse und | Rinds Meat Balls | Menüsalat</name>
+          <note>Allergene: Gluten, Sellerie, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-16">
+    <day date="2022-03-23">
       <category name="natürlich vegi">
         <meal>
-          <name>Planted Stroganoff mit | Peperonigemüse und | Pilaw Reis | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <name>Rotes Thai Curry mit Pakchoi und | marieniertem Tofu | Jasmin Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -59,20 +59,19 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Rinds Fleischvogel | Peperonigemüse und | Pilaw Reis | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Rind/Schwein: Schweiz</note>
+          <name>Rotes Thai Curry mit Pakchoi und | Pouletschenkelgeschnetzeltes | Jasmin Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-17">
+    <day date="2022-03-24">
       <category name="natürlich vegi">
         <meal>
-          <name>The Green Mountain Fleischkäse Ersatz mit | Thymiansauce | Grüne Bohnen und | Farfalle | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>2 Blätterteigpastetli | gefüllt mit Gemüseragout | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -80,20 +79,19 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Fleischkäse gebacken | Thymiansauce | Grüne Bohnen und | Farfalle | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>2 Blätterteigpastetli Pastetli mit Brätkügeli | und Gemüse | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-18">
+    <day date="2022-03-25">
       <category name="natürlich vegi">
         <meal>
-          <name>Vegetarische Fischstäbchen mit | Remouladensauce und | Kartoffel-Lauchgemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie, Senf, Sulfit</note>
+          <name>Bärlauch Ravioli mit | Pesto Rosso und | Rucola | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -101,9 +99,9 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Eisflunderfilet mit | Remouladensauce und | Kartoffel-Lauchgemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Soja, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fisch: Pazifik</note>
+          <name>Rinds Ravioli mit | Pesto Rosso und | Rucola | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Weizen</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
