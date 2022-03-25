@@ -109,9 +109,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindsragout an Paprikasauce | mit Eierspätzli | &amp; Kohlrabi</name>
+          <name>Poulet-Meatballs | mit Eierspätzli | &amp; Kohlrabi</name>
           <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -119,7 +119,7 @@
       <category name="voll anders">
         <meal>
           <name>«Pad Thai» | mit Reisnudeln, Sojasprossen | Bundzwiebeln, Thai-Gemüse | Erdnüsse &amp; Limettenschnitz</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sesam</note>
+          <note>Allergene: Gluten, Erdnuss, Soja, Schalenfrüchte, Sesam</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">15.90</price>
