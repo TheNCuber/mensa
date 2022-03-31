@@ -148,6 +148,14 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü» | Pastetli mit Brätchügeli an Pilzrahmsauce | Gemüsestrudel | Reis und Erbsen | Menüsalat</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Wochenbowl">
         <meal>
           <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
