@@ -96,8 +96,8 @@
     <day date="2022-03-31">
       <category name="natürlich vegi">
         <meal>
-          <name>Orientalisches Linsenragout | mit Süsskartoffeln &amp; Wurzelgemüse | dazu Labneh</name>
-          <note>Allergene: Milch, Sellerie, Senf</note>
+          <name>Falafel | mit Mandel-Dip Sauce | Vollreis mit Gemüse</name>
+          <note>Allergene: Soja, Milch, Schalenfrüchte, Sellerie, Senf</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -136,7 +136,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes Gyros Style | mit Tzatziki | &amp; Ofenkartoffeln</name>
+          <name>Pikantes Schweinsgeschnetzeltes | Gyros Style | mit Tzatziki | &amp; Ofenkartoffeln</name>
           <note>Allergene: Gluten, Milch, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
