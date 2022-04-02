@@ -3,20 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-01">
-      <category name="Menu 2">
-        <meal>
-          <name>Escalope de porc | Sauce crème | Pâtes | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Paupiettes de carrelet (Atlantique Nord) | aux épinards | Riz | Légume | Rouleaux de printemps, garniture du jour</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-04-04">
       <category name="Menu 2">
         <meal>
@@ -69,6 +55,20 @@
       <category name="Menu 1">
         <meal>
           <name>Tortellini tricolore (viande) | Salade mêlée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-08">
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de sole (Atlantique-Est) | aux asperges | Riz | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Brochette de viande hachée | Sauce Mexicaine | Pommes rissolées | Légume | Quiche au fromage, salade mêlée</name>
           <price role="other">7.50</price>
         </meal>
       </category>
