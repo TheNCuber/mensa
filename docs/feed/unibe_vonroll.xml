@@ -3,11 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-03-28">
+    <day date="2022-04-04">
       <category name="natürlich vegi">
         <meal>
-          <name>Asiatische Spaghettipfanne | mit Wokgemüse, Frühlingszwiebeln | Knoblauch, Chili &amp; Sesamöl</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sesam</note>
+          <name>Bärlauch Risotto | mit Spargel, Spinat | Radieschen &amp; Reibkäse</name>
+          <note>Allergene: Ei, Milch, Schalenfrüchte, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,98 +17,40 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | an Salbeirahmsauce | mit Gnocchi | &amp; Mangold</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Kalbs-Adrio | an Senfsauce | mit Kartoffelgratin | &amp; Broccoli</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Kalb / Schwein)</note>
-          <price role="other">15.90</price>
-          <price role="student">13.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-29">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Nasi Goreng | mit Tofu | Gemüse, Sojasprossen | &amp; Koriander</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Pouletgeschnetzeltes | an Sweet &amp; Sour Sauce | mit Thai-Gemüse | &amp; Basmatireis</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sulfit, Weichtiere</note>
+          <name>Chicken Tikka Masala | mit Gemüse | &amp; Zitronen Couscous</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Bärlauch-Ravioli | an Rahmsauce | mit Cherrytomaten | &amp; Rucola</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <name>Spargel Ravioli | an Schnittlauch-Rahmsauce | mit Broccoli, Karotten | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
-          <price role="student">11.90</price>
+          <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2022-03-30">
+    <day date="2022-04-05">
       <category name="natürlich vegi">
         <meal>
-          <name>«VEGVEG Tag» | Mais Pizza | mit Champignons, Tomaten | Mozzarella &amp; Basilikum</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>«VEGVEG Tag» | Kokos-Curry mit Ingwer | Planted-Geschnetzeltes, Kichererbsen | Karotten &amp; Fenchel | dazu Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>«VEGVEG Tag» | Vegi-Burger | mit Walnuss, Cheddar | BBQ Sauce, Zwiebeln &amp; Salat | dazu Pommes-Frites</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Sulfit, Lupinen</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">15.90</price>
-          <price role="student">13.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-03-31">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Falafel | mit Mandel-Dip Sauce | Vollreis mit Gemüse</name>
-          <note>Allergene: Soja, Milch, Schalenfrüchte, Sellerie, Senf</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Cannelloni gefüllt mit Rindfleisch | an Tomatensauce | mit Käse überbacken</name>
+          <name>Farfalle | an Gorgonzola Rahmsauce | mit getrockneten Tomaten &amp; Rucola</name>
           <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Andalusisches Rindsragout | mit Orangen, Zimt, Thymian, Knoblauch | Peperoni, Bohnen &amp; Zwiebeln | dazu Petersilienkartoffeln</name>
+          <note>Allergene: Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
@@ -115,19 +59,49 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Paniertes Schweinsschnitzel | mit Zitronenschnitz | dazu Pommes Frites</name>
-          <note>Allergene: Gluten, Ei</note>
+          <name>Okra-Bällchen | auf orientalischem Linsenragout | mit Wurzelgemüse | &amp; Labneh</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">15.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-06">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Kimchi-Reis | mit Gemüse, Chinakohl | Chili &amp; Sesamöl</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Schweinsgeschnetzeltes | an Champignon-Rahmsauce | mit Hörnli | dazu Karotten</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Pouletschenkelsteak Panko | mit Zitrone | &amp; Pommes Frites</name>
+          <note>Allergene: Gluten, Ei</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-01">
+    <day date="2022-04-07">
       <category name="natürlich vegi">
         <meal>
-          <name>«Walliser Rösti» | mit Tomaten | &amp; Raclettekäse überbacken</name>
-          <note>Allergene: Milch, Senf</note>
+          <name>Gemüse-Lasagne | mit Käse überbacken | dazu Kresse</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -136,21 +110,53 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pikantes Schweinsgeschnetzeltes | Gyros Style | mit Tzatziki | &amp; Ofenkartoffeln</name>
-          <note>Allergene: Gluten, Milch, Senf</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Rindshackbraten | an Rosmarinjus | mit Kartoffelstock | &amp; Erbsen</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Vegetarische Wurst | an Currysauce | mit Röstzwiebeln | dazu Kartoffel Wedges</name>
-          <note>Allergene: Gluten, Senf, Sulfit</note>
+          <name>Momos | mit Edamame &amp; Spinat gefüllt | auf Gemüsestreifen | dazu Soja-Knoblauchsauce | &amp; Basmatireis</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
-          <price role="student">12.90</price>
+          <price role="student">13.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-08">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Powerfood-Pfanne | mit Quinoa, Broccoli | Kichererbsen, Mandeln | &amp; Kräuter-Soja-Dip</name>
+          <note>Allergene: Soja, Schalenfrüchte, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Poulet Meat-Balls | an pikanter Tomatensauce | dazu Paella | mit Gemüse &amp; Oliven</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Pistazie</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Fischstäbchen | mit Tartarsauce | &amp; Kartoffel Wedges</name>
+          <note>Allergene: Gluten, Ei, Fisch, Senf, Sulfit</note>
+          <note>Herkunft Fisch: Niederland (Alaska Seelachs)</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">15.90</price>
+          <price role="student">10.90</price>
         </meal>
       </category>
     </day>
