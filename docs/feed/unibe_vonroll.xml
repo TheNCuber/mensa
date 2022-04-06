@@ -49,10 +49,11 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Andalusisches Rindsragout | mit Orangen, Zimt, Thymian, Knoblauch | Peperoni, Bohnen &amp; Zwiebeln | dazu Petersilienkartoffeln</name>
-          <note>Allergene: Sulfit</note>
+          <name>Chicken Tikka Masala | mit Gemüse | dazu Kartoffel-Wedges</name>
+          <note>Allergene: Milch, Sellerie, Senf</note>
           <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
