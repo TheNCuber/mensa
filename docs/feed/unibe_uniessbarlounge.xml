@@ -110,8 +110,9 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü»</name>
+          <name>«Food Save Menü» | Gemüsestroganoff mit Reis | Tortellini mit Tomatensauce | Menüsalat</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegetarisch</note>
           <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
@@ -151,8 +152,9 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü»</name>
+          <name>«Food Save Menü» | Asia Nudeln mit Rindfleisch und Gemüse</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
