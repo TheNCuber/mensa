@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-04">
-      <category name="Menu 2">
-        <meal>
-          <name>Cuisse de poulet à l'ail des ours | Pommes de terre nouvelles rôties | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Emincé de porc Zurichoise | Pâtes | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-05">
-      <category name="Menu 2">
-        <meal>
-          <name>Piccata de porc | Pâtes, sauce tomates | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Filet de merlu pané (Atlantique N-E) | Sauce mayonnaise | Pommes vapeur | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-06">
-      <category name="Menu 2">
-        <meal>
-          <name>Emincé de filet de lapin (H) | à la moutarde | Gnocchi di patate | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Steak de poulet BBQ | Pommes frites | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-07">
-      <category name="Menu 2">
-        <meal>
-          <name>Roastbeef | Sauce Béarnaise | Pommes frites | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Tortellini tricolore (viande) | Salade mêlée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-04-08">
       <category name="Menu 2">
         <meal>
@@ -69,6 +13,62 @@
       <category name="Menu 1">
         <meal>
           <name>Brochette de viande hachée | Sauce Mexicaine | Pommes rissolées | Légume | Quiche au fromage, salade mêlée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-11">
+      <category name="Menu 2">
+        <meal>
+          <name>Steak de cheval grillé (Argentine) | Sauce à l'ail | Pommes frites | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Riz Casimir | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-12">
+      <category name="Menu 2">
+        <meal>
+          <name>Filet d'aiglefin (Atlantique Nord) | Sauce écrevisses | Riz | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Hamburger de boeuf | Sauce champignons | Pâtes | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-13">
+      <category name="Menu 2">
+        <meal>
+          <name>Cou de porc fumé rôti | au miel | Gratin de pommes de terre | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Cannelloni à la viande | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-14">
+      <category name="Menu 2">
+        <meal>
+          <name>Paupiettes de boeuf | Pâtes | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Vol-au-vent Maison | Pommes frites | Légume</name>
           <price role="other">7.50</price>
         </meal>
       </category>

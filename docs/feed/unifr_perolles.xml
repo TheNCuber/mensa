@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-04">
-      <category name="Menu 2">
-        <meal>
-          <name>Cordon-bleu de volaille | Pommes frites | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Sauté de boeuf aux olives | Blé Ebly | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-05">
-      <category name="Menu 2">
-        <meal>
-          <name>Filet d'omble chevalier (ISL) | Sauce aux poireaux | Pommes vapeur | Légume | Médaillon fromage - choux-fleurs</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Riz Casimir | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-06">
-      <category name="Menu 2">
-        <meal>
-          <name>Médaillons de boeuf | Sauce aux 3 poivres | Nouilles | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Saucisse de porc en escargot | Sauce aux oignons | Galette de rösti | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-07">
-      <category name="Menu 2">
-        <meal>
-          <name>Plant-based Burger | Bun Maison | Pommes frites | Salade | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Spaghetti bolognaise | Salade mêlée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-04-08">
       <category name="Menu 2">
         <meal>
@@ -69,6 +13,62 @@
       <category name="Menu 1">
         <meal>
           <name>Brochette de viande hachée | Sauce aux poivrons | Gnocchi à la Romaine | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-11">
+      <category name="Menu 2">
+        <meal>
+          <name>Steak de filet de porc | Sauce aux champignons | Pâtes | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Meatballs au poivre rose | Pommes mousseline | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-12">
+      <category name="Menu 2">
+        <meal>
+          <name>Piccata de volaille | Spaghetti, sauce tomates | Salade | Piccata d'aubergines</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Vol-au-vent Maison | Pommes carrées | Petits pois</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-13">
+      <category name="Menu 2">
+        <meal>
+          <name>Paupiettes de boeuf | aux petits légumes | Polenta | Tomate aux herbes</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Mezzelune | &quot;tomates-mozzarella&quot; | Sauces à choix | Salade mêlée | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-14">
+      <category name="Menu 2">
+        <meal>
+          <name>Filets de rouget Meunière (Pacifique Ouest) | Sauce au safran | Riz créole | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Chicken nuggets | Mayonnaise au curry | Pommes frites | Salade | Chicken végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>

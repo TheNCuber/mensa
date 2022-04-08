@@ -101,20 +101,19 @@
     <day date="2022-04-07">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse-Lasagne | mit Käse überbacken | dazu Kresse</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>Kimchi-Reis | mit Gemüse, Chinakohl | Chili &amp; Sesamöl</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindshackbraten | an Rosmarinjus | mit Kartoffelstock | &amp; Erbsen</name>
+          <name>Paniertes Pouletschenkelsteak | an Rosmarinjus | mit Kartoffelstock | &amp; Erbsen</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -152,12 +151,12 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Fischstäbchen | mit Tartarsauce | &amp; Kartoffel Wedges</name>
-          <note>Allergene: Gluten, Ei, Fisch, Senf, Sulfit</note>
-          <note>Herkunft Fisch: Niederland (Alaska Seelachs)</note>
+          <name>China-Nudeln mit Gemüse | &amp; Sojasprossen</name>
+          <note>Allergene: Gluten, Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">15.90</price>
-          <price role="student">10.90</price>
+          <price role="student">9.90</price>
         </meal>
       </category>
     </day>
