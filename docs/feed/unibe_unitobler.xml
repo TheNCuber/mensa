@@ -3,51 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-04">
+    <day date="2022-04-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Tortellini Tricolore mit Spinat und Ricotta an | Salbei Kräutersauce | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Tortellini mit Fleisch an | Salbei Kräutersauce | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-05">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Gemüse Tajine mit Kichererbsen mit | Safranreis | Menüsalat</name>
-          <note>Allergene: Sesam</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Poulet Tajine mit Kichererbsen mit | Safranreis | Menüsalat</name>
-          <note>Allergene: Sesam</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-06">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Vegi Schnitzel mit Käsefüllung | Zwiebelsauce und | Blumenkohl und | Butternudeln | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <name>The Green Mountain Fleischkäse mit | Senfsauce | Glasierte Karotten mit Gartenerbsen und | Kartoffelstock | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -56,8 +16,30 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Bärlauch Schweinsbratwurst mit | Zwiebelsauce | Blumenkohl und | Butternudeln | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <name>Adrio mit Senfsauce | Glasierte Karotten mit Gartenerbsen und | Kartoffelstock | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein/Kalb: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-12">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Spaghetti | Cinque P mit | Green Power Balls | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Spaghetti | Cinque P mit | gebratenen Speck Würfeln | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
           <note>Herkunft Schwein: Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
@@ -65,32 +47,34 @@
         </meal>
       </category>
     </day>
-    <day date="2022-04-07">
+    <day date="2022-04-13">
       <category name="natürlich vegi">
         <meal>
-          <name>Frühlingsrisotto mit Blattmangold, Pilzen und Peperoncini | Menüsalat</name>
-          <note>Allergene: Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Vegetarisch</note>
+          <name>Chili sin Carne mit Linsen | Trockenreis mit gerösteten Mandelsitften | Menüsalat</name>
+          <note>Allergene: Milch, Schalenfrüchte, Mandel</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Frühlingsrisotto mit Blattmangold, Pilzen und Peperoncini | Lamm Meatballs | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Lamm: Schweiz</note>
+          <name>Chili con carne | Trockenreis mit gerösteten Mandelsitften | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie, Sulfit, Mandel</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-08">
+    <day date="2022-04-14">
       <category name="natürlich vegi">
         <meal>
-          <name>Soja Gyros mit | Aioli Dip und | Gurkensalat mit Dill | Pommes Frites | Menüsalat</name>
-          <note>Allergene: Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Oceansticks mit | Dampfkartoffeln gesalzen | Rahmspinat und | Tartarsauce | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -98,9 +82,9 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Fischknusperli mit | Aioli Dip und | Gurkensalat mit Dill | Pommes Frites | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Milch, Senf</note>
-          <note>Herkunft Fisch: Pazifik</note>
+          <name>Fischstäbchen gebacken mit | Dampfkartoffeln gesalzen | Rahmspinat und | Tartarsauce | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf, Weizen</note>
+          <note>Herkunft Fisch: Pacific</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
