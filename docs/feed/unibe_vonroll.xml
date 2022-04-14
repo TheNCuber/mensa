@@ -81,9 +81,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindsragout | an Balsamicosauce | mit Eierspätzli | &amp; Broccoli</name>
-          <note>Allergene: Gluten, Ei, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Poulet Meatballs | an Tomatensauce | mit Eierspätzli | &amp; Broccoli</name>
+          <note>Allergene: Gluten, Ei, Sellerie</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -122,7 +122,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Paniertes Schweinsschnitzel | mit Pommes Frites</name>
+          <name>Paniertes Schweinsschnitzel | Österreicher Art | mit Pommes Frites</name>
           <note>Allergene: Gluten, Ei</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">15.90</price>
