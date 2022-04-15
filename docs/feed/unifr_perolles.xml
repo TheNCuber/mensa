@@ -3,66 +3,60 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-11">
-      <category name="Menu 2">
-        <meal>
-          <name>Steak de filet de porc | Sauce aux champignons | Pâtes | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Meatballs au poivre rose | Pommes mousseline | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-12">
-      <category name="Menu 2">
-        <meal>
-          <name>Piccata de volaille | Spaghetti, sauce tomates | Salade | Piccata d'aubergines</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Vol-au-vent Maison | Pommes carrées | Petits pois</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-13">
-      <category name="Menu 2">
-        <meal>
-          <name>Paupiettes de boeuf | aux petits légumes | Polenta | Tomate aux herbes</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Mezzelune | &quot;tomates-mozzarella&quot; | Sauces à choix | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-14">
-      <category name="Menu 2">
-        <meal>
-          <name>Filets de rouget Meunière (Pacifique Ouest) | Sauce au safran | Riz créole | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Chicken nuggets | Mayonnaise au curry | Pommes frites | Salade | Chicken végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-04-15">
       <category name="Menu 1">
         <meal>
           <name>Vendredi-Saint | La Mensa est fermée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-18">
+      <category name="Menu 1">
+        <meal>
+          <name>Lundi de Pâques | La Mensa est fermée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-19">
+      <category name="Menu 2">
+        <meal>
+          <name>Rôti de porc Vigneron | Gnocchi poêlés | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Bami Goreng | Salade | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-20">
+      <category name="Menu 2">
+        <meal>
+          <name>Tranche de dinde (I) panée | Pommes soufflées | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Risotto aux champignons | Salade | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-21">
+      <category name="Menu 2">
+        <meal>
+          <name>Steak de cheval (E) | à l'ail | Nouilles | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Rösti pizza | Salade | Menu végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>
