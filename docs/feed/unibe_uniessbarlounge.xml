@@ -3,51 +3,30 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-11">
+    <day date="2022-04-18">
       <category name="Natürlich vegan">
         <meal>
-          <name>NoSchnitzel | mit Zitrone und Ketchup | Frittierte Kartoffel | Erbsli und Rüebli | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <name>OSTERMONTAG</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Cannelloni mit Ricotta und Spinat | an Tomaten-Rahmsauce und Käse überbacken | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Weizen</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Tortillas mit Tex Mex Gemüse | Pasta mit Basilikum Pesto | Brätschnitzel mit Reis | Menusalat</name>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Frühlingsbowl mit farbigem Linsen-Quinoa Salat garniert mit Kräuterhüttenkäse und frisches Ruchbrot</name>
+          <note>Allergene: Milch, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-12">
+    <day date="2022-04-19">
       <category name="Natürlich vegan">
         <meal>
-          <name>Orecchiette alla Mediterranea | mit Olivenöl, Basilikum, Knoblauch, Peperoncino, Tomaten und frischer Rucola | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Genuss in Balance</note>
+          <name>Penne an rassiger Arrabiatsauce mit Cherrytomaten und Rucola | Menusalat</name>
+          <note>Allergene: Gluten, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -56,8 +35,7 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Blumenkohl- Käse- Medaillon | Petersilien Kartoffeln | Rahmspinat | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <name>Spargeln - Süsskartoffeln Eintopf mit Bärlauch | Menusalat</name>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -66,8 +44,8 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Sellerie</note>
+          <name>Schweins Cordon Bleu | Pommes Frites | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Milch</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
@@ -75,21 +53,19 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Frühlingsbowl mit farbigem Linsen-Quinoa Salat garniert mit Kräuterhüttenkäse und frisches Ruchbrot</name>
+          <note>Allergene: Milch, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-13">
+    <day date="2022-04-20">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gemüse Sweet &amp; Sour mit Tofu | Basmatireis | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Gemüsestrudel Vegan | Peperonata | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -98,46 +74,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Schweinsgeschnetzeltes an Pilzrahmsauce | Spätzli | Broccoli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Orecchiette mit rotem Pesto | Blumenkohl- Käse Medaillons | Menusalat</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegetarisch</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-14">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Frühlings Gnocchipfanne | mit Bärlauch, Spargel und Gemüsewürfel | an Safran- Zitronensauce | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit, Weizen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Grosis Rindshackbraten an Rotweinsauce | Polenta | Ratatouille | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <name>Rindsgeschnetzeltes Stroganoff | Langkornreis | Menusalat</name>
+          <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -145,22 +83,72 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Frühlingsbowl mit farbigem Linsen-Quinoa Salat garniert mit Kräuterhüttenkäse und frisches Ruchbrot</name>
+          <note>Allergene: Milch, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-15">
+    <day date="2022-04-21">
       <category name="Natürlich vegan">
         <meal>
-          <name>Karfreitag</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>Couscous mit orientalischen Aromen | Falafel | Sojajoghurt | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Fried Rice mit Gemüsewürfel, Rosinen und gebratenem Ei | Menusalat</name>
+          <note>Allergene: Soja, Schalenfrüchte</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Frühlingsbowl mit farbigem Linsen-Quinoa Salat garniert mit Kräuterhüttenkäse und frisches Ruchbrot</name>
+          <note>Allergene: Milch, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-22">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Veganes Rotweinrisotto mit frischen Kräutern | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Schlemmerfilet Bordolaise | Kräuter-Knoblauchmayonnaise | Kartoffel-Lauchgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Fisch, Milch</note>
+          <note>Herkunft Fisch:</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Frühlingsbowl mit farbigem Linsen-Quinoa Salat garniert mit Kräuterhüttenkäse und frisches Ruchbrot</name>
+          <note>Allergene: Milch, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
