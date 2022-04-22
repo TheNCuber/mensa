@@ -3,56 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-18">
-      <category name="Menu 1">
-        <meal>
-          <name>Lundi de Pâques | La Mensa est fermée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-19">
-      <category name="Menu 2">
-        <meal>
-          <name>Filet de porc de la Gruyère | aux pruneaux | Pommes country | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Emincé de soja | à la moutarde | Nouilles | Choux de Bruxelles | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-20">
-      <category name="Menu 2">
-        <meal>
-          <name>Galette d'haricots blancs aux graines de courges | Jus au romarin | Pommes de terre grenailles rôties | Salade d'endives aux noix | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Cuisse de poulet | Basquaise | Pâtes au beurre | Tomate au four</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-21">
-      <category name="Menu 2">
-        <meal>
-          <name>Involtini de lapin (H)* | &quot;Bonne femme&quot; | Polenta | Choux pommes persillés</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Quiche au poireau et Gruyère | Soupe du chalet | Salade de racines rouges | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-04-22">
       <category name="Menu 2">
         <meal>
@@ -63,6 +13,62 @@
       <category name="Menu 1">
         <meal>
           <name>Gratiné de gnocchi aux | petits légumes et sauge | Salade de fenouil aux pommes | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-25">
+      <category name="Menu 2">
+        <meal>
+          <name>Brochette mixte | Jus court | Pommes soufflées | Salade mêlée du moment</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Galette de blé à la Mexicaine | Sauce Cajun | Riz complet | Courgettes sautées aux herbes | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-26">
+      <category name="Menu 2">
+        <meal>
+          <name>Poêlée de crevettes (VN-MSC) | au curry rouge et lait de coco | Riz parfumé | Julienne de racines sautées au sésame</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Parmentier de soja et | petits légumes | Salade de pain de sucre aux graines de tournesol | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-27">
+      <category name="Menu 2">
+        <meal>
+          <name>Brochette végétarienne | à l'ajvar | Gratin | Salade rucola | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Sauté de porc de la Gruyère | à la Provençale | Penne | Carottes et petits pois glacés</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-28">
+      <category name="Menu 2">
+        <meal>
+          <name>Paupiette de boeuf (porc-boeuf CH) | Polenta crémeuse | Pak choï braisé</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Omelette roulée aux épinards, | Cantadou et noix | Pommes grenailles rissolées | Salade pommée | Menu végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>
