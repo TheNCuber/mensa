@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-19">
+    <day date="2022-04-25">
       <category name="natürlich vegi">
         <meal>
-          <name>Penne Arrabiata mit Mozzarellakugeln, Rucola | Menüsalat</name>
-          <note>Allergene: Gluten, Milch</note>
+          <name>Spaghetti | Vegetarische Bolognaise | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,41 +16,21 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Penne Arrabiata mit Schinken, Rucola | Menüsalat</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein: Schweiz</note>
+          <name>Spaghetti | Rinds Bolognaise | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Rind: Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-20">
+    <day date="2022-04-26">
       <category name="natürlich vegi">
         <meal>
-          <name>Riz Casimir mit Quorn und Früchten | Gemüsereis | Menüsalat</name>
-          <note>Allergene: Ei, Erdnuss, Soja, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Riz Casimir mit | Pouletschenkelgeschnetzeltes | Gemüsereis | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-21">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Frühlingsrollen mit Gemüsefüllung auf | Asiatischem Gemüse mit | Glasnudeln | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sesam</note>
+          <name>Auberginencurry mit Kichererbsen, Mais und | marienierten Tofu | Menüsalat</name>
+          <note>Allergene: Soja, Senf</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -60,20 +40,40 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Udon Nudeln mit Erdnüssen, Rind und Gemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sesam</note>
-          <note>Herkunft Rind: Schweiz</note>
+          <name>Auberginencurry mit Kichererbsen, Mais und | Poulet Meat Balls | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Senf, Sesam, Pistazie</note>
+          <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-22">
+    <day date="2022-04-27">
       <category name="natürlich vegi">
         <meal>
-          <name>Vegetarisches Weizen Schnitzel auf | Cremigen Kartoffel-Lauchgemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Weizen</note>
-          <note>Genuss in Balance</note>
+          <name>Veg/Veg Tag | Wurzelgemüse Risotto mit Gremolata | Menüsalat</name>
+          <note>Allergene: Soja, Milch, Sellerie, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Veg/Veg Tag | Vegane Novish-Knusperli | Karottensalat | Rissolées Kartoffeln | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-28">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Rösti mit Mediterranem Gemüse und Fetakäse | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -82,9 +82,31 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Schlemmerfilet Italiano auf | Cremigen Kartoffel-Lauchgemüse | Menüsalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sellerie</note>
-          <note>Herkunft Seelachs: Pacific</note>
+          <name>Walliser Rösti mit Speck und Käse | Menüsalat</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-04-29">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Kartoffelgnocchi mit Dörrtomaten, Salbei und Rucola | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Kartoffelgnocchi mit | Truten Geschnetzeltes mit Pepronirahmsauce | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit, Weizen</note>
+          <note>Herkunft Truten: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
