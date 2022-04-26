@@ -6,7 +6,7 @@
     <day date="2022-04-25">
       <category name="natürlich vegi">
         <meal>
-          <name>Älplermagronen | mit Kartoffeln, Zwiebeln | Apfel-Birnenmus, Reibkäse | &amp; Röstzwiebeln</name>
+          <name>Tortellini mit Spinat-Ricotta Füllung | an Rahmsauce | Apfel-Birnenmus, Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -26,7 +26,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Gemüseravioli | an Basilikum-Rahmsauce | mit Cherrytomaten | &amp; Reibkäse</name>
+          <name>Gemüseravioli | an Basilikum-Rahmsauce | mit getrockneten Tomaten | &amp; Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
