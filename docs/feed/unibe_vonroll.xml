@@ -48,9 +48,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Lasagne al Forno | mit Bolognaise, Rahmsauce | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Poulet Sweet &amp; Sour | mit Erbsen, Lauch, Karotten | und Sojasprossen | Sesam-Reis &amp; Koriander</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
