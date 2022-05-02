@@ -3,41 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-04-25">
+    <day date="2022-05-02">
       <category name="Natürlich vegan">
         <meal>
-          <name>Soja Gemüse Bolognese | Hörnli | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit, Gerste</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Hörnli | Tomatenrahmsauce mit Basilikum | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Cesar - Bowl mit frischem Lattich, Süssmais, sautierte Pouletstreifen und Brotcroutons</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-04-26">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Gemüse Sweet &amp; Sour mit Tofu | Basmati Reis | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <name>Africancurry mit Süsskartoffeln und Okra | Basmati Reis | Menusalat</name>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -47,16 +16,48 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Pouletragout | Zitronenrahmsauce | Basmati Reis | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <name>Cannelloni mit Spinat - Ricotta Füllung überbacken mit Tomatensauce und Reibkäse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Gemüse-Bowl mit Gartenerbsen, weissen Spargeln, Karottenjulienne, Kräuterquarkdip und gekochtes Ei</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-03">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Gemüseschnitzel | Bärlauchsauce | Kartoffelstock | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Gemüsereispfanne mit Spargeln Pfälzer Karotten und Schnittlauch | Menusalat</name>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse | Menusalat</name>
+          <name>Schweins Cordon Bleu | Pommes Frites | Menusalat</name>
           <note>Allergene: Gluten, Ei, Erdnuss, Milch</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">15.90</price>
@@ -65,19 +66,20 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Cesar - Bowl mit frischem Lattich, Süssmais, sautierte Pouletstreifen und Brotcroutons</name>
+          <name>Gemüse-Bowl mit Gartenerbsen, weissen Spargeln, Karottenjulienne, Kräuterquarkdip und gekochtes Ei</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-27">
+    <day date="2022-05-04">
       <category name="Natürlich vegan">
         <meal>
-          <name>Polenta | Mediterranes Pilzragout | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <name>Gersotto mit Tomaten und Oliven | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -86,69 +88,58 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Emmentaler Brät Schnitzel | Senfsauce | Pommes Rissolées | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.50</price>
+          <name>Chili Con Carne Rindsgehacktes mit Bohnen Mais | Tortilla Chips | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam, Sulfit, Weizen</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <price role="other">7.80</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Cesar - Bowl mit frischem Lattich, Süssmais, sautierte Pouletstreifen und Brotcroutons</name>
+          <name>Gemüse-Bowl mit Gartenerbsen, weissen Spargeln, Karottenjulienne, Kräuterquarkdip und gekochtes Ei</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
+    </day>
+    <day date="2022-05-05">
+      <category name="Natürlich vegan">
         <meal>
-          <name>Schweins Cordon Bleu | Grüne Bohnen | Reis | Gemüse Süss Sauer</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Schwein: Schweiz</note>
+          <name>Vegane Gnocchi mit Salbei und Gemüse | Tomatensauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit, Weizen</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
+          <note>Vegetarisch</note>
           <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-    </day>
-    <day date="2022-04-28">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Couscouspfanne mit Randenwürfeli | Sojajoghurt mit Knoblauch und Safran | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Älplermaggronen mit Röstzwiebeln, Apfelmus und Gruyère | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Cesar - Bowl mit frischem Lattich, Süssmais, sautierte Pouletstreifen und Brotcroutons</name>
+          <name>Gemüse-Bowl mit Gartenerbsen, weissen Spargeln, Karottenjulienne, Kräuterquarkdip und gekochtes Ei</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-04-29">
+    <day date="2022-05-06">
       <category name="Natürlich vegan">
         <meal>
-          <name>Asiatischer grüner Linseneintopf mit Kokosmilch | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Gemüseragout | Ofenkartoffel mit Kurkuma, Sesam und Kreuzkümmel | Menusalat</name>
+          <note>Allergene: Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -157,20 +148,19 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Spätzlipfanne mit Karotten, Broccoli und Spargeln | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Fischknusperli | Tartarsauce | Petersilienkartoffeln | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Senf, Sulfit</note>
+          <note>Herkunft Fisch:</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="other">7.80</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Cesar - Bowl mit frischem Lattich, Süssmais, sautierte Pouletstreifen und Brotcroutons</name>
+          <name>Gemüse-Bowl mit Gartenerbsen, weissen Spargeln, Karottenjulienne, Kräuterquarkdip und gekochtes Ei</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
