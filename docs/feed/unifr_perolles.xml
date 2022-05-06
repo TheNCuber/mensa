@@ -3,66 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-02">
-      <category name="Menu 2">
-        <meal>
-          <name>Jambon Party | Sauce au Marsala | Pommes frites | Haricots verts</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Meat balls | Sauce mexicaine | Gnocchis | salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-03">
-      <category name="Menu 2">
-        <meal>
-          <name>Filet d'omble chevalier (Islande) | Sauce au citron | Pommes vapeur | Légumes</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Nasi Goreng ou | Nasi Végétarien | Salade</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-04">
-      <category name="Menu 2">
-        <meal>
-          <name>Steacks de porc | Sauce à la moutarde en grains | Nouilles | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Beef burger | Sauce au poivre vert | Pommes soufflées | Légumes</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-05">
-      <category name="Menu 2">
-        <meal>
-          <name>Raviolis &quot;Ratatouille Sauce tomate Vuna Salade mêlée</name>
-          <price role="other">9.00</price>
-        </meal>
-        <meal>
-          <name>Raviolis *ratatouille* | Sauce tomate &amp; vuna | Salade mêlée</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Filet de colin (Alaska) | Sauce Tartare | Pommes nature | Epinards à la crème</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-05-06">
       <category name="Menu 2">
         <meal>
@@ -73,6 +13,62 @@
       <category name="Menu 1">
         <meal>
           <name>Emincé de dinde aux légumes | Riz créole | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-09">
+      <category name="Menu 2">
+        <meal>
+          <name>Steak de cheval (E) | Sauce à l'ail | Penne | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Saucisse de veau Olma | Sauce aux oignons | Galette de rösti | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-10">
+      <category name="Menu 2">
+        <meal>
+          <name>Paupiette de boeuf | Sauce au vin rouge | Polenta | Salade de racines rouges</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Rouleaux de printemps | Sauce aigre-douce | Riz basmati | Légume | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-11">
+      <category name="Menu 2">
+        <meal>
+          <name>Chicken fingers | Sauce cocktail | Pommes frites | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Emincé de veau à la crème | Nouilles | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-12">
+      <category name="Menu 2">
+        <meal>
+          <name>Brochette mixed | Jus clair | Couscous | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Lasagne végétarienne | Salade mêlée | Menu végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>
