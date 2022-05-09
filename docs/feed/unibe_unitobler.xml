@@ -3,34 +3,32 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-02">
+    <day date="2022-05-09">
       <category name="natürlich vegi">
         <meal>
-          <name>Green Mountain | Currywurst mit | Röstzwiebeln und | Pommes Frites | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <name>Älpler Magronen Vegi | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Schweins Curry Wurst mit | Röstzwiebeln und | Pommes Frites | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Älpler Magronen mit Speck | Menüsalat</name>
+          <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Schwein: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-03">
+    <day date="2022-05-10">
       <category name="natürlich vegi">
         <meal>
-          <name>Pilz Stroganoff mit | Peperoni und Lauch | Basmati Reis | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Tofu Gulasch mit | Kartoffel-Lauch-Gratin | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -39,60 +37,19 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Poulet Brust Streifen Stroganoff | Basmati Reis | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-04">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Cannelloni gefüllt mit Ricotta und Spinat | Tomatensauce und Käse überbacken | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Cannelloni gefüllt mit Rindfleisch | Tomatensauce und Käse überbacken | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
+          <name>Rinds Gulasch Ungarische Art mit | Kartoffel-Lauch-Gratin | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-05">
+    <day date="2022-05-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Chickeriki Nuggets mit | Baked Potatos und | Soja Kräuter Dip | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>BBQ Poulet Flügeli mit | Baked Potatos und | Soja Kräuter Dip | Menüsalat</name>
-          <note>Allergene: Soja, Milch, Senf</note>
-          <note>Herkunft Poulet : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-06">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Blätterteigpastetli mit | Frühlingsgemüse Ragout | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <name>Kubanischer-Quorneintopf mit Ananas und | Trockenreis mit gerösteten Mandelsitften | Menüsalat</name>
+          <note>Allergene: Soja, Milch, Schalenfrüchte, Sellerie, Sulfit, Mandel</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -100,9 +57,50 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Blätterteigpastetli mit | Kalbs Brätkügeli und Gemüseragout | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Schwein, Kalb: Schweiz</note>
+          <name>Kubanischer Pouletragout mit Ananas und | Trockenreis mit gerösteten Mandelsitften | Menüsalat</name>
+          <note>Allergene: Milch, Schalenfrüchte, Mandel</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-12">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Falafel mit | Gemüse Tajine mit Kichererbsen und | Couscous | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Lamm Meat Balls mit | Gemüse Tajine mit Kichererbsen und | Couscous | Menüsalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Pistazie</note>
+          <note>Herkunft Lamm: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-13">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Soja Moussaka mit buntem Marktgemüse, Kartoffeln und Oregano | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Dorschknusperli mit | Remouladensauce und | Pommes Frites | Gurkensalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Milch, Senf, Sulfit</note>
+          <note>Herkunft Dorsch: Atlantic</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
