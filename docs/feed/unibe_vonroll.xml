@@ -48,9 +48,11 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsbraten | mit Rosmarinsauce | dazu Bräterkartoffeln | &amp; Bohnen</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Pouletspiess | mit Rosmarinsauce | dazu Bräterkartoffeln | &amp; Bohnen</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
