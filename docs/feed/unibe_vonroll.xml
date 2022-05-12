@@ -71,8 +71,8 @@
     <day date="2022-05-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Gelbes Curry | mit Kichererbsen | Wokgemüse &amp; Lauch | dazu Couscous</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Kichererbsen | Wokgemüse &amp; Lauchgemüse | an Tomatensauce | dazu Couscous</name>
+          <note>Allergene: Gluten, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -81,7 +81,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Kubanisches Pouletragout mit Ananas | Peperoni, Oregano &amp; Chili | dazu Safranreis mit Mais und Kidney Bohnen</name>
+          <name>Kubanisches Pouletragout mit Ananas | Peperoni, Oregano &amp; Chili | &amp; Spaghetti</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
