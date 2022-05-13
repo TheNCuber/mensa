@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-09">
-      <category name="Menu 2">
-        <meal>
-          <name>Sauté de boeuf au Whisky | Pommes country | Duo d'haricots</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Courgette au fromage frais | Cornettes complètes | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-10">
-      <category name="Menu 2">
-        <meal>
-          <name>Filet de quorn aux chips de maïs | Sauce paprika | Quinoa | Salade de concombres au séré et aneth | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Steak de porc Cowboy | Sauce BBQ | Baked potatoes | Carottes glacées</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-11">
-      <category name="Menu 2">
-        <meal>
-          <name>Brochette de poulet satay | Sauce aux cacahuètes | Risi bisi | Chou chinois sauté</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Brochette de falafel | Sauce yogourt au citron vert | Couscous | Ratatouille | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-12">
-      <category name="Menu 2">
-        <meal>
-          <name>Epaule de veau | au vin cuit | Spätzli Maison | Medley de légumes</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Galette de pois verts et petits légumes | Sauce au poivre | Nouilles | Salade d'endives | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-05-13">
       <category name="Menu 2">
         <meal>
@@ -69,6 +13,62 @@
       <category name="Menu 1">
         <meal>
           <name>Chicken wings (D) | Sauce Calypso | Pommes rissolées | Salade fantaisie</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-16">
+      <category name="Menu 2">
+        <meal>
+          <name>Galette de céréales et curcuma | Sauce citronnelle | Riz Pilaf | Poêlée de légumes | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Suprême de volaille (F) | au thym | Pommes de terre grenailles rissolées | Salade de crudités</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-17">
+      <category name="Menu 2">
+        <meal>
+          <name>Pavé de thon (MSC-Atlantique Nord) | Sauce vierge aux herbes | Pommes nature | Salade de tomates</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Vol-au-vent de | champignons et légumineuse | Pommes frites | Carottes et petits pois | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-18">
+      <category name="Menu 2">
+        <meal>
+          <name>Arancini à la tomate et mozzarella | Coulis de tomates | Poivronade à l'ail | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Sauté de porc de la Gruyère | Provençale | Gnocchi | Salade du marché</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-19">
+      <category name="Menu 2">
+        <meal>
+          <name>Pièce de boeuf à l'Anglaise | Sauce Béarnaise | Nouilles au beurre | Brocoli</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Oeuf au plat | Rösti aux oignons | Salade de chou chinois | Menu végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>
