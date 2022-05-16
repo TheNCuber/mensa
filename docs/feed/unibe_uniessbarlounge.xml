@@ -3,11 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-09">
+    <day date="2022-05-16">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Jambalaya» Pikante Kreolische Reispfanne | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Vegane Spanische Paella mit farbigen Peperoni und Gartenerbsen | Menusalat</name>
+          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,29 +17,77 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Bami Goreng Indonesisches Nudelgericht | Menusalat</name>
-          <note>Allergene: Gluten, Soja</note>
-          <note>Genuss in Balance</note>
+          <name>Sommerliche Pastapfanne mit Pestorahmsauce | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Reich garnierter Hawaiianischer Poulet Salat mit Ananas und pikanter gelber Currysauce auf grünem Blattsalat</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Überbackener Gemüsegratin | Feine Ebylpfanne mit Gemüse</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegetarisch</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-17">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Massaman Curry mit Räucher Tofu und Spargeln | Couscous mit Brunoise | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Singapore Nudeln mit Sojasprossen Peperoncini Pack Choi, Edamane Kartottenjulienne und Stangensellerie | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Feine Gemüsepfanne mit grünen Bohnen dazu Reis | Menusalat</name>
+          <name>Schweins Cordon Bleu im Panko | dazu Pommes Frites | mit Bohnenhochzeit | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Milch</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">15.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Reich garnierter Hawaiianischer Poulet Salat mit Ananas und pikanter gelber Currysauce auf grünem Blattsalat</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegetarisch</note>
-          <price role="other">7.80</price>
-          <price role="student">7.80</price>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-10">
+    <day date="2022-05-18">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gemüse-Tajine mit Auberginen, Tomaten und farbigen Peperoni | Bulgur mit orientalischen Aromen | Menusalat</name>
+          <name>«Chili sin carne» Eintopf mit Soja, Bohnen, Peperoni und Tomaten | Wildreis | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -49,90 +98,29 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«Conchiglie alla trapanese » Müschli mit Knoblauch, Tomaten und frischen Basilikum | Menusalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Schweins Cordon Bleu | Pommes Frites | Röschen Gemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Milch</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">12.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-11">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Veganes Gulasch mit Sojagehacktem Eierschwämml und Champignons | dazu Polenta mit Frühlingszwiebeln | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Rinds Ragout mit Paprikarahmsauce | Risi Bisi | Menusalat</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Nudeln an feinem Basilikum Pesto | Gemüse Tajine mit Bulgur | Menusalat</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegetarisch</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-12">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Grünes Planted Thai Curry | Basmati Reis | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Gemüsegratin nach «griechischer Art» | Frisches Kräuterquark | Menusalat</name>
+          <name>Brätchügeli an weisser Sauce | Kartoffelstock mit Kräutern | glasiertes Erbsen und Kartottengemüse | Menusalat</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <note>Herkunft Schwein/Kalb: Schweiz</note>
+          <price role="other">7.80</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
+      <category name="Wochenbowl">
         <meal>
-          <name>Sojabolognese mit Pilzen dazu Risi Bisi oder Polenta | Menusalat</name>
+          <name>Reich garnierter Hawaiianischer Poulet Salat mit Ananas und pikanter gelber Currysauce auf grünem Blattsalat</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegetarisch</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-13">
+    <day date="2022-05-19">
       <category name="Natürlich vegan">
         <meal>
-          <name>Ebly-Gemüsepfanne mit Lauch, Karotten Blumenkohl und Broccoli | Menusalat</name>
-          <note>Allergene: Gluten</note>
+          <name>Pikantes Indisches Linsen Dal mit Kartoffel und Wurzelgemüse | Menusalat</name>
+          <note>Allergene: Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -141,12 +129,52 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Fischstäbchen | Cocktail Sauce | Butterkartoffeln | Spargelragout</name>
-          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Milch, Sellerie, Senf, Sesam</note>
-          <note>Herkunft Fisch:</note>
+          <name>Penne Cinque P | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Reich garnierter Hawaiianischer Poulet Salat mit Ananas und pikanter gelber Currysauce auf grünem Blattsalat</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-20">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Risotto mit weissen und grünen Spargeln | Menusalat</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Überbackene Chässpätzli mit Röstzwiebeln | Apfelmus | Menusalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Weizen</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Reich garnierter Hawaiianischer Poulet Salat mit Ananas und pikanter gelber Currysauce auf grünem Blattsalat</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
