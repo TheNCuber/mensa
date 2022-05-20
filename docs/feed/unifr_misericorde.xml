@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-16">
-      <category name="Menu 2">
-        <meal>
-          <name>Galette de céréales et curcuma | Sauce citronnelle | Riz Pilaf | Poêlée de légumes | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Suprême de volaille (F) | au thym | Pommes de terre grenailles rissolées | Salade de crudités</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-17">
-      <category name="Menu 2">
-        <meal>
-          <name>Pavé de thon (MSC-Atlantique Nord) | Sauce vierge aux herbes | Pommes nature | Salade de tomates</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Vol-au-vent de | champignons et légumineuse | Pommes frites | Carottes et petits pois | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-18">
-      <category name="Menu 2">
-        <meal>
-          <name>Arancini à la tomate et mozzarella | Coulis de tomates | Poivronade à l'ail | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Sauté de porc de la Gruyère | Provençale | Gnocchi | Salade du marché</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-19">
-      <category name="Menu 2">
-        <meal>
-          <name>Pièce de boeuf à l'Anglaise | Sauce Béarnaise | Nouilles au beurre | Brocoli</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Oeuf au plat | Rösti aux oignons | Salade de chou chinois | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-05-20">
       <category name="Menu 2">
         <meal>
@@ -69,6 +13,56 @@
       <category name="Menu 1">
         <meal>
           <name>Quiche aux légumes | et basilic | garni de crudités | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-23">
+      <category name="Menu 2">
+        <meal>
+          <name>Cordon-bleu de volaille | quartier de citron | Pommes frites | Brocoli aux graines de courges</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Emincé de quorn Stroganoff | Nouilles au beurre | Salade de tomates | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-24">
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de sandre  en pâte à frire | (centre Europe) | Pommes nature à la ciboulette | Laitue julienne braisée</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Galette de lentilles et betterave | Sauce à l'ail | Gnocchi | Salade mêlée et radis | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-25">
+      <category name="Menu 2">
+        <meal>
+          <name>Brochette d'aubergines au sésame | Pois chiche | Riz complet | Menu végétarien</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Poitrine de dinde (D) | à la moutarde | Pommes mousseline | Medley de légumes</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-26">
+      <category name="Menu 1">
+        <meal>
+          <name>Ascension | La Mensa est fermée</name>
           <price role="other">7.50</price>
         </meal>
       </category>
