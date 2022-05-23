@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-16">
+    <day date="2022-05-23">
       <category name="natürlich vegi">
         <meal>
-          <name>Vegane Bratwurst mit | Zwiebelsauce | Grüne Bohnen und | Röstikroketten | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <name>Gemüse Plätzli mit | Tzatziki und | Gemüsereis | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,88 +16,54 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Kalbsbratwurst mit | Zwiebelsauce | Grüne Bohnen und | Röstikroketten | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Kalb/Schwein: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-17">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Spätzlipfanne mit Spargel und Basilikum | und Frühlingsgemüse | Menüsalat</name>
-          <note>Allergene: Milch</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Spätzlipfanne mit Spargel und Basilikum | und Schinken | Menüsalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
+          <name>Schweinsgeschnetzeltes Gyros und | Tzatziki mit | Gemüsereis | Menüsalat</name>
+          <note>Allergene: Milch, Sellerie</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-18">
+    <day date="2022-05-24">
       <category name="natürlich vegi">
         <meal>
-          <name>Pad Thai mit Reisnudeln, Soja-Mungosprossen | Bundzwiebeln und Koriander | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Erdnuss, Soja, Weichtiere</note>
-          <note>Vegan</note>
+          <name>Quinoa mit Ofengemüse und Fetabrösel | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Pad Thai mit Reisnudeln, Soja-Mungosprossen | Bundzwiebeln ,Koriander | gebratenen Pouletbruststreifen | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Erdnuss, Soja, Milch, Sellerie, Weichtiere</note>
+          <name>Quinoa mit Ofengemüse und Fetabrösel | Poulet Brust gebraten | Menüsalat</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-19">
+    <day date="2022-05-25">
       <category name="natürlich vegi">
         <meal>
-          <name>Vegetarische Hackbällchen auf | Tomatensauce und | Ebly mit Gemüse | Menüsalat, 40g</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Meat Balls auf | Tomatensauce und | Ebly mit Gemüse | Menüsalat, 40g</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-20">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Linsencurry mit Süsskartoffeln &amp; geräuchtem Tofu | Menüsalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
+          <name>VEG/VEG-Tag | Spargel, Erbsen-Risotto mit Rucola | Menüsalat</name>
+          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Seelachs Nuggets im Backteig auf | Linsencurry mit Süsskartoffeln und bunten Gemüsen | Menüsalat</name>
-          <note>Allergene: Gluten, Fisch, Sellerie, Sesam</note>
-          <note>Herkunft Seelachs: Nordwestpazifik</note>
+          <name>VEG/VEG-Tag | Spaghetti | Soja Bolognaise | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
