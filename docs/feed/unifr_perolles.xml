@@ -3,72 +3,72 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-16">
+    <day date="2022-05-27">
       <category name="Menu 2">
         <meal>
-          <name>Piccata de poulet | Jus au Madère | Penne | Salade</name>
+          <name>BROCHE sur la terrasse</name>
           <price role="other">9.00</price>
         </meal>
       </category>
       <category name="Menu 1">
         <meal>
-          <name>Steak de porc mariné | Sauce peperonata | Pommes au thym | Légume</name>
+          <name>Nasi Goreng | Salade mêlée | Nasi végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-17">
+    <day date="2022-05-30">
       <category name="Menu 2">
         <meal>
-          <name>Poêlée de scampis (Afrique du Sud) | à la printanière | Couronne de riz | Salade</name>
+          <name>Steak de boeuf grillé | Mousse Café de Paris | Pommes soufflées | Légume</name>
           <price role="other">9.00</price>
         </meal>
       </category>
       <category name="Menu 1">
         <meal>
-          <name>Spaghetti Bolognaise | Salade mêlée | Spaghetti, sauce végétarienne</name>
+          <name>Riz Casimir | Salade</name>
           <price role="other">7.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-18">
+    <day date="2022-05-31">
       <category name="Menu 2">
         <meal>
-          <name>Emincé de boeuf Stroganoff | Pâtes | Salade</name>
+          <name>Médaillon de saumon (Iles Féroé) | Sauce | Riz aux petits légumes | Salade</name>
           <price role="other">9.00</price>
         </meal>
       </category>
       <category name="Menu 1">
         <meal>
-          <name>Rôti de dinde (D) | Sauce au paprika | Pommes Mont d'Or | Légume</name>
+          <name>Brochette de chipolata | Jus clair | Galette de rösti | Légume | Brochette végétarienne</name>
           <price role="other">7.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-19">
+    <day date="2022-06-01">
       <category name="Menu 2">
         <meal>
-          <name>Magret de canard (F) | à l'orange | Gnocchi | Salade</name>
+          <name>Escalope de poulet grillé | Sauce Mexicaine | Gnocchi | Salade</name>
           <price role="other">9.00</price>
         </meal>
       </category>
       <category name="Menu 1">
         <meal>
-          <name>Vol-au-vent | Pommes frites | Légume | Vol-au-vent végétarien</name>
+          <name>Rôti hâché &quot;fribourg&quot; | Jus au romarin | Pommes frites | Légume</name>
           <price role="other">7.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-20">
+    <day date="2022-06-02">
       <category name="Menu 2">
         <meal>
-          <name>Filet de sandre meunière (Europe) | Sauce au safran | Pommes vapeur | Légume</name>
+          <name>Filet de porc glacé | au balsamic | Gratin Dauphinois | Légume</name>
           <price role="other">9.00</price>
         </meal>
       </category>
       <category name="Menu 1">
         <meal>
-          <name>Brochette Tzigane | Sauce échalote | Risotto | Salade</name>
+          <name>Spaghetti | Sauces à choix | Salade mêlée | Menu végétarien</name>
           <price role="other">7.50</price>
         </meal>
       </category>

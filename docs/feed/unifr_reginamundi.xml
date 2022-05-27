@@ -3,60 +3,66 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-23">
-      <category name="Menu 2">
-        <meal>
-          <name>Emincé de lapin (H) | aux bolets | Pâtes | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Rôti de dinde | Gnocchi di patate | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-24">
-      <category name="Menu 2">
-        <meal>
-          <name>Croustillants de poulet | Sauce curry | Pommes frites | Légume</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Nouilles sautées aux légumes | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-25">
-      <category name="Menu 2">
-        <meal>
-          <name>Brochette de crevettes (Thailande) | Beurre à l'ail | Riz | Salade</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Roulade de porc | aux pruneaux | Pommes purée | Légume</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-26">
-      <category name="Menu 1">
-        <meal>
-          <name>Ascension | La Mensa est fermée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-05-27">
       <category name="Menu 1">
         <meal>
           <name>La Mensa est fermée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-30">
+      <category name="Menu 2">
+        <meal>
+          <name>Brochette mixed-grill | Pommes rissolées | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Riz Casimir | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-31">
+      <category name="Menu 2">
+        <meal>
+          <name>Filet de port rôti | Sauce champignons | Pâtes | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Anneaux de calamars (E) à la romana | Sauce mayonnaise | Pommes vapeur | Légume</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-01">
+      <category name="Menu 2">
+        <meal>
+          <name>Steak haché de veau | Sauce estragon | Riz | Légume</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Travers de porc BBQ | Pommes frites | Salade</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-02">
+      <category name="Menu 2">
+        <meal>
+          <name>Roastbeef froid | Sauce tartare | Pommes frites | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Lasagne aux légumes | Salade mêlée</name>
           <price role="other">7.50</price>
         </meal>
       </category>
