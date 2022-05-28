@@ -3,20 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-27">
-      <category name="Menu 2">
-        <meal>
-          <name>BROCHE sur la terrasse</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Nasi Goreng | Salade mêlée | Nasi végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-05-30">
       <category name="Menu 2">
         <meal>
@@ -69,6 +55,20 @@
       <category name="Menu 1">
         <meal>
           <name>Spaghetti | Sauces à choix | Salade mêlée | Menu végétarien</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-03">
+      <category name="Menu 2">
+        <meal>
+          <name>Emincé de veau | à la Zurichoise | Nouilles | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Poisson pané (VN) | Sauce remoulade | Pommes vapeur | Légume</name>
           <price role="other">7.50</price>
         </meal>
       </category>

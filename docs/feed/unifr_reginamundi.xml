@@ -3,14 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-27">
-      <category name="Menu 1">
-        <meal>
-          <name>La Mensa est fermée</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-05-30">
       <category name="Menu 2">
         <meal>
@@ -63,6 +55,20 @@
       <category name="Menu 1">
         <meal>
           <name>Lasagne aux légumes | Salade mêlée</name>
+          <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-03">
+      <category name="Menu 2">
+        <meal>
+          <name>Cuisse de lapin (H) | à la moutarde | Polenta | Salade</name>
+          <price role="other">9.00</price>
+        </meal>
+      </category>
+      <category name="Menu 1">
+        <meal>
+          <name>Filet de sole (Atlantique est) | Sauce Nantua | Pommes persillées | Légume | Quiche aux poireaux, garniture du jour</name>
           <price role="other">7.50</price>
         </meal>
       </category>
