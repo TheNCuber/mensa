@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-23">
+    <day date="2022-05-30">
       <category name="Natürlich vegan">
         <meal>
-          <name>Farbiges Ratatouille mit | Baked Potatoes mariniert mit Sesam und Kümmel | Menusalat</name>
-          <note>Allergene: Sulfit</note>
+          <name>Grünes Curry mit Räucher Tofu und Spargeln | Basmati Reis | Menusalat</name>
+          <note>Allergene: Erdnuss, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,8 +16,90 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Nasi Goreng Asiatisches Reisgericht mit Gemüse an Sojasauce | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Nudeln mit gebratenem Gemüse und Teriyaki Sauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Uniess Swiss- Bowl mit Rohschinken, Sbrinzrollne, Hörnlisalat, Randensalat garniert mit Eier und Croutons</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Gemüse-Tajine mit Auberginen, Peperoni und Kichererbsen auf Bulgur | Menusalat</name>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-05-31">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Vegane Couscouspfanne mit Zucchetti, Oliven, Peperoni und Minze dazu Zitronenjogurt | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Bratkartoffeln mit Rosmarin dazu | Crème fraîche mit Schnittlauch | Gegrille Peperoni, Auberginen und Zucchetti mit Kräutern | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Roastbeefteller mit Pommes frites und | Tartarsauce</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <price role="other">15.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Uniess Swiss- Bowl mit Rohschinken, Sbrinzrollne, Hörnlisalat, Randensalat garniert mit Eier und Croutons</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-01">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Arabisches Bamja mit Ingwer, Okra, Spargeln und Karotten dazu feines | Bulgur mit Gemüsebrunoise | Menusalat</name>
+          <note>Allergene: Gluten, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Risotto mit Spargel, Erbsen und Spinat | Menusalat</name>
+          <note>Allergene: Ei, Soja, Milch, Schalenfrüchte, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -27,60 +109,40 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Mexikanische Bowl mit Quinoa, Peperoni, Süssmais, rote Bohnen, Avocado und Pouletbruststreifen</name>
-          <note>Allergene: Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Uniess Swiss- Bowl mit Rohschinken, Sbrinzrollne, Hörnlisalat, Randensalat garniert mit Eier und Croutons</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Es het solangs het | Risotto von weissen und grünen Spargeln | Gratinierte Chässpätzli</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
     </day>
-    <day date="2022-05-24">
+    <day date="2022-06-02">
       <category name="Natürlich vegan">
         <meal>
-          <name>Aloo Gobi Blumenkohl-Süsskartoffelcurry mit Kreuzkümmel und Tomaten garniert mit Kokosflocken, Erdnüsse und Koriander | Menusalat</name>
-          <note>Allergene: Senf</note>
-          <note>Genuss in Balance</note>
+          <name>Tortelli all'arrabbiata mit Basilikumpesto | Menusalat</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="Einfach gut">
+      <category name="Wochenbowl">
         <meal>
-          <name>Pasta mit feinem Spargelragout und geräuchertem Tofu | Menusalat</name>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Es het solangs het | UniEss Fitnessteller mit Schweins Cordon Bleu</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <name>Uniess Swiss- Bowl mit Rohschinken, Sbrinzrollne, Hörnlisalat, Randensalat garniert mit Eier und Croutons</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
           <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">15.90</price>
-          <price role="student">12.90</price>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-05-25">
+    <day date="2022-06-03">
       <category name="Natürlich vegan">
         <meal>
-          <name>VegVeg Day | No-Schnitzel an kräftigem Rosmarin-Zitronenjus | Country-Cuts | Menusalat</name>
-          <note>Allergene: Gluten, Soja</note>
+          <name>Chickeriki Nuggets mit Soja-Knoblauchdip | Country-Cuts | Menusalat, Port. a 50g</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -89,40 +151,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Gemüse-Tajine mit Auberginen, Peperoni und Kichererbsen auf | Bulgur mit Minze | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Nasi Goreng Asiatisches Reisgericht mit Gemüse an Sojasauce</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegan</note>
+          <name>Cremige Ebly-Gemüsepfanne mit Kräuterhüttenkäse | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-    </day>
-    <day date="2022-05-26">
-      <category name="Natürlich vegan">
+      <category name="Wochenbowl">
         <meal>
-          <name>Auffahrt: HEUTE GESCHLOSSEN</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-27">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>HEUTE GESCHLOSSEN</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <name>Uniess Swiss- Bowl mit Rohschinken, Sbrinzrollne, Hörnlisalat, Randensalat garniert mit Eier und Croutons</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
