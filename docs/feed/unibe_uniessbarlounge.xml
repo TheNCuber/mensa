@@ -116,6 +116,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Es het solangs het | Nudeln an feiner Teriyakisauce | Menusalat</name>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-06-02">
       <category name="Natürlich vegan">
@@ -141,7 +150,7 @@
     <day date="2022-06-03">
       <category name="Natürlich vegan">
         <meal>
-          <name>Chickeriki Nuggets mit Soja-Knoblauchdip | Country-Cuts | Menusalat, Port. a 50g</name>
+          <name>Chickeriki Nuggets mit Soja-Knoblauchdip | Country-Cuts | Menusalat</name>
           <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>

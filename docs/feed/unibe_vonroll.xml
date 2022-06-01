@@ -46,9 +46,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsragout | mit Gemüse | &amp; Gnocchi</name>
+          <name>Fleischkäse | mit Bratensauce | &amp; Gnocchi</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Kalb / Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
