@@ -76,8 +76,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletgeschnetzeltes | an Rosmarinsauce | dazu Bräterkartoffeln | &amp; Karotten</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <name>Pouletgeschnetzeltes | an Rosmarinsauce | mit Pasta-Pfanne | &amp; Bohnen</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
@@ -87,7 +87,7 @@
       <category name="voll anders">
         <meal>
           <name>Pad Thai | mit Sojasprossen, Thai-Gemüse | Erdnüsse &amp; Limettenschnitz</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sesam</note>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">15.90</price>

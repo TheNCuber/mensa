@@ -146,6 +146,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Es het solangs het | Arabisches Bamja mit Ingwer, Okra, Spargeln und Karotten dazu feines | Bulgur | Feines Risotto mit Kräutern</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-06-03">
       <category name="Natürlich vegan">
