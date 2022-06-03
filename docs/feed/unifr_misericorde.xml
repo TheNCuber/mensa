@@ -3,62 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-05-30">
-      <category name="Menu 2">
-        <meal>
-          <name>Cordon-bleu au fromage et épinards | Quartier de citron | Pommes frites | Duo d'haricots aux oignons rouges | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Meatball (boeuf CH) | al'arrabiata | Spaghetti | Gruyère râpé d'Hauteville</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-05-31">
-      <category name="Menu 2">
-        <meal>
-          <name>Burger garden | aux trois poivres | Pâtes au beurre | Salade d'iceberg aux noix | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Suprême de volaille jaune (F) | Sauce au Porto rouge | Sarrasin Pilaf | Choux pommes à la ciboulette</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-01">
-      <category name="Menu 2">
-        <meal>
-          <name>Filet de truite (I) aux amandes | Beurre citronné | Pommes au bouillon de légumes | Epinards en branches</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Galette de blé à la Mexicaine | Sauce paprika | Riz | Salade de concombres à l'aneth | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-02">
-      <category name="Menu 2">
-        <meal>
-          <name>Sauté de boeuf au curry rouge | et lait de coco | Riz Basmati | Pack choï braisé</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Gratiné de Schupfnudeln | aux petits légumes estivaux | Salade mêlée | Menu végétarien</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-06-03">
       <category name="Menu 2">
         <meal>
@@ -70,6 +14,50 @@
         <meal>
           <name>Coquille de saucisse à rôtir de la Gruyère | Sauce Marchand de vin | Rösti | Carottes glacées</name>
           <price role="other">7.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-06">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Lundi de Pentecôte | La Mensa est fermée</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-07">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Suprême de volaille ma!is | au romarin | Pommes soufflées | Salade mêlée à la roquette</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Pakora | Sauce au jogourt chili | Quinoa | Panaché de légumes sautés</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-08">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Galette printanière | Sauce Hollandaise | Asperges suisse | Riz Pilaf</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Jambon au Madère | Pommes mousseline | Salade estivale</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-09">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Emincé végétarien | au poivre | Nouilles à l'huile d'olives | Courgettes aux herbes</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Dos de pangasius pané (VN) | Sauce au citron | Pommes frites | Salade mêlée aux noix</name>
+          <price role="other">8.50</price>
         </meal>
       </category>
     </day>
