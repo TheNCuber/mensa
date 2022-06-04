@@ -3,20 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-06-03">
-      <category name="Menu 2">
-        <meal>
-          <name>Schawarma | (fruit du Jacquier) | Pommes country | Garni de salades | Menu végétarien</name>
-          <price role="other">9.00</price>
-        </meal>
-      </category>
-      <category name="Menu 1">
-        <meal>
-          <name>Coquille de saucisse à rôtir de la Gruyère | Sauce Marchand de vin | Rösti | Carottes glacées</name>
-          <price role="other">7.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-06-06">
       <category name="Menu hors semestre">
         <meal>
@@ -57,6 +43,18 @@
         </meal>
         <meal>
           <name>Dos de pangasius pané (VN) | Sauce au citron | Pommes frites | Salade mêlée aux noix</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-10">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Pièce de boeuf à l'Anglaise | Sauce au thym | Pommes de terre grenailles rissolées | Tomate provençale</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Cannelloni à la ricotta | et épinards gratinés | Salade d'iceberg aux graines</name>
           <price role="other">8.50</price>
         </meal>
       </category>
