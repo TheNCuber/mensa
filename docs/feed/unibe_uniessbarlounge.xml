@@ -83,6 +83,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>es het solangs het | Paella mit knackigem und buntem Gemüse | Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-06-09">
       <category name="Natürlich vegan">

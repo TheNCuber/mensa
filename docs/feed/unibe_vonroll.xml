@@ -25,7 +25,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Mais Pizza | mit Tomaten | Champignons, Peperoni | Mozzarella &amp; Basilikumpesto</name>
-          <note>Allergene: Milch, Senf</note>
+          <note>Allergene: Milch, Schalenfrüchte, Senf</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -34,8 +34,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | an Rosmarinsauce | mit Kartoffelstock</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <name>Schweinsgeschnetzeltes | an Rosmarinsauce | mit Gemüse | &amp; Kartoffelstock</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>

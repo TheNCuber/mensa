@@ -27,8 +27,8 @@
           <name>Sautierte Tofuwürfel | Masala-Sauce | Couscous | Wokgemüse | Peperoni</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie, Sesam, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <price role="other">15.90</price>
-          <price role="student">13.90</price>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Daily Bowl">
