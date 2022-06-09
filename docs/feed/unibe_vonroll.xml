@@ -54,8 +54,8 @@
     <day date="2022-06-08">
       <category name="natürlich vegi">
         <meal>
-          <name>Spiralen | an Kräuterrahmsauce | mit getrockneten Tomaten | Baumnüsse &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Milch, Schalenfrüchte, Sellerie, Senf, Lupinen</note>
+          <name>Spiralen | an Kräuterrahmsauce | mit getrockneten Tomaten | Baumnüsse Kerne | Baumnüsse &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -73,8 +73,8 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Happy-Noodles | mit Wokgemüse, Chinakohl | Broccoli &amp; Räuchertofu</name>
-          <note>Allergene: Gluten, Soja, Sesam</note>
+          <name>Happy-Noodles | mit Wokgemüse, Chinakohl | Broccoli &amp; Tofu</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">15.90</price>
