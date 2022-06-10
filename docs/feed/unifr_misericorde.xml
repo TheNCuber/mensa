@@ -3,50 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-06-06">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Lundi de Pentecôte | La Mensa est fermée</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-07">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Suprême de volaille ma!is | au romarin | Pommes soufflées | Salade mêlée à la roquette</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Pakora | Sauce au jogourt chili | Quinoa | Panaché de légumes sautés</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-08">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Galette printanière | Sauce Hollandaise | Asperges suisse | Riz Pilaf</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Jambon au Madère | Pommes mousseline | Salade estivale</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-09">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Emincé végétarien | au poivre | Nouilles à l'huile d'olives | Courgettes aux herbes</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Dos de pangasius pané (VN) | Sauce au citron | Pommes frites | Salade mêlée aux noix</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-06-10">
       <category name="Menu hors semestre">
         <meal>
@@ -55,6 +11,50 @@
         </meal>
         <meal>
           <name>Cannelloni à la ricotta | et épinards gratinés | Salade d'iceberg aux graines</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-13">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Suprême de volaille maïs (F) | Piperade | Riz Camarguais | Salade de choux blancs</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Falafel au four | Sauce miel-cumin | Couscous | Courgettes sautées | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-14">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Filet de dorade sebaste (Atlantique Est) | au pistou | Pommes nature | Laitue julienne</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Lasagne de soja Maison | Salade de légumes racine | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-15">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Cannelloni de boeuf gratiné | au Gruyère d'Hauteville | Salade du marché</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Aumonière de pois chiche et rhubarbe | Pommes grenailles | Aubergine grillées | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-16">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Fête-Dieu | La Mensa est fermée</name>
           <price role="other">8.50</price>
         </meal>
       </category>
