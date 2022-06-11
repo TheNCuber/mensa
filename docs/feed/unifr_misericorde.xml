@@ -3,18 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-06-10">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Pièce de boeuf à l'Anglaise | Sauce au thym | Pommes de terre grenailles rissolées | Tomate provençale</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cannelloni à la ricotta | et épinards gratinés | Salade d'iceberg aux graines</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-06-13">
       <category name="Menu hors semestre">
         <meal>
@@ -55,6 +43,18 @@
       <category name="Menu hors semestre">
         <meal>
           <name>Fête-Dieu | La Mensa est fermée</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-17">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Epaule de veau aux herbes | Pâtes au beurre | Tomate au four</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Courgettes panées au fromage frais | Pommes soufflées | Salade du moment | Menu végétarien</name>
           <price role="other">8.50</price>
         </meal>
       </category>
