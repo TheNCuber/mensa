@@ -3,21 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-06-06">
+    <day date="2022-06-13">
       <category name="Natürlich vegan">
         <meal>
-          <name>WIR HABEN HEUTE GESCHLOSSEN</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-07">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Vegane Paella mit knackigem und buntem Gemüse | Menusalat</name>
-          <note>Genuss in Balance</note>
+          <name>Japanische Glasnudeln gebraten mit Champignons und Gemüse | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -26,8 +16,40 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
+          <name>Gemüsestrudel auf | Ratatouille | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Farbiger und reich garnierter Siedfleischsalat mit Meerettich-Vinaigrette</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-14">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Tajine mit Kichererbsen, Auberginen und Dörrpflaumen | Ebly ras el hanout | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sulfit</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Falafel mit Koriander - Zitronenjogurtdip auf | orientalischem Bulgur mit getrockneten Aprikosen | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -35,29 +57,51 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>UniEss Roastbeefteller mit Pommes frites und Tartarsauce</name>
+          <name>es het solangs het | Roastbeefteller mit Pommes und Tartarsauce</name>
           <note>Allergene: Gluten, Sulfit</note>
           <note>Genuss in Balance</note>
-          <note>Herkunft Rind: Schwiez</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>UniEss-Bowl mit Bulgursalat, Randenwürfeli, Süssmais und Pouletragout garniert mit Granatapfelkernen</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Sesam, Sulfit, Mandel, Hasel, Walnuss, Pekan</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <name>Farbiger und reich garnierter Siedfleischsalat mit Meerettich-Vinaigrette</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-06-08">
+    <day date="2022-06-15">
       <category name="Natürlich vegan">
         <meal>
-          <name>Indisches Linsendal mit Kartoffeln und Wurzelgemüse dazu | Naan Brot | Menusalat</name>
-          <note>Allergene: Sellerie</note>
+          <name>Gemüse - Bananencurry mit Thaibasilikum mit | Basmatireis | Menusalat</name>
+          <note>Allergene: Sulfit</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Spinatcannelloni mit Tomatensauce und Käse überbacken dazu | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-16">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Bami Goreng mit Rüebli, Chinakohl, Kefen, Ingwer und Sojasauce dazu | Menusalat</name>
+          <note>Allergene: Gluten, Soja</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -67,38 +111,29 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Rindshackbraten an Thymianjus dazu | Kartoffelstock mit glasiertem | Erbsen- Kartottengemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Rind: Schweiz</note>
+          <name>Schweinsragout an cremiger Pilzsauce dazu | Weissweinrisotto mit frischen Gartenkräutern | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>UniEss-Bowl mit Bulgursalat, Randenwürfeli, Süssmais und Pouletragout garniert mit Granatapfelkernen</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Sesam, Sulfit, Mandel, Hasel, Walnuss, Pekan</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <name>Farbiger und reich garnierter Siedfleischsalat mit Meerettich-Vinaigrette</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>es het solangs het | Paella mit knackigem und buntem Gemüse | Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
     </day>
-    <day date="2022-06-09">
+    <day date="2022-06-17">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gemüseragout von Peperoni, Auberginen, Zuchetti und Spargeln dazu | Rösti | Menusalat</name>
-          <note>Allergene: Milch, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Sojageschntzletes an rassiger Tomatensauce mit Peperoni, Auberginen und Basilikum dazu | Couscous mit Pfefferminze | Menusalat</name>
+          <note>Allergene: Gluten</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -107,8 +142,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Älplermaggronen mit Röstzwiebeln, Apfelmus und Reibkäse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <name>Frische Ofenkartoffen mit Thymian | Tzatziki mit | Grillgemüse | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -117,49 +152,10 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>UniEss-Bowl mit Bulgursalat, Randenwürfeli, Süssmais und Pouletragout garniert mit Granatapfelkernen</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Sesam, Sulfit, Mandel, Hasel, Walnuss, Pekan</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Linsendal mit Kartoffeln und Wurzelgemüse und Naan Brot | Menusalat</name>
+          <name>Farbiger und reich garnierter Siedfleischsalat mit Meerettich-Vinaigrette</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-10">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Veganes Getreiderisotto | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Fischstäbchen mit Zitronenmayonnaise dazu | Butterkartoffeln und | Gurkensalat | Menusalat</name>
-          <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Fisch: Aus Zucht</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>UniEss-Bowl mit Bulgursalat, Randenwürfeli, Süssmais und Pouletragout garniert mit Granatapfelkernen</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Sesam, Sulfit, Mandel, Hasel, Walnuss, Pekan</note>
-          <note>Herkunft Poulet: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
