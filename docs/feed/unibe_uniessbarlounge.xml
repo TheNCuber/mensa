@@ -34,6 +34,17 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>es het solangs het | Überbackene Rösti mit Tomaten und Käse | Gersotto | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-06-14">
       <category name="Natürlich vegan">
