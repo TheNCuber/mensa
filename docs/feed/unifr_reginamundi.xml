@@ -2,58 +2,5 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen>
-    <day date="2022-06-13">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Gigot d'agneau (NZ) | Couscous | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Saucisse de veau | Sauce aux oignons | Pommes frites | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-14">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Filet d'omble chevalier (ISL) | Sauce écrevisses | Riz | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cuisse de poulet rôtie | Croquettes de rösti | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-15">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Magret de canard (F) | Sauce au vin cuit | Pommes frites | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Tortellini ricotta-épinards | à la crème | Salade mêlée | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-16">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Fête-Dieu | La Mensa est fermée</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-17">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>La Mensa est fermée</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-  </canteen>
+  <canteen/>
 </openmensa>
