@@ -109,8 +109,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsbraten | an Rotweinsauce | mit Bratkartoffeln | &amp; Erbsen</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <name>Schweinsbraten | an Rotweinsauce | Butternudeln | &amp; Erbsen</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
@@ -119,7 +119,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Vegane Ocean Sticks | mit Soja-Kräuter-Dip | Salzkartoffeln | &amp; Blattspinat</name>
+          <name>Vegane Ocean Sticks | mit Soja-Kräuter-Dip | Bratkartoffeln | &amp; Blattspinat</name>
           <note>Allergene: Soja, Senf, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
