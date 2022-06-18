@@ -2,5 +2,66 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2022-06-20">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Escalope panée | Pommes frites | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Rôti de porc | Jus au Marsala | Gnocchi | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-21">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Poitrine de poulet grillée | Sauce aux 7 épices | Mezze penne tricolore | Salade | Hamburger végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Poisson Meunière (Europe) | Sauce au beurre blanc | Pommes vapeur | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-22">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Emincé de veau Zurichoise | Blé Ebly | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Hamburger à la Mexicaine | Pommes carrées | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-23">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Cordon-bleu de porc | au Gruyère | Pommes grenailles au thym | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Spaghetti Bolognaise | Salade mêlée | Sauce aux légumes</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-24">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Escalope de saumon (Îles Féroé) | Sauce à l'oseille | Riz créole | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Steak de porc mariné | Country fries | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>
