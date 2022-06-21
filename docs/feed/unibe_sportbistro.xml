@@ -6,7 +6,7 @@
     <day date="2022-06-20">
       <category name="Vegie Bowl">
         <meal>
-          <name>Penne | Tomatensauce | Antipasti Gemüse | Fetakäse | Oliven</name>
+          <name>Penne | Tomatensauce | Antipasti Gemüse | Reibkäse | Oliven</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -49,7 +49,7 @@
     <day date="2022-06-22">
       <category name="Vegie Bowl">
         <meal>
-          <name>Falafel | Hummus | Taboulé Salat | Frühlingszwiebeln | Granatapfel</name>
+          <name>Falafel | Randen-Hummus | Taboulé Salat | Frühlingszwiebeln | Granatapfel</name>
           <note>Allergene: Gluten, Sellerie, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
