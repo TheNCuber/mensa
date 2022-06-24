@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-06-20">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Cordon-bleu de volaille | Pommes frites | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Penne | Sauces à choix | Salade mêlée</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-21">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Côtelette de porc de la Gruyère | Sauce charcutière | Pâtes | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Filet de tilapia Meunière (Indonésie) | Sauce aux poireaux | Riz | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-22">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Steak de cheval (E) | Sauce Béarnaise | Gratin de pommes de terre | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Nouillettes au poulet | et légumes au curcuma | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-23">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Emincé de veau | au curry rouge | Lentilles vertes aux légumes | Salade</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Saucisse de porc rôtie | Jus de viande | Rösti maison | Légume</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-06-24">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,54 @@
         </meal>
         <meal>
           <name>Rouleaux de printemps | aux légumes | Riz aux oeufs | Légume | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-27">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Filet de porc rôti | au romarin | Pommes fondantes | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Poitrine de poulet panée | Pommes frites | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-28">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Filet de poisson (VN) | Sauce aux légumes | Pommes vapeur | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Rôti haché | Gratin de pâtes | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-29">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Steak de cuisse de poulet BBQ | Pommes frites | Légume</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Tortellini ricotta-épinards | Sauces à choix | Salade mêlée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-06-30">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Chili con carne | Riz | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Piccata de dinde | Sauce tomates | Pâtes | Légume</name>
           <price role="other">8.50</price>
         </meal>
       </category>
