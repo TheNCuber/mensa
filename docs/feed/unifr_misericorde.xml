@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-06-27">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Sauté de boeuf | Provençale | Nouilles | Salade de maïs</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Paneer mariné | aux herbes sautées | Pommes grenailles rissolées | Carottes glacées | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-28">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Chakchouka | aux tomates fraîches | Salade choux-rouge | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Filet (porc) nordique | à la moutarde | Duo de salades pommes de terre et haricots</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-29">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Parmigiana de légumes d'été | Taboulé de boulgour | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Suprême de volaille maïs (F) | Sauce poivre vert | Pommes mousseline | Courgettes aux herbes</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-06-30">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Pizza végétarienne au | gorgonzola et champignons | Salade de légumes racine | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Frito Misto (fruits de mer et poisson) (Europe Ouest et UE) | Sauce citron vert | Pommes persillées | Fenouils braisés</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-07-01">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,54 @@
         </meal>
         <meal>
           <name>Cordon-bleu d'aubergines au Gruyère Maison | Sauce tomates | Pommes frites | Brocoli | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-04">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Emincé de quorn et edamame | au curry rouge | Frites de patates douces | Salade de pousses de soja | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Saucisse à rôtir de la Gruyère | Jus aux herbes | Rösti | Duo d'haricots aux oignons rouges</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-05">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Pavé de truite des Fjords (N) | à l'aneth | Risotto au parmesan | Petits pois</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Falafel | Sauce à l'ajvar | Couscous | Salade légumes grillées | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-06">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Arancini et légumes du soleil sautés | Coulis de tomates épicé | Salade de roquette | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Magret de canard (F) | aux abricots du Valais | Blé | Choux-fleurs Mimosa</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-07">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Steak haché (Angus beef CH) | aux 5 poivres | Cornettes au beurre | Salade julienne</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Saucisson végan en croûte | Sauce Vigneronne | Gratin de pommes de terre | Brocoli | Menu végétarien</name>
           <price role="other">8.50</price>
         </meal>
       </category>
