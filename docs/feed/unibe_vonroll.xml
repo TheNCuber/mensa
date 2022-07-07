@@ -79,9 +79,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Truthahngeschnetzeltes Stroganoff | mit Bulgur</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
-          <note>Genuss in Balance</note>
+          <name>Truthahngeschnetzeltes Stroganoff | mit Teigwaren</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Truthahn)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
