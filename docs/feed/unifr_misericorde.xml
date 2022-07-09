@@ -3,18 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-07-08">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Galette d'haricots, soja, légumes et feta | Sauce au citron vert | Riz sauvage | Salade de céleri | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Ailerons de poulet frits (élevage pleine air CH) | Sauce BBQ | Pommes country | Tomate au four</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-07-11">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +47,18 @@
         </meal>
         <meal>
           <name>Pavé de saumon (N) | Coulis de crustacés | Blé au basilic | Epinards à la muscade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-15">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Tomme panée | Rösti aux oignons | Salade de chou chinois | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Cordon-bleu de poulet | Quartier de citron | Pommes frites | Choux-fleurs et brocoli</name>
           <price role="other">8.50</price>
         </meal>
       </category>
