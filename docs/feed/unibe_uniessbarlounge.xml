@@ -3,10 +3,42 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-07-04">
+    <day date="2022-07-11">
       <category name="Natürlich vegan">
         <meal>
-          <name>Massaman Curry mit Räucher Tofu und Kichererbsen dazu | Basmati Reis | Menusalat</name>
+          <name>Indisches Linsendal mit Kartoffel und Wurzelgemüse dazu | Naanbrot | Menusalat</name>
+          <note>Allergene: Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Gnocchi-Gemüsegratin dazu | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
+          <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-12">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Massaman Curry mit Räucher Tofu, Kichererbsen und Gemüse garniert mit Koriander | Basmati Reis | Menusalat</name>
           <note>Allergene: Erdnuss, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -16,7 +48,7 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«Red Chicken Curry» Pouletgeschnetzeltes mit Wok Gemüse dazu | Basmati Reis | Menusalat</name>
+          <name>«Red Chicken Curry» Pouletgeschnetzeltes mit Wok Gemüse | Basmati Reis | Menusalat</name>
           <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -24,116 +56,31 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Power Bowl mit Bulgur. Linsen, Avocado und ein gekochtes Ei</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sesam, Sulfit, Cashew</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-05">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Japchae Glasnudeln gebraten mit Champignons, Karotten, Lauch, Koriander und Sesam | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sesam</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Ofenkartoffeln mit Thymian | Frisches Tzatziki | Grillgemüse | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
+          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
+          <note>Allergene: Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Power Bowl mit Bulgur. Linsen, Avocado und ein gekochtes Ei</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sesam, Sulfit, Cashew</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-07-06">
+    <day date="2022-07-13">
       <category name="Natürlich vegan">
         <meal>
-          <name>Tortellini all`arrabbiata mit | Basilikumpesto und frischem Ruccola | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Tortellini con Carne mit | Tomatensauce und frischer | Pestorahmsauce, dazu Reibkäse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit, Weizen</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Power Bowl mit Bulgur. Linsen, Avocado und ein gekochtes Ei</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sesam, Sulfit, Cashew</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-07">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Pineapple Fried Rice mit Tofu | Menusalat</name>
-          <note>Allergene: Soja, Schalenfrüchte</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Erfrischendes Zitronen und Limetten Risotto mit Mascarpone und mariniertem Rucola | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Power Bowl mit Bulgur. Linsen, Avocado und ein gekochtes Ei</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sesam, Sulfit, Cashew</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-08">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Gemüseragout mit frischen Kräutern dazu | Spätzli | Menusalat</name>
-          <note>Allergene: Gluten, Sulfit</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Rindsgeschnetzeltes Stroganoff mit | Spätzli | Menusalat</name>
+          <name>Sojageacktes an Tomatenbasilikumsauce mit | Teigwaren | Menusalat</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">13.50</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Ghackets mit | Hörnli dazu | Apfelmus und | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
           <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -141,8 +88,70 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Power Bowl mit Bulgur. Linsen, Avocado und ein gekochtes Ei</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sesam, Sulfit, Cashew</note>
+          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
+          <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-14">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Couscous mit Sommergemüse dazu | Sojajoghurt mit Zitronen und Minze | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">13.50</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
+          <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-15">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Salzkartoffeln mit Petersilie | dazu mariniertes Grillgemüse | Zitronen Tzatziki | Menusalat</name>
+          <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">13.50</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Fischstäbchen mit hausgemachtem | Kräuterquark dazu | Butterkartoffeln und | Rahmspinat | Menusalat</name>
+          <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sesam</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
+          <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
