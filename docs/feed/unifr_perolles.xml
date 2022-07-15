@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-07-11">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Beignets de poisson frits (Europe) | Sauce Remoulade | Pommes vapeur | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Emincé de boeuf | Pommes mousseline | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-12">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Spaghetti | Sauces à choix | Salade mêlée | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Coquillette de porc | Sauce aux oignons | Gnocchi poêlés | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-13">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Steak de porc mariné | Risotto au parmesan | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Demi-poulet rôti | Pommes frites | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-14">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Quiche aux légumes | Pommes rissolées | Légume ou salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Brochette d'araignée de porc | Baked potatoes | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-07-15">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,54 @@
         </meal>
         <meal>
           <name>Filet de truite blanche (I) | Sauce aux crustacés | Riz aux petits légumes | Epinards en branches</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-18">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Rôti de veau | Sauce au balsamique | Pommes château | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Nasi Goreng | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-19">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Piccata d'aubergine | Sauce tomates | Spaghetti | Légume ou salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Chicken fingers | Sauce cocktail | Pommes frites | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-20">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Magret de canard (F) | Sauce à l'orange | Spätzli | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Brochette de viande hachée | Sauce Mexicaine | Pommes Mont d'or | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-21">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Omelette au fromage et ciboulette | Pommes grenailles au thym | Légume ou salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Steak de chasseur | Sauce poivre vert | Pommes carrées | Légume ou salade</name>
           <price role="other">8.50</price>
         </meal>
       </category>
