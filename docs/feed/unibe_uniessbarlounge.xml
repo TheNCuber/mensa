@@ -142,6 +142,7 @@
         <meal>
           <name>Fischstäbchen mit hausgemachtem | Kräuterquark dazu | Butterkartoffeln und | Rahmspinat | Menusalat</name>
           <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sesam</note>
+          <note>Herkunft Fischstäbchen: Kanada/Frankreich</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
