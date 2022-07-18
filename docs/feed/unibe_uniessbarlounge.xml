@@ -3,74 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-07-11">
+    <day date="2022-07-18">
       <category name="Natürlich vegan">
         <meal>
-          <name>Indisches Linsendal mit Kartoffel und Wurzelgemüse dazu | Naanbrot | Menusalat</name>
-          <note>Allergene: Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Gnocchi-Gemüsegratin dazu | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-12">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Massaman Curry mit Räucher Tofu, Kichererbsen und Gemüse garniert mit Koriander | Basmati Reis | Menusalat</name>
-          <note>Allergene: Erdnuss, Soja, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>«Red Chicken Curry» Pouletgeschnetzeltes mit Wok Gemüse | Basmati Reis | Menusalat</name>
-          <note>Herkunft Poulet: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-13">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Sojageacktes an Tomatenbasilikumsauce mit | Teigwaren | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Gemüse Curry mit | Duftreis | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -79,29 +16,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Ghackets mit | Hörnli dazu | Apfelmus und | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <name>Rinds Meatballs an feiner Tomatensauce dazu | Kartoffelstock | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
     </day>
-    <day date="2022-07-14">
+    <day date="2022-07-19">
       <category name="Natürlich vegan">
         <meal>
-          <name>Couscous mit Sommergemüse dazu | Sojajoghurt mit Zitronen und Minze | Menusalat</name>
-          <note>Allergene: Gluten</note>
+          <name>Vegane Paella mit Bohnen, Peperoni, frischen Zitronen und Cherrytomaten | Menusalat</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">13.50</price>
@@ -109,29 +37,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
+          <name>Orecchiette alla Mediterranea mit frischem Knoblauch, Rucola, Peperoncini und Basilikum | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
     </day>
-    <day date="2022-07-15">
+    <day date="2022-07-20">
       <category name="Natürlich vegan">
         <meal>
-          <name>Salzkartoffeln mit Petersilie | dazu mariniertes Grillgemüse | Zitronen Tzatziki | Menusalat</name>
-          <note>Allergene: Milch</note>
+          <name>Geschnetzeltes Züricher Art mit Rösti und Broccoli | Menusalat</name>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -140,21 +59,57 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Fischstäbchen mit hausgemachtem | Kräuterquark dazu | Butterkartoffeln und | Rahmspinat | Menusalat</name>
-          <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Fischstäbchen: Kanada/Frankreich</note>
+          <name>Pouletgeschnetzeltes Zürcher Art mit | Rösti und | Broccoli mit Mandeln | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
+    </day>
+    <day date="2022-07-21">
+      <category name="Natürlich vegan">
         <meal>
-          <name>Caprese Bowl mit frischen Tomaten, Rucola, Basilikum und Mozzarellaperlen</name>
-          <note>Allergene: Milch</note>
+          <name>Bami Goreng mit Rüeblistreifen, Chinakohl, Ingwer und Mungosprossen | Menusalat</name>
+          <note>Allergene: Gluten, Soja</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">13.50</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Pikantes Auberginen-Curry mit | erfrischendem Joghurt Dip und | Basmati Reis | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-22">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Falafel auf | Tomatensauce mit Ras el Hanout | dazu Limetten - Couscous | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">13.50</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Überbackene Polentaschnitte mit getrockneten Tomaten und Oliven | dazu Pilzragout mit frischen Kräutern | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
