@@ -58,7 +58,7 @@
       <category name="natürlich gut">
         <meal>
           <name>Asiatische Reispfanne | mit gebratenem Poulet | &amp; Sweet-Chili Dip</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sesam</note>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -71,7 +71,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Mediterrane Pasta-Pfanne | mit getrockneten Tomaten | zweierlei Oliven | Basilikum-Pesto | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
