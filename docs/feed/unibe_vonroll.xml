@@ -3,32 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-07-18">
+    <day date="2022-07-25">
       <category name="natürlich vegi">
         <meal>
-          <name>Tortellini mit Ricotta-Spinat Füllung | an Gemüse-Rahmsauce | dazu Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit, Weizen</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Tortellini mit Rindfleischfüllung | an Gemüse-Rahmsauce | dazu Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-19">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Gemüse-Tajine | mit Sommergemüse | dazu Couscous &amp; Sultaninen</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Penne «Cinque Pi» | mit Tomatenrahmsauce | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -37,71 +16,94 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rinds-Tajine mit Sommergemüse | dazu Couscous &amp; Sultaninen</name>
-          <note>Allergene: Gluten, Soja, Senf, Sesam, Sulfit</note>
+          <name>Penne an | Rindfleisch-Bolognaise | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-07-20">
+    <day date="2022-07-26">
       <category name="natürlich vegi">
         <meal>
-          <name>Asiatische Reispfanne | mit mariniertem Tofu | &amp; Sweet-Chili Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Asiatische Reispfanne | mit gebratenem Poulet | &amp; Sweet-Chili Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-21">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Mediterrane Pasta-Pfanne | mit getrockneten Tomaten | zweierlei Oliven | Basilikum-Pesto | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Mediterrane Pasta-Pfanne | mit Schinkenstreifen | getrockneten Tomaten | zweierlei Oliven | &amp; Basilikum-Pesto | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-22">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Massaman-Curry | mit Wokgemüse, Shiitake-Pilzen | &amp; Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Schweinsgeschnetzeltes | an Massaman-Currysauce | mit Wokgemüse, Shiitake-Pilzen | dazu Vitaminreis</name>
+          <name>Vegane Paella | mit Peperoni, Erbsen | Oliven, Fenchel | &amp; Soja-Joghurt Dip</name>
           <note>Allergene: Soja, Sellerie</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Paella | mit Poulet | Peperoni, Erbsen | Oliven, Fenchel | &amp; Soja-Joghurt Dip</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-27">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Spätzlipfanne | mit Gemüsewürfel &amp; Champignons | an Appenzeller-Käserahmsauce</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Spätzlipfanne | mit Rinds-Meatballs | Gemüsewürfel &amp; Champignons | an Appenzeller-Käserahmsauce</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-28">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Griechische Kartoffelpfanne | mit Zucchetti, Aubergine | Oliven &amp; Feta</name>
+          <note>Allergene: Milch, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Rindsgeschnetzeltes | mit gerösteten Zucchetti | &amp; Auberginen | dazu Tzatziki | &amp; Kartoffeln</name>
+          <note>Allergene: Gluten, Milch, Senf</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-07-29">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Chili sin Carne | mit Kartoffeln</name>
+          <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Chili con carne | mit Kartoffeln</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
