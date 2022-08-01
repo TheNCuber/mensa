@@ -3,10 +3,85 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-07-25">
+    <day date="2022-08-01">
       <category name="Natürlich vegan">
         <meal>
-          <name>Tajine mit Kichererbsen, Auberginen und Dörraprikosen mit | Cous Cous garniert mit Granatapfel | Menusalat</name>
+          <name>WIR HABEN HEUTE GESCHLOSSEN.</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-02">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Blumenkohl - Süsskartoffeln Curry mit Kreuzkümmel, Ingwer und Mango | Menusalat</name>
+          <note>Allergene: Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Älplermaggronen mit Speckwürfli und Röstzwiebeln | dazu Apfelmus | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Speck: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-03">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Indonesisches Reisgericht mit geräuchertem Tofu | Menusalat</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Schweins Grill Schnecke gebraten mit | Kartoffelsalat und | Gurkensalat | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-04">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Couscous mit Ras el Hanout, getrockneten Aprikosen und Dörrpflaumen dazu | Grillgemüse und feines | Sojajoghurt mit frischen Limetten und Knoblauch | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Gebackene Falafel auf | Couscous mit Ras el Hanout, getrockneten Aprikosen und Dörrpflaumen dazu | dazu Sojajoghurt mit frischen Limetten und Knoblauch | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-05">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Asiatischer Linsen- Tomateneintopf auf | orientalischem Bulgur | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -15,99 +90,12 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Spaghetti mit | Tomaten-Basilikumsauce | Menusalat</name>
-          <note>Allergene: Gluten, Ei</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-26">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Ebly-Gemüsepfanne garniert mit Rucola | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Bratkartoffeln mit Thymian und Quarksauce | dazu Grillgemüse | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Cannelloni mit Ricotta - Spinatfüllung mit | Tomatensauce und Käse überbacken | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-27">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Vegane Gnocchi mit Salbei und Gemüse | mit frischer Kräuter - Tomatensauce | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sulfit, Weizen</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Red Thaicurry mit Rindfleisch und Gemüse dazu | Basmati Reis | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-28">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>«Conchiglie alla trapanese » Müschli Knoblauch Tomaten Basilikum | Menusalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Gemüseragout an feiner Rahmsauce mit | Kartoffelstock | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-29">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Gemüsestrudel auf leichtem tomatisiertem | Ratatouille | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Schlemmerfilet Bordolaise mit | Knoblauch Mayonnaise und | Salz Kartoffeln mit Petersilie | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Milch, Senf, Sulfit</note>
-          <note>Herkunft Bordolaise:</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
         </meal>
       </category>
     </day>

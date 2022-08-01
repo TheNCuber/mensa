@@ -3,11 +3,29 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-07-25">
+    <day date="2022-08-01">
       <category name="natürlich vegi">
         <meal>
-          <name>Tortellini mit Ricotta-Spinat Füllung | an Tomatensauce | dazu Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
+          <name>Geschlossen</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Geschlossen</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-02">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Cannelloni | mit Ricotta und Spinat gefüllt | an Tomatensauce | mit Käse überbacken | dazu Rucola</name>
+          <note>Allergene: Gluten, Ei, Milch, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,19 +33,20 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Penne an | Rindfleisch-Bolognaise | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <name>Cannelloni | mit Rindfleisch gefüllt | an Tomatensauce | mit Käse überbacken | dazu Rucola</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-07-26">
+    <day date="2022-08-03">
       <category name="natürlich vegi">
         <meal>
-          <name>Vegane Paella | mit Peperoni, Erbsen | Oliven, Fenchel | &amp; Soja-Joghurt Dip</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Falafel | auf Randen-Hummus | dazu Bulgur mit Sommergemüse</name>
+          <note>Allergene: Gluten, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -36,19 +55,19 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Paella | mit Poulet | Peperoni, Erbsen | Oliven, Fenchel | &amp; Soja-Joghurt Dip</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
+          <name>Pouletgeschnetzeltes | an Rosmarinjus | dazu Bulgur mit Sommergemüse</name>
+          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-07-27">
+    <day date="2022-08-04">
       <category name="natürlich vegi">
         <meal>
-          <name>Spätzlipfanne | mit Gemüsewürfel &amp; Champignons | an Appenzeller-Käserahmsauce</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Spaghetti | an Pesto Rosso | mit Cherrytomaten | Reibkäse &amp; Basilikum</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -57,20 +76,20 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spätzlipfanne | mit Rinds-Meatballs | Gemüsewürfel &amp; Champignons | an Appenzeller-Käserahmsauce</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Spaghetti | an Tex-Mex Tomatensauce | mit Rindsfleisch, Mais | Kidneybohnen &amp; Cherrytomaten | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-07-28">
+    <day date="2022-08-05">
       <category name="natürlich vegi">
         <meal>
-          <name>Griechische Kartoffelpfanne | mit Zucchetti, Aubergine | Oliven &amp; Feta</name>
-          <note>Allergene: Milch, Senf</note>
-          <note>Genuss in Balance</note>
+          <name>Rotes Thai Curry | mit Wokgemüse und Sojasprossen | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Soja</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -79,31 +98,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindsgeschnetzeltes | mit gerösteten Zucchetti | &amp; Auberginen | dazu Tzatziki | &amp; Kartoffeln</name>
-          <note>Allergene: Gluten, Milch, Senf</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-07-29">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Chili sin Carne | mit Kartoffeln</name>
-          <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Chili con carne | mit Kartoffeln</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Rotes Thai-Curry | Poulet und Gemüse | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Soja, Senf</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
