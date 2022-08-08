@@ -3,29 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-08-01">
+    <day date="2022-08-08">
       <category name="natürlich vegi">
         <meal>
-          <name>Geschlossen</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Geschlossen</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-08-02">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Cannelloni | mit Ricotta und Spinat gefüllt | an Tomatensauce | mit Käse überbacken | dazu Rucola</name>
-          <note>Allergene: Gluten, Ei, Milch, Weizen</note>
+          <name>Taboulé Salat | mit Gurken, Tomaten, Minze | dazu vegetarische Hackbällchen | &amp; Joghurt-Dip</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -33,20 +16,40 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Cannelloni | mit Rindfleisch gefüllt | an Tomatensauce | mit Käse überbacken | dazu Rucola</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Taboulé Salat | mit Gurken, Tomaten, Minze | dazu Poulet Meat Balls | &amp; Joghurt-Dip</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Senf, Sesam, Pistazie</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-08-03">
+    <day date="2022-08-09">
       <category name="natürlich vegi">
         <meal>
-          <name>Falafel | mit Sojadip | dazu Bulgur mit Sommergemüse</name>
-          <note>Allergene: Gluten, Soja, Sesam, Sulfit</note>
+          <name>Hörnli-Gemüsegratin | an Rahmsauce | mit Käse überbacken</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Hörnligratin | mit Schinken, Speck | und Gemüse | an Rahmsauce | mit Käse überbacken</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-10">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Gemüse sweet and sour | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -55,19 +58,19 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletgeschnetzeltes | an Rosmarinjus | dazu Bulgur mit Sommergemüse</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Schweinsgeschnetzeltes | sweet and sour | mit Gemüse | &amp; Vitaminreis</name>
+          <note>Allergene: Gluten, Soja, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-08-04">
+    <day date="2022-08-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Spaghetti | an Pesto Rosso | mit Cherrytomaten | Reibkäse &amp; Basilikum</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
+          <name>Kartoffelgnocchi | an Kräuter-Rahmsauce | mit Gemüse | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -76,21 +79,19 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spaghetti | an Tex-Mex Tomatensauce | mit Rindsfleisch, Mais | Kidneybohnen &amp; Cherrytomaten | dazu Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Kartoffelgnocchi | mit Poulet-Geschnetzeltem | an Kräuter-Rahmsauce | mit Gemüse | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-08-05">
+    <day date="2022-08-12">
       <category name="natürlich vegi">
         <meal>
-          <name>Rotes Thai Curry | mit Wokgemüse und Sojasprossen | dazu Vitaminreis</name>
-          <note>Allergene: Gluten, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Mediterrane Pasta-Pfanne | mit getrockneten Tomaten | zweierlei Oliven, Rucola | &amp; Mozzarella</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -98,9 +99,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rotes Thai-Curry | Poulet und Gemüse | dazu Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Senf</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Mediterrane Pasta-Pfanne | mit getrockneten Tomaten | zweierlei Oliven, Rucola | Mozzarella &amp; Chorizostreifen</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein/Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
