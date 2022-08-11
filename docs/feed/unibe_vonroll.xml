@@ -48,18 +48,18 @@
     <day date="2022-08-10">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse sweet and sour | dazu Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Sulfit</note>
+          <name>Gemüse sweet and sour | dazu Hörnligratin</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | sweet and sour | mit Gemüse | &amp; Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Sulfit</note>
+          <name>Schweinsgeschnetzeltes | sweet and sour | mit Gemüse | Hörnligratin</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>

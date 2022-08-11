@@ -80,10 +80,9 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Kalbsbratwurst mit Senf dazu | Cole Slaw mit Kräutern und | Menusalat</name>
-          <note>Allergene: Ei, Milch, Senf, Sulfit</note>
+          <name>Kalbsbratwurst mit Senf dazu | Cole Slaw mit Kräutern | Maissalat und feinen | Gurkensalat dazu frisches | Ruchbrot | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Herkunft Kalb: Schweiz/Schwein: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
