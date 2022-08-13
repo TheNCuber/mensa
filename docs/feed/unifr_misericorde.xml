@@ -47,5 +47,17 @@
         </meal>
       </category>
     </day>
+    <day date="2022-08-19">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Vol-au-vent forestier | Pommes frites | Tomate Provençale | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Poêlée de crevettes (VN) | au curry rouge et banane | Riz | Salade du moment</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

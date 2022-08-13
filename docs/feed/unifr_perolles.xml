@@ -39,5 +39,17 @@
         </meal>
       </category>
     </day>
+    <day date="2022-08-19">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Roastbeef | Sauce Béarnaise | Pommes Lyonnaise | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Filet de saumon poêlé (N) | Sauce à l'ail noir | Riz créole | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
