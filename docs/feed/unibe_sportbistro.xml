@@ -48,7 +48,7 @@
     <day date="2022-08-17">
       <category name="Vegie Bowl">
         <meal>
-          <name>Quinoa | Süsskartoffeln | Wokgemüse | Broccoli | Soja-Kräuter-Dip</name>
+          <name>«Veg-Veg Tag» | Quinoa | Süsskartoffeln | Wokgemüse | Broccoli | Soja-Kräuter-Dip</name>
           <note>Allergene: Soja, Schalenfrüchte</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -58,9 +58,9 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Pouletgeschnetzeltes an Paprikarahmsauce | Sautierte Spätzli | Peperoni | Champignons | Essiggurken</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>«Veg-Veg Tag» | Planted-Geschnetzeltes an Paprikarahmsauce | Sautierte Spätzli | Peperoni | Champignons | Essiggurken</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Senf, Sulfit</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
