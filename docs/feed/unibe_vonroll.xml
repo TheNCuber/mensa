@@ -80,9 +80,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Tortellini mit Fleischfüllung | an Tomatensauce | mit Reibkäse &amp; Rucola</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Powerfood-Pfanne | mit gebratenem Pouletgeschnetzeltes | an Tomatensauce | Quinoa, Süsskartoffeln &amp; Wokgemüse</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz(Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>

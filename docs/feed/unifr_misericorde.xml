@@ -3,50 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-08-15">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Assomption | La Mensa est fermée</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-08-16">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Cordon-bleu d'épinards | Quartier de citron | Pommes country | Salade de maïs | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Steak haché de boeuf Angus Suisse | aux 5 poivres | Pâtes | Haricots verts aux oignons</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-08-17">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Saltimbocca de volaille et jambon cru et sauge | Sauce Marsala | Risotto crémeux | Choux pommes ciboulette</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Oeuf au plat | Rösti aux oignons et petits légumes | Salade de tomates | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-08-18">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Lasagne végétarienne au soja | Salade de crudités | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cou de porc de la Gruyère | Grand-Mère | Pommes purée | Carottes glacées</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-08-19">
       <category name="Menu hors semestre">
         <meal>
@@ -55,6 +11,54 @@
         </meal>
         <meal>
           <name>Poêlée de crevettes (VN) | au curry rouge et banane | Riz | Salade du moment</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-22">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Galette de lentilles Maison | Sauce crème | Blé | Brocoli aux amandes | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Emincé de boeuf au curry | Riz | Salade aux pousses de soja</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-23">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Dos de saumon (N) | à l'aneth | Pommes nature à la ciboulette | Laitue braisée</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Filet de quorn au paprika fumé | Gnocchi rôtis | Salade mêlée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-24">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Falafel à la tomate épicée | Boulgour | Courgettes sautées | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Côte de porc | à la Dijonnaise | Pâtes au beurre | Salade de choux blancs</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-25">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Demi-poulet au four | à l'estragon | Pommes grenaille rissolées | Tomate aux herbes</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Tofu mariné grillé | Sauce aigre-douce | Riz parfumé | Salade de légumes racine | Menu végétarien</name>
           <price role="other">8.50</price>
         </meal>
       </category>
