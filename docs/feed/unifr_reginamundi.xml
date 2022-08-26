@@ -2,5 +2,54 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2022-08-29">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Emincé Valess forestier | (protéines de lait) | Pâtes | Salade verte | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Saucisse à rôtir | Sauce Lyonnaise | Rösti | Duo d'haricots</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-30">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Magret de canard (F) | au miel bio | Riz basmati | Pak-choï braisé</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Burger de boeuf Angus | au poivre | Sarrasin pilaf ou pommes frites | Salade de céleri aux noix</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-31">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Poitrine de dinde (D) en basse température | Jus à la Grappa | Polenta mascarpone | Romanesco</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Penne aux légumes de Provence | et feta | Salade composée | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-09-01">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Steak de filet de porc | Sauce à l'ail | Blé la tomate | Salade de roquette</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Epaule de veau | au vin cuit Maison | Pommes country | Carottes glacées</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>

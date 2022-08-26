@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-08-22">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Piccata d'aubergines | Sauce tomates | Spaghetti | Légume ou salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Saucisse de veau | Sauce moutarde | Pommes carrées | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-08-23">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Chicken nuggets | Sauce cocktail | Pommes frites | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Nasi Goreng | Salade mêlée | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-08-24">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Rouleaux de printemps | Sauce aigre-douce | Riz basmati | Légume ou salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Steak de poulet | Sauce Mexicaine | Baked potatoes | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-08-25">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Cou de porc fumé | Jus au Madère | Gratin Dauphinois | Légume ou salade</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Rösti pizza | Salade mêlée | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-08-26">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +11,54 @@
         </meal>
         <meal>
           <name>Omble chevalier poëlé (Islande) | Sauce au citron | Riz créole | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-29">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Demi coquelet au four | Pommes frites | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Emincé de porc au curry rouge | Riz | Salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-30">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Filets de perches frits (Estonie) | Sauce tartare | Pommes vapeur | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Boulettes &quot;végan&quot; | Couscous aux légumes | Salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-08-31">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Burger de lentilles | Coulis de poivrons | Pâtes | Légume ou salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Brochette de chipolata | Jus clair | Pommes rissolées | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-09-01">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Escalope de porc panée | Pommes frites | Légume ou salade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Meatballs | Sauce poivre vert | Risotto | Légume ou salade</name>
           <price role="other">8.50</price>
         </meal>
       </category>
