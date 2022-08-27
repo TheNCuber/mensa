@@ -51,5 +51,17 @@
         </meal>
       </category>
     </day>
+    <day date="2022-09-02">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Médaillon de cabillaud en pâte à frire (Atlantique-Nord) | Sauce remoulade | Pommes vapeur | Epinards à la muscade</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Vol-au-vent aux légumes | et légumineuse | Riz créole | Salade | Menu végétarien</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
