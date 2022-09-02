@@ -69,11 +69,9 @@
     <day date="2022-09-01">
       <category name="natürlich vegi">
         <meal>
-          <name>Powerfood-Pfanne | mit Quinoa, Süsskartoffeln | Wokgemüse, Broccoli | Mandeln &amp; Soja-Kräuter Dip</name>
-          <note>Allergene: Schalenfrüchte</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <name>Tortellini mit Spinat und Ricotta | an pikanter Tomatensauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Weizen</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -92,8 +90,8 @@
     <day date="2022-09-02">
       <category name="natürlich vegi">
         <meal>
-          <name>Paella mit Tofu | Erbsen, Peperoni, Zucchetti | und Karotten | dazu gröstete Nüsse | &amp; Yoghurt-Kräuter Dip</name>
-          <note>Allergene: Soja, Milch</note>
+          <name>Paella mit Tofu | Erbsen, Peperoni, Zucchetti | und Karotten | dazu geröstete Nüsse | &amp; Joghurt-Kräuter Dip</name>
+          <note>Allergene: Milch, Schalenfrüchte</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
