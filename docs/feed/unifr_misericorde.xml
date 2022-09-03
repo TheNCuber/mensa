@@ -3,18 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-09-02">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Médaillon de Cabillaud en pâte à frire (Atlantique-Nord) | Sauce remoulade | Epinards à la muscade | Pommes vapeur</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Vol-au-vent aux légumes | et légumineuse | Riz créole | Salade | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-09-05">
       <category name="Menu hors semestre">
         <meal>
@@ -59,6 +47,18 @@
         </meal>
         <meal>
           <name>Cou de porc fumé en croûte | Jus au Porto | Pommes frites | Salade d'endives</name>
+          <price role="other">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-09-09">
+      <category name="Menu hors semestre">
+        <meal>
+          <name>Sauté de veau Marengo | Spätzli Maison | Choux rouges braisés</name>
+          <price role="other">8.50</price>
+        </meal>
+        <meal>
+          <name>Légumes farcis au soja | Sauce al'arrabiata | Riz créole | Menu végétarien</name>
           <price role="other">8.50</price>
         </meal>
       </category>
