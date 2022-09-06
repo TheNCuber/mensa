@@ -15,9 +15,11 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Cannelloni gefüllt | mit Rindfleisch | an Tomatenrahmsauce | mit Reibkäse überbacken</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Paella mit Tofu | Erbsen, Peperoni, Zucchetti | und Karotten | dazu geröstete Nüsse | &amp; Joghurt-Kräuter Dip</name>
+          <note>Allergene: Ei, Erdnuss, Milch, Schalenfrüchte</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
