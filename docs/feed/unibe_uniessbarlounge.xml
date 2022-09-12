@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-09-05">
+    <day date="2022-09-12">
       <category name="Natürlich vegan">
         <meal>
-          <name>Ebly-Gemüsepfanne mit | Tomatensauce | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Planted chicken gebraten an feiner | Orangensauce mit Zitronengras | Basmati Reis | Menusalat</name>
+          <note>Allergene: Gluten, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,61 +16,28 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Urdinkel Penne mit cremiger | Carbonara Sauce verfeinert mit Kräuter | Reibkäse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch</note>
-          <note>Herkunft Schinken: Schweiz</note>
+          <name>Hackbraten mit | Rahmsauce und | Butternudeln | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Herkunft Rind: Schweiz Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Bowl mit Thon Salat, grünen und schwarzen Oliven mit Radieschen, Frühlingszwiebeln und gebratene Kartoffeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam</note>
-          <note>Herkunft Thon: Aus nachhaltiger Zucht</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-09-06">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Vegane Gnocchi mit Salbei und Gemüse Tomatensauce | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie, Sulfit, Weizen</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Blumenkohl-Käsemedaillon auf feinem | Blattspinat mit | Butterkartoffeln | Menusalat</name>
-          <note>Allergene: Gluten, Milch</note>
+          <name>Salat Bowl mit Rotkabis, Weisskabis, Süssmais, Edamame, Sojasprossen und gekochtes Ei und Sesam</name>
+          <note>Allergene: Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Bowl mit Thon Salat, grünen und schwarzen Oliven mit Radieschen, Frühlingszwiebeln und gebratene Kartoffeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam</note>
-          <note>Herkunft Thon: Aus nachhaltiger Zucht</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-09-07">
+    <day date="2022-09-13">
       <category name="Natürlich vegan">
         <meal>
-          <name>Japchae Glasnudeln gebraten mit Champignons , Lauch, Karotten und Sesam | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sesam</note>
+          <name>Africancurry mit Süsskartoffeln und Okra | Menusalat</name>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -79,62 +46,31 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Überbackene Polentaschnitte mit | Pilz Ragout mit Wurzel Gemüse und Schnittlauch | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Bowl mit Thon Salat, grünen und schwarzen Oliven mit Radieschen, Frühlingszwiebeln und gebratene Kartoffeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam</note>
-          <note>Herkunft Thon: Aus nachhaltiger Zucht</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-09-08">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Unglaublicher Uniess Burger mit Kartoffel Wedges | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit, Weizen, Gerste</note>
+          <name>Lasagne all`arrabbiata | dazu frischen Herbstsalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Gerste</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Schweins Geschnetzeltes Berner Art | Spätzli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Herkunft Schweiz: Schwein</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Bowl mit Thon Salat, grünen und schwarzen Oliven mit Radieschen, Frühlingszwiebeln und gebratene Kartoffeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam</note>
-          <note>Herkunft Thon: Aus nachhaltiger Zucht</note>
+          <name>Salat Bowl mit Rotkabis, Weisskabis, Süssmais, Edamame, Sojasprossen und gekochtes Ei und Sesam</name>
+          <note>Allergene: Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-09-09">
+    <day date="2022-09-14">
       <category name="Natürlich vegan">
         <meal>
-          <name>Tofu Gulasch Ungarische Art | mit Kartoffelstock | Menusalat</name>
-          <note>Allergene: Soja, Milch, Senf, Sulfit</note>
+          <name>VegVeg Tag | Falafel auf feinem orientalischem | Couscous mit Aprikosen und Granatapfel mit | Sojajoghurt und Koriander | Menusalat</name>
+          <note>Allergene: Gluten</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -143,22 +79,74 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Herbstrisotto mit gerösteten Kürbis-und Apfelwürfel und Zitronenthymian | Menusalat</name>
-          <note>Allergene: Milch, Sulfit</note>
+          <name>VegVeg Tag | Cremige Chäsehörnli mit Röstzwiebeln | Apfelmus und | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Bowl mit Thon Salat, grünen und schwarzen Oliven mit Radieschen, Frühlingszwiebeln und gebratene Kartoffeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam</note>
-          <note>Herkunft Thon: Aus nachhaltiger Zucht</note>
+          <name>Salat Bowl mit Rotkabis, Weisskabis, Süssmais, Edamame, Sojasprossen und gekochtes Ei und Sesam</name>
+          <note>Allergene: Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-09-15">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Linsen Dal Indisch mit Kartoffel und Wurzelgemüse verfeinert mit Mangowürfeli dazu | Pitabrot | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Rindsgeschnetzeltes Stroganoff | an feiner geräuchter Paprikasauce | Kartoffelstock mit Kräutern | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Salat Bowl mit Rotkabis, Weisskabis, Süssmais, Edamame, Sojasprossen und gekochtes Ei und Sesam</name>
+          <note>Allergene: Soja, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-09-16">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Tag des Studienbeginns | Heute gib es nur Take Away</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Grillgemüse mit | Thymian - Bratkartoffeln | mit Crème fraîche mit Schnittlauch | Menusalat</name>
+          <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
