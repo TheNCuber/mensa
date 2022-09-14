@@ -36,9 +36,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletoberschenkel | an Paprikasauce | mit Ofenkartoffeln | &amp; Karotten</name>
-          <note>Allergene: Gluten, Milch, Senf</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Schweinsgeschnetzeltes | mit Speck, Pilzen, Zwiebeln | mit Ofenkartoffeln | &amp; Karotten</name>
+          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
