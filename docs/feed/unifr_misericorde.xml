@@ -3,54 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-09-12">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Fromage d'Italie végétarien | au Madère | Linguine | Salade mêlée | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Cuisse de poulet | rôtie aux herbes | Pommes country | Choux-fleurs à la ciboulette</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-09-13">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Dos de pangasius pané (VN) | Quartier de citron | Pommes nature | Fenouil à la tomate</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Galette Maison à l'estragon | Blé Ebly | Salade de maïs | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-09-14">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Quenelle aux épinards et mozzarella | Sauce Aurore | Légumes pôelés | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Jambon au Porto | Pommes mousseline | Salade de carottes</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-09-15">
-      <category name="Menu hors semestre">
-        <meal>
-          <name>Pièce de boeuf à l'Anglaise | Sauce Béarnaise | Gnocchi | Jardinière de légumes</name>
-          <price role="other">8.50</price>
-        </meal>
-        <meal>
-          <name>Couscous végétarien | Yogourt à la menthe | Effeuillé de feuilles de chêne | Menu végétarien</name>
-          <price role="other">8.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2022-09-16">
       <category name="Menu hors semestre">
         <meal>
