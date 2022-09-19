@@ -37,7 +37,31 @@
   <body>
     <main>
       <article>Parser for <a target="_blank" href="https://openmensa.org">openmensa.org</a>. The parser runs in a <a target="_blank" title="What's a Github action?" href="https://docs.github.com/en/actions">Github action<sup>❓</sup></a> and pushes the XML feeds to this page</article>
-      <article><h3><a href="https://github.com/TheNCuber/mensa/actions/">🗿 Parser status</a></h3></article>
+      <article><h3><a href="https://github.com/TheNCuber/mensa/actions/">🗿 Parser status</a></h3>
+<pre>unifr/perolles:
+Traceback (most recent call last):
+  File "/home/runner/work/mensa/mensa/updateFeeds.py", line 126, in updateFeeds
+    content = getattr(parser, feedMethod)(mensaReference)
+  File "/home/runner/work/mensa/mensa/unifr/__init__.py", line 59, in feed
+    mealPrice = int(decimal.Decimal(menu.find("small").find(text=True,recursive=False).strip()) * 100)
+decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
+
+unifr/misericorde:
+Traceback (most recent call last):
+  File "/home/runner/work/mensa/mensa/updateFeeds.py", line 126, in updateFeeds
+    content = getattr(parser, feedMethod)(mensaReference)
+  File "/home/runner/work/mensa/mensa/unifr/__init__.py", line 59, in feed
+    mealPrice = int(decimal.Decimal(menu.find("small").find(text=True,recursive=False).strip()) * 100)
+decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
+
+unifr/reginamundi:
+Traceback (most recent call last):
+  File "/home/runner/work/mensa/mensa/updateFeeds.py", line 126, in updateFeeds
+    content = getattr(parser, feedMethod)(mensaReference)
+  File "/home/runner/work/mensa/mensa/unifr/__init__.py", line 59, in feed
+    mealPrice = int(decimal.Decimal(menu.find("small").find(text=True,recursive=False).strip()) * 100)
+decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
+</pre></article>
       <article>
 <ol style="list-style-type:none">
 <li><h3 id="unibe"><a href="https://thencuber.github.io/mensa/unibe.json">🐏 unibe.json</a></h3>
