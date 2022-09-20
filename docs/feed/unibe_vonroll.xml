@@ -17,7 +17,7 @@
       <category name="natürlich gut">
         <meal>
           <name>Schweinsragout | an roter Currysauce | mit Wokgemüse | dazu Basmatireis</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie</note>
+          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie, Sesam</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -27,9 +27,8 @@
         <meal>
           <name>Steinpilz-Tortelli | mit Mangold | Salbeibutter | Reibkäse &amp; Gartenkresse</name>
           <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <note>Vegetarisch</note>
-          <price role="other">12.90</price>
+          <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
