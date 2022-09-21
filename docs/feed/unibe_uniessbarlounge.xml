@@ -95,6 +95,15 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Food Save Station | Es het solangs het | Bramata Polenta | Pilz Ragout mit Wurzel Gemüse | Tortellini mit Spinat-Riccotafüllung | Tomatensauce | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Sulfit, Weizen</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Wochenbowl">
         <meal>
           <name>Ahi Poké Bowl mit Lachs, Reis, Mango und Frühlingszwiebeln an Teriyaki und Srirachasauce</name>
