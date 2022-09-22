@@ -68,7 +68,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Paella | mit Erbsen, Peperoni | Zucchetti, Karotten, Reis | &amp; gerösteten Nüssen</name>
-          <note>Allergene: Ei, Erdnuss, Schalenfrüchte</note>
+          <note>Allergene: Ei, Erdnuss, Milch, Schalenfrüchte</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -78,7 +78,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | mit Speck und Pilze | dazu Bratkartoffeln | &amp; Karotten</name>
+          <name>Schweinsgeschnetzeltes | mit Speck und Pilze | dazu Gnocchi | &amp; Erbsen</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
