@@ -3,123 +3,42 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-09-19">
+    <day date="2022-09-26">
       <category name="Natürlich vegan">
         <meal>
-          <name>Indisches Auberginen-Curry mit Thaibasilikum und Edamame | mit Basmati Reis | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Senf</note>
-          <note>Genuss in Balance</note>
+          <name>«Jambalaya» Kreolische Reispfanne | Menusalat</name>
+          <note>Allergene: Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Feine Berliner Curry Wurst | mit frittierten Kartoffel Wedges | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Ahi Poké Bowl mit Lachs, Reis, Mango und Frühlingszwiebeln an Teriyaki und Srirachasauce</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Lachs: Norwegen</note>
-          <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
-    </day>
-    <day date="2022-09-20">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Tessiner Polenta mit | Pilz-Tomatenragout und Wurzelgemüse | Menusalat</name>
-          <note>Allergene: Soja, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
       <category name="Einfach gut">
         <meal>
-          <name>Tortellini mit Spinat-Riccotafüllung | mit Basilikum - Tomatensauce | Menusalat</name>
+          <name>Älplermaggronen mit Röstzwiebeln und Reibkäse | Apfelmus | Menusalat</name>
           <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
+      <category name="Wochenbowl">
         <meal>
-          <name>Food Save Station | Es het solangs het | Curry Wurst mit | Kartoffeln oder | Reis | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
+          <name>Garnierter Wurst-Käsesalat mit Silberzwiebeln, Peperoni, Radieschen und Essiggurken</name>
+          <note>Allergene: Milch, Senf, Sulfit</note>
           <note>Herkunft Schwein: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Ahi Poké Bowl mit Lachs, Reis, Mango und Frühlingszwiebeln an Teriyaki und Srirachasauce</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Lachs: Norwegen</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-09-21">
+    <day date="2022-09-27">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Food Save Station | Es het solangs het | Bramata Polenta | Pilz Ragout mit Wurzel Gemüse | Tortellini mit Spinat-Riccotafüllung | Tomatensauce | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Sulfit, Weizen</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Ahi Poké Bowl mit Lachs, Reis, Mango und Frühlingszwiebeln an Teriyaki und Srirachasauce</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Lachs: Norwegen</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-09-22">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Ebly-Gemüsepfanne | Menusalat</name>
+          <name>Falafel mit | Sojajoghurt verfeinert mit Koriander und Kreuzkümmel auf | Couscous mit orientalischen Gewürzen | Menusalat</name>
           <note>Allergene: Gluten</note>
-          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -127,36 +46,30 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Poulet Meat Balls an | Barbecue Sauce mit | Kartoffelstock | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sellerie, Sesam, Sulfit</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <name>Spaghetti an rassiger | Rindsbolognese | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Food Save Station | Es het solngs het | Bulgur mit | Tomaten und Perponiragout verfeinert mit Ei und Petersilien | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Ahi Poké Bowl mit Lachs, Reis, Mango und Frühlingszwiebeln an Teriyaki und Srirachasauce</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
+          <name>Garnierter Wurst-Käsesalat mit Silberzwiebeln, Peperoni, Radieschen und Essiggurken</name>
+          <note>Allergene: Milch, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-09-23">
+    <day date="2022-09-28">
       <category name="Natürlich vegan">
         <meal>
-          <name>Oceansticks an | Veganer Knoblauchmayonnaise mit | Bratkartoffeln | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Senf, Sulfit</note>
+          <name>Herbstrisotto mit gerösteten Kürbis-und Apfelwürfel und Zitronenthymian | Menusalat</name>
+          <note>Allergene: Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -164,9 +77,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Penne Cinque P | mit Tomaten, Pfeffer Rahm, Parmesan und Petersilie | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Blätterteigpastetli mit | Quorn Geschnetzeltes Safransauce | Erbsli und Rüebli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -174,9 +86,69 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Ahi Poké Bowl mit Lachs, Reis, Mango und Frühlingszwiebeln an Teriyaki und Srirachasauce</name>
-          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
-          <note>Herkunft Lachs: Norwegen</note>
+          <name>Garnierter Wurst-Käsesalat mit Silberzwiebeln, Peperoni, Radieschen und Essiggurken</name>
+          <note>Allergene: Milch, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-09-29">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Gemüsestrudel auf herbstlichem | Gemüseragout und | Randen Dip | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Red Thaicurry mit Rindfleisch auf | Basmati Reis | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Garnierter Wurst-Käsesalat mit Silberzwiebeln, Peperoni, Radieschen und Essiggurken</name>
+          <note>Allergene: Milch, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-09-30">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Hausgemachte Gemüse Lasagne | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Schlemmerfilet Bordolaise | mit Kräuter Dip dazu | Butterkartoffeln und | Blattspinat | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fangzone: Nordost und Nordwestpazifik</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Garnierter Wurst-Käsesalat mit Silberzwiebeln, Peperoni, Radieschen und Essiggurken</name>
+          <note>Allergene: Milch, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
