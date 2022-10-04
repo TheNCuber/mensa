@@ -6,7 +6,7 @@
     <day date="2022-10-03">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Chili sin carne» Eintopf mit Soja, Bohnen, Peperoni und Tomaten dazu | Langkornreis | Menusalat</name>
+          <name>«Chili sin carne» Eintopf mit Soja, Bohnen, Peperoni und Tomaten dazu | Reis | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -28,6 +28,7 @@
         <meal>
           <name>Food Save Station | Es het solangs het | Kartoffeln mit | Kräuterquark | «Conchiglie alla trapanese » Müschli Knoblauch Tomaten Basilikum | Wurzelgemüse | Blattspinat | Menusalat</name>
           <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Mandel</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>

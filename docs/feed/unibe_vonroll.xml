@@ -24,13 +24,12 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Gebratener Halloumi | auf Zitronenrisotto | mit Kürbiswürfel, Zucchetti | &amp; gerösteten Randen</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Falafel | auf Zitronenrisotto | mit Kürbiswürfel, Zucchetti | &amp; gerösteten Randen</name>
+          <note>Allergene: Milch, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
-          <price role="student">12.90</price>
+          <price role="student">9.90</price>
         </meal>
       </category>
     </day>
