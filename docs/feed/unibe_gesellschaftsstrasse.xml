@@ -141,9 +141,9 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Cevapcici-Spiess | auf Tomatenreis | mit Sweet Chili Sauce | und Gurkensalat</name>
+          <name>Cevapcici | auf Tomatenreis | mit Sweet Chili Sauce | und Gurkensalat</name>
           <note>Allergene: Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Rind : Schweiz</note>
+          <note>Herkunft Rind / Lamm : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
