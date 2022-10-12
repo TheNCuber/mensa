@@ -38,19 +38,19 @@
     <day date="2022-10-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Chili sin Carne | mit Quorn, Kartoffeln | Mais &amp; Bohnen</name>
-          <note>Allergene: Gluten, Ei</note>
+          <name>Crunchy Burger | mit Tomatensauce | dazu Gnocchi</name>
+          <note>Allergene: Gluten, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsbraten | mit Rosmarinbratensauce | dazu Hörnli | &amp; Erbsen</name>
+          <name>Rinds-Meatballs | mit Rosmarinbratensauce | dazu Hörnli | &amp; Erbsen</name>
           <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
