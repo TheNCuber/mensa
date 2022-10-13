@@ -115,6 +115,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Spaghetti an | Carbonarasauce | Wild Reis dazu | Peperoni-Apfel-Gulasch mit Creme fraiche | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sulfit</note>
+          <note>Herkunft Schinken: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-10-13">
       <category name="Natürlich vegan">
@@ -143,6 +152,17 @@
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Farfalle profumo autunnale» mit Kürbis, Wirsing und Salbei mit | Tomatensauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit, Weizen</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>

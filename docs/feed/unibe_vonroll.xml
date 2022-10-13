@@ -79,7 +79,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Kapuska-Kohlpfanne | mit Rindshackfleisch | Chili und Paprika | dazu Gemüsereis mit Petersilie</name>
+          <name>Kapuska-Kohlpfanne | mit Rindshackfleisch | Chili und Paprika | dazu Gemüsereis</name>
           <note>Allergene: Milch, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
@@ -90,7 +90,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Vegi-Gyros | mit BBQ Pulled-Jackfruit | an Tzatzikisauce und Chili | mit Karottenstreifen &amp; Eisbergsalat | dazu Wedges</name>
+          <name>Vegi-Gyros | mit Plant-based geschnetzeltes | an Tzatzikisauce und Chili | mit Karottenstreifen &amp; Eisbergsalat | dazu Wedges</name>
           <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -122,7 +122,7 @@
       <category name="voll anders">
         <meal>
           <name>Grillbratwurst | mit Senf | dazu Kartoffelsalat | &amp; Ruchbrot</name>
-          <note>Allergene: Gluten, Ei, Soja, Senf, Sulfit, Weizen</note>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Senf, Sulfit, Weizen</note>
           <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">15.90</price>
