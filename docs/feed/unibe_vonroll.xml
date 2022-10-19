@@ -47,20 +47,21 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Wildhackbraten | an Rotweinsauce | mit Pizokel | &amp; Karotten</name>
+          <name>Schweinswürstli | an Rotweinsauce | mit Pizokel | &amp; Karotten</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz / EU (Schwein, Hirsch, Rind)</note>
+          <note>Herkunft Fleisch: Schweiz(Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Herbstliches Gersotto | mit Schweinswurst | Wurzelgemüse, Wirsing | Baumnüsse &amp; Reibkäse</name>
+          <name>Herbstliches Gersotto | Wurzelgemüse, Wirsing | Baumnüsse &amp; Reibkäse</name>
           <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">15.90</price>
-          <price role="student">12.90</price>
+          <price role="student">9.90</price>
         </meal>
       </category>
     </day>
