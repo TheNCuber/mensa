@@ -140,7 +140,7 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Schweinsgeschnetzeltes Zürcher Art | dazu Kräuternudeln mit | Broccoli | Menusalat</name>
+          <name>Schweinsgeschnetzeltes Zürcher Art | dazu Pasta mit Kräuter dazu | Broccoli | Menusalat</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
@@ -155,6 +155,15 @@
           <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Ebly-Gemüsepfanne mit | Sojajoghurt | Planted Thai Curry | Kartoffel-Lauch-Gratin | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
