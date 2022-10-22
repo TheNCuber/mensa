@@ -4,7 +4,7 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2022-10-17">
-      <category name="Vegie Bowl">
+      <category name="Vegi Bowl">
         <meal>
           <name>Soja Geschnetzeltes | Kokosnussmilch-Sauce | Karotten | Champignons | Ebly</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
@@ -26,7 +26,7 @@
       </category>
     </day>
     <day date="2022-10-18">
-      <category name="Vegie Bowl">
+      <category name="Vegi Bowl">
         <meal>
           <name>Eier-Frittata | Zucchetti | Erbsen | Peperoni | Rucola</name>
           <note>Allergene: Ei, Milch</note>
@@ -48,7 +48,7 @@
       </category>
     </day>
     <day date="2022-10-19">
-      <category name="Vegie Bowl">
+      <category name="Vegi Bowl">
         <meal>
           <name>&quot;Veg-Veg-Tag&quot; | Magronen | Rahmsauce | Kartoffelwürfel | Röstzwiebeln</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
@@ -71,7 +71,7 @@
       </category>
     </day>
     <day date="2022-10-20">
-      <category name="Vegie Bowl">
+      <category name="Vegi Bowl">
         <meal>
           <name>Blumenkohl-Käse-Medaillons | Bulgur | Kürbisgemüse | Romanesco | Kräuter-Sauerrahm</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie, Weizen</note>
@@ -92,7 +92,7 @@
       </category>
     </day>
     <day date="2022-10-21">
-      <category name="Vegie Bowl">
+      <category name="Vegi Bowl">
         <meal>
           <name>Mediterraner Dinkel Burger | Gebackene Süsskartoffeln | Butter Bohnen | Karottensalat | Cocktail Sauce</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
