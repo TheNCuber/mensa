@@ -96,6 +96,15 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Shakshuka mit Ei und Petersilien Couscous | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Wochenbowl">
         <meal>
           <name>NYC Bowl mit Rindfleisch Pastrami, Avocado, Maiskörner, rote Zwiebeln, Rainbow Salat und BBQ Sauce</name>
@@ -104,6 +113,15 @@
           <note>Herkunft Rind: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Penne Amatriciana | Hirschpfeffer | Spätzli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Speck: Schweiz/Pfeffer: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
