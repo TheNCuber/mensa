@@ -3,11 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-10-24">
+    <day date="2022-10-31">
       <category name="Vegi Bowl">
         <meal>
-          <name>Szegediner Gulasch | mit Tofu | Kartoffelstock | Peperoni</name>
-          <note>Allergene: Soja, Milch</note>
+          <name>Sojageschnetzeltes | Couscous | Preiselbeersauce | Marktgemüse | Randensalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,21 +17,19 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Spaghetti | Tomatenrahmsauce | Schinkenstreifen | Wirz | Reibkäse</name>
+          <name>Rotes Thai Curry | mit Poulet | Reis | Pak Choi</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Poulet : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-11-01">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Penne | Arrabiata Sauce | Mozzarellakugeln | Karotten | Rucola</name>
           <note>Allergene: Gluten, Milch, Sellerie</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-10-25">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>Linsen | Currysauce | Selleriewürfel | Kartoffelwürfel | Mango-Chutney</name>
-          <note>Allergene: Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -38,18 +37,18 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Rindfleisch Szechuan | Jasmin Reis | Asiatisches Gemüse</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Rind : Schweiz</note>
+          <name>Geräucherte Rippli | Salzkartoffeln | Sauerkraut | Lauch</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-10-26">
+    <day date="2022-11-02">
       <category name="Vegi Bowl">
         <meal>
-          <name>Gemüseravioli | Pesto Rosso | Auberginen | Zucchetti | Getrocknete Tomaten</name>
+          <name>Green Mountain Fleischkäse | Butternudeln | Balsamicosauce | Grüne Bohnen | Erbsen</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -59,39 +58,19 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Schweinsragout | Polenta | Pflaumensauce | Glasierte Karotten | Erbsen</name>
+          <name>Rindfleisch Stroganoff | Trockenreis | Peperoni | Champignons | Kräuter Sauerrahm</name>
           <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
+          <note>Herkunft Rind : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-10-27">
+    <day date="2022-11-03">
       <category name="Vegi Bowl">
         <meal>
-          <name>Gemüsebällchen | Reis | Joghurt-Minze-Sauce | Karotten | Zucchetti</name>
-          <note>Allergene: Gluten, Soja, Sulfit</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>Gebratener Pouletschenkel | Couscous | Toskanische Tomatensauce | Peperonata | Karottensalat</name>
-          <note>Allergene: Gluten, Sellerie, Sulfit</note>
-          <note>Herkunft Poulet : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-10-28">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>Oceansticks | Salzkartoffeln | Zitronen-Mayonnaise | Blattspinat | Kohlrabi</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf</note>
+          <name>Gemüse Sweet and Sour Sauce | Basmati Reis | Mungosprossen</name>
+          <note>Allergene: Gluten, Soja, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -100,10 +79,30 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Schweinsbratwurst | Kartoffelgratin | Senfsauce | Blumenkohl | Grüne Bohnen</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <name>Hörnli | Bechamelsauce | Schinken | Gemüsestreifen | Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Herkunft Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-11-04">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Blumenkohl | Alloo Gobi Sauce | Kürbis | Süsskartoffel | Mango</name>
+          <note>Allergene: Senf</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Bowl">
+        <meal>
+          <name>Rindshackbällchen | Gnocchi | Paprikasauce | Ratatouille | Selleriewürfel</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
