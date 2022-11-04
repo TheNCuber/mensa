@@ -99,10 +99,10 @@
     <day date="2022-11-03">
       <category name="natürlich vegi">
         <meal>
-          <name>Gelbes-Curry | mit Kichererbsen | &amp; Wokgemüse | dazu Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
+          <name>Falafelbällchen | mit Joghurt Dip | dazu Tomatenbulgur | mit Karotten, Fenchel &amp; Cashewnüsse</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -119,8 +119,8 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Quinoa-Gemüse-Burger | mit Cheddarsauce | Tomate, Zwiebeln &amp; Salat | dazu Kartoffel Wedges</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <name>Quinoa-Gemüse-Burger | mit Sauerrahmsauce | Tomate, Zwiebeln &amp; Salat | dazu Kartoffel Wedges</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>

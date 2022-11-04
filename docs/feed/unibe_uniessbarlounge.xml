@@ -153,6 +153,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Bulgur mit Gemüse dazu | Chimichurri Sauce | Gersotto mit Tomaten und Oliven | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-11-04">
       <category name="Natürlich vegan">
