@@ -154,6 +154,16 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Biryani mit Gemüse (Reisgericht aus Pakistan) | Menusalat</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-11-11">
       <category name="Natürlich vegan">
