@@ -132,17 +132,17 @@
     <day date="2022-11-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Chili sin Carne | mit Tofu, Kartoffeln | Mais, Kidneybohnen | &amp; veganem Frischkäse</name>
-          <note>Allergene: Soja, Schalenfrüchte, Sulfit</note>
+          <name>Chili sin Carne | mit Tofu, Quorn, Kartoffeln | Mais, Kidneybohnen | &amp; veganem Frischkäse</name>
+          <note>Allergene: Ei, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletragout | an Kräuterrahmsauce | dazu Butternudeln | &amp; grüne Bohnen</name>
+          <name>Pouletragout | an Kürbis-Pilzrahmsauce | dazu Butternudeln | &amp; grüne Bohnen</name>
           <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
