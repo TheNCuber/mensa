@@ -3,11 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-11-07">
+    <day date="2022-11-14">
       <category name="Vegi Bowl">
         <meal>
-          <name>Gemüsebällchen | Pfeffersauce | Schupfnudeln | Rotkraut | Karamellisierter Apfel</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <name>Roter Linsentopf | Wirz | Kohlrabi | Karotten | Pastinaken</name>
+          <note>Allergene: Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,32 +17,21 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Tortellini mit Rindfleisch | Tomatensauce | Getrocknete Tomaten | Auberginen | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Rind : Schweiz</note>
+          <name>Älplermagronen | Speck | Apfelmus | Röstzwiebeln</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-11-10">
-      <category name="Daily Bowl">
-        <meal>
-          <name>Hackbraten | Thymiansauce | Nudeln | Pastinaken | Rosenkohl</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Rind : Schweiz / Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-11-11">
+    <day date="2022-11-17">
       <category name="Vegi Bowl">
         <meal>
-          <name>Quinoa-Pfanne | Brokkoli | Edamame | Peperoni | Sweet Chili Sauce</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Spätzligratin | Buntes Gemüse | Käse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
