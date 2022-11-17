@@ -97,6 +97,15 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Schweinsbratwurst an Zwiebelsauce | Butternudeln | Gekochte Eier an Kapern Sauce | Kartoffelstock | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-11-17">
       <category name="Natürlich vegan">
