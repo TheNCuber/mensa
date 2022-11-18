@@ -118,6 +118,16 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Es het solangs het | Nudelpfanne mit Poulet und asiatischem Gemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2022-11-18">
       <category name="Natürlich vegan">
