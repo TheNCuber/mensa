@@ -3,37 +3,60 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-11-14">
+    <day date="2022-11-21">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Kalbs Pojarski | Senfsauce | Spiralen | Grüne Bohnen | Karotten</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Kalb : Schweiz / Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-11-22">
       <category name="Vegi Bowl">
         <meal>
-          <name>Roter Linsentopf | Wirz | Kohlrabi | Karotten | Pastinaken</name>
-          <note>Allergene: Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Kartoffelgnocchi | Rahmsauce | Brokkoli | Pilze | Rucola</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
+    </day>
+    <day date="2022-11-23">
       <category name="Daily Bowl">
         <meal>
-          <name>Älplermagronen | Speck | Apfelmus | Röstzwiebeln</name>
-          <note>Allergene: Gluten, Milch</note>
+          <name>Spaghetti | Carbonara Sauce | Reibkäse | Röstzwiebeln</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Herkunft Schwein : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-11-17">
+    <day date="2022-11-24">
       <category name="Vegi Bowl">
         <meal>
-          <name>Spätzligratin | Buntes Gemüse | Käse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <name>Griechische Moussaka | Buntes Gemüse | Auberginen | Kartoffeln | Fetakäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2022-11-25">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Fischstäbchen | Salzkartoffeln | Rahmspinat | Erbsen | Tartarsauce</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fisch : Pacifik</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
