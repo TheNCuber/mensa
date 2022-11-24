@@ -66,7 +66,7 @@
       <category name="An der hinteren Station">
         <meal>
           <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Sellerie</note>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
@@ -106,10 +106,11 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü»</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>«Food Save Menü» | Nudeln an feiner | Tomaten - Rindsbolognese | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
@@ -138,7 +139,7 @@
       <category name="Einfach gut">
         <meal>
           <name>Rassige Curry Wurst mit | Pommes Frites | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Milch, Sellerie, Senf</note>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
           <note>Herkunft Schwein: Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
@@ -169,7 +170,7 @@
       <category name="Natürlich vegan">
         <meal>
           <name>Chickeriki Nuggets vegan | hausgemachte Aioli mit Curry | frittierte Kartoffeln | Cole Slaw | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>

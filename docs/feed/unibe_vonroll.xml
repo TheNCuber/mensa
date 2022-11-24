@@ -45,9 +45,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Hörnli | mit Ghackets | dazu Reibkäse | &amp; Apfelmus</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Poulet Meat Balls | an Tomatensauce | dazu Hörnli</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Senf, Sesam, Pistazie</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -74,8 +74,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsbraten | an Biersauce | mit Kartoffelstock | dazu Lauchgemüse</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <name>Paniertes Schnitzel | mit Hörnli | dazu Erbsen</name>
+          <note>Allergene: Gluten, Milch, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
