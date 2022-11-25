@@ -148,8 +148,8 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü»</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>«Food Save Menü» | Pilzrisotto mit Kürbis, Kräutern und Speck | Gemüse Curry mit | Basmati Reis | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
