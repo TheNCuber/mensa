@@ -70,8 +70,9 @@
     <day date="2022-11-30">
       <category name="natürlich vegi">
         <meal>
-          <name>Walliser Rösti | mit Tomaten, Kräuter | mit Raclettekäse überbacken</name>
-          <note>Allergene: Milch, Senf</note>
+          <name>Spätzlipfanne mit Gemüse | an Rahmsauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -115,7 +116,7 @@
         <meal>
           <name>Gebackener Fleischkäse | an Senfsauce | dazu Kartoffel-Lauchgemüse</name>
           <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein/Rind)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
