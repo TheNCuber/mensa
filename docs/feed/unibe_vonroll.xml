@@ -124,9 +124,8 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Poulet Cordon-bleu | mit Zitronenschnitz | &amp; Pommes Frites</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Planted-Schnitzel | mit Zitronenschnitz | &amp; Pommes Frites</name>
+          <note>Vegan</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
@@ -155,7 +154,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Happy-Noodles | mit Wokgemüse, Chinakohl | Brokkoli &amp; Tofu</name>
+          <name>Happy-Noodles | mit Wokgemüse, Chinakohl | Brokkoli &amp; Räuchertofu</name>
           <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
