@@ -15,8 +15,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Schweins-Rahmgulasch Wiener Art | Reis | Broccoli | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <name>Schweins-Rahmgulasch Wiener Art | Reis | Blattspinat | Menusalat</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -24,11 +24,11 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü»</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <name>«Food Save Menü» | Chili sin Carne | Gemüsecurry | Reis | Menusalat</name>
+          <note>Allergene: Soja, Sesam, Sulfit</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
@@ -106,7 +106,7 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü» | Thai Curry mit Rindfleisch &amp; Gemüse | Reis &amp; Menüsalat</name>
+          <name>«Food Save Menü»</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
