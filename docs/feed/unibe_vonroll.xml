@@ -37,7 +37,7 @@
     <day date="2022-12-06">
       <category name="natürlich vegi">
         <meal>
-          <name>Magronen | an Cheddar-Käsesauce | mit Röstzwiebeln | dazu Menüsalat &amp; Frucht</name>
+          <name>Magronen | an Käsesauce | mit Röstzwiebeln | dazu Menüsalat &amp; Frucht</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -78,7 +78,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindsgeschnetzeltes | mit Rüebli &amp; Silberzwiebeln | dazu Polenta mit Gorgonzola</name>
+          <name>Rindsgeschnetzeltes | mit Rüebli &amp; Silberzwiebeln | dazu Magronen</name>
           <note>Allergene: Gluten, Soja, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
