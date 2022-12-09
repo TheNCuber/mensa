@@ -108,10 +108,10 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spaghetti | an Carbonara-Sauce | mit Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Spaghetti | an Tomatensauce | mit Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
