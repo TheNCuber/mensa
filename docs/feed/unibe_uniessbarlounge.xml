@@ -10,7 +10,6 @@
           <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -43,7 +42,6 @@
           <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -60,8 +58,8 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <name>HEUTE GESCHLOSSEN</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
           <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
@@ -75,7 +73,6 @@
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -107,7 +104,6 @@
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
