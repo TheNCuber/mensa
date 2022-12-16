@@ -118,10 +118,9 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Cevapcici Spiess | mit Tzatziki | dazu Bräterkartoffeln | mit getrockneten Tomaten | Zucchetti &amp; Peperoni</name>
+          <name>Cevapcici Spiess | mit Tzatziki | dazu Safranreis | mit getrockneten Tomaten | Zucchetti &amp; Peperoni</name>
           <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Fleisch: Schweiz (Rind) Irland (Lamm)</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
@@ -152,7 +151,7 @@
       <category name="voll anders">
         <meal>
           <name>Pouletflügeli | mit Cocktail Sauce | dazu Pommes-Soufflées</name>
-          <note>Allergene: Ei, Fisch, Soja, Milch, Senf, Sulfit</note>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
           <price role="student">11.90</price>
