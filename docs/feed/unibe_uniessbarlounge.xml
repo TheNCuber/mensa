@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-12-12">
+    <day date="2022-12-19">
       <category name="Natürlich vegan">
         <meal>
-          <name>Indisches Linsendal | mit Naan Brot | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Wiener Schnitzel mit Zitronen | Pommes Frites | Wurzelgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,31 +16,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Ghackets mit Penne | Öpfumues | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <name>Japanisches Sukiyaki mit Rindfleisch | Menusalat</name>
+          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Unis Herbst Bowl mit gebratenem Roastbeef und Pastrami auf Nüssler Salat dazu gebratenen Pilzen, gekochte Eier und Croutons</name>
-          <note>Allergene: Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2022-12-13">
+    <day date="2022-12-20">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Conchiglie alla trapanese » | Müschli mit Knoblauch- Tomaten- Basilikumpesto und Mandeln | Menusalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Teigwaren an feiner | Pestosauce | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Walnuss, Cashew</note>
+          <note>Herkunft 7.80/13.50</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -48,30 +37,28 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Grünes Curry mit Gemüse | Basmati | Menüsalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>Es het solangs het | Lasagne mit Rindshackfleisch | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>HEUTE GESCHLOSSEN</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sesam</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2022-12-14">
+    <day date="2022-12-21">
       <category name="Natürlich vegan">
         <meal>
-          <name>«VegVeg-Tag» | «Viva España» | Vegane Gemüse-Paella | Menusalat</name>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Gemüsestrudel | Wurzelgemüsewürfel mit Kräuter | Menusalat</name>
+          <note>Allergene: Gluten, Sellerie</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -79,29 +66,19 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«VegVeg-Tag» | Knuspriger Gemüsestrudel | Gemüsewürfel mit Kräuter | Randen-Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>Gerstensuppe | Schweinswürstli | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü»</name>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-12-15">
+    <day date="2022-12-22">
       <category name="Natürlich vegan">
         <meal>
-          <name>Marokkanische Tajine | mit Kichererbsen und Gemüse | Couscous | Menusalat</name>
-          <note>Allergene: Gluten, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Oceansticks | Salz Kartoffeln mit Petersilie | Lauch Gemüse | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -110,36 +87,23 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Japanisches Sukiyaki mit Rindfleisch | Japanisches Nudelgericht | mit Gemüse, Rindfleisch | an Sojasauce | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
-          <note>Herkunft Rind; Schweiz</note>
+          <name>Fischstäbchen | Salz Kartoffeln mit Petersilie | Lauch Gemüse | Menusalat</name>
+          <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sesam</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fischstäbchen: Aus nachhaltiger Zucht EU</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | HEUTE GESCHLOSSEN | DANKE FÜR DEINE GEDULD BEIM ANSTEHEN!</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2022-12-16">
+    <day date="2022-12-23">
       <category name="Natürlich vegan">
         <meal>
-          <name>Vegane Tortelli mit Gemüsedalfüllung | Kräuterpesto | Menüsalat</name>
-          <note>Allergene: Gluten, Sesam</note>
+          <name>Pasta Plausch</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Fischknusperli an | Tartare Sauce | Butterkartoffeln | Rahmspinat | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf, Sulfit</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
