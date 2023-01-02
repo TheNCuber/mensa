@@ -3,7 +3,7 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2022-12-26">
+    <day date="2023-01-02">
       <category name="natürlich vegi">
         <meal>
           <name>Geschlossen</name>
@@ -14,38 +14,19 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Geschlossen</name>
+          <name>Geschlosen</name>
           <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2022-12-27">
+    <day date="2023-01-03">
       <category name="natürlich vegi">
         <meal>
-          <name>Tortellini mit Ricotta-Spinat-Füllung | an Gemüse Rahmsauce | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit, Weizen</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Tortellini mit Rindfleisch-Füllung | an Gemüse Rahmsauce | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-12-28">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Asiatische Reispfanne | mit mariniertem Tofu | &amp; Sweet-Chilli Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <name>Green Curry | mit Planted-Geschnetzeltem | Auberginen, Zucchetti | Brokkoli &amp; Blattspinat | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Soja, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -53,33 +34,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Asiatische Reispfanne | mit gebratenem Poulet | &amp; Sweet-Chilli Dip</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sesam</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2022-12-29">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Penne an Rahmsauce | mit Spinat &amp; Feta</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Penne Bolognese | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>«Chili con Carne» | mit Rindshackfleisch | Mais &amp; Kidneybohnen | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Milch, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
@@ -87,21 +43,63 @@
         </meal>
       </category>
     </day>
-    <day date="2022-12-30">
+    <day date="2023-01-04">
       <category name="natürlich vegi">
         <meal>
-          <name>No-Food-Waste Menu</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Vegetarisch</note>
+          <name>Kartoffel-Gnocchi | an Mandelsauce | mit Lattich &amp; getrockneten Tomaten</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Sulfit</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>No-Food-Waste Menu</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <note>Herkunft Fleisch: Schweiz</note>
+          <name>Schweinsgeschnetzeltes «Jäger Art» | mit glasierten Karotten | dazu Eierspätzli</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-01-05">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Zürcher Art | Planted Streifen | an Champignon-Sauce | mit Erbsen &amp; Karotten | dazu Rösti</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Berner Rösti | mit Speck &amp; Schinken | überbacken mit Raclettekäse</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-01-06">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Spaghetti | an Soja-Gemüse-Bolognese</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Spaghetti «alla Carbonara» | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
