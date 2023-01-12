@@ -89,9 +89,9 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Paniertes Schweinsschnitzel | Österreicher Art | mit Pommes Frites | &amp; Zitronenschnitz</name>
-          <note>Allergene: Gluten, Ei</note>
-          <note>Herkunft Fleisch: Schweiz(Schwein)</note>
+          <name>Veganes Plantedschnitzel | mit Pommes Frites | &amp; Zitronenschnitz</name>
+          <note>Allergene: Gluten, Ei, Soja</note>
+          <note>Vegan</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>

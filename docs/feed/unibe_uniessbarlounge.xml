@@ -76,6 +76,15 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Kichererbsencurry mit Karoffeln dazu | Basmati Reis | Älplermaggronen mit Röstzwiebeln, Apfelmus und Gruyère | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Senf, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-01-12">
       <category name="Natürlich vegan">
