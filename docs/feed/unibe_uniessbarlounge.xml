@@ -3,12 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-01-09">
+    <day date="2023-01-16">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Aloo Gobi» | Indisches Curry mit | Kichererbsen, Karoffeln | Zwiebeln und Basmati Reis | Menusalat</name>
-          <note>Allergene: Soja, Schalenfrüchte, Senf, Sulfit, Cashew</note>
-          <note>Genuss in Balance</note>
+          <name>«Pad Thai» | Reisnudelgericht | mit Karotten, Sprossen | Bundzwiebeln, Limes | Erdnüsse &amp; Koriander | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -16,21 +16,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Älplermaggronen mit Röstzwiebeln, Apfelmus und Gruyère | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <name>Randenrisotto mit Feta und frischem Ruccola | Menusalat</name>
+          <note>Allergene: Ei, Soja, Milch, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.50</price>
+          <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2023-01-10">
+    <day date="2023-01-17">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Gulasch Ungarische Art» | mit Seitan aus Frutigen | Kartoffeln, Räucherpaprika | Peperoni und Thymian im Suppenbrot</name>
-          <note>Allergene: Gluten, Soja, Senf, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>«Tikka Masala» | Planted Streifen mit Ingwer | Kichererbsen &amp; Koriander Dip | Kokosnussreis mit Sesam | Gepickelter Rotkabis | Menusalat</name>
+          <note>Allergene: Soja, Senf, Sesam, Sulfit</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -38,9 +37,9 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Ofenkartoffeln mit | Grillgemüse und | Tzatziki | Menusalat</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Cannelloni mit Spinatfüllung überbacken mit Tomatensauce und Käse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -48,20 +47,19 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Schweins Cordon Bleu | Pommes Frites | Gemüsebouquet | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">15.50</price>
+          <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
     </day>
-    <day date="2023-01-11">
+    <day date="2023-01-18">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Chili Sin Carne» | Sojahack mit Bohnen, Lime | und schwarzer Schokolade | im Baked Potatoe mit | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sulfit, Cashew</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>«Mujaddara» | Linsen Reis Gericht mit | Zwiebeln und Pistazien | Karotten Salat mit Granat- | Apfel &amp; Minze, Soja Joghurt | Menusalat</name>
+          <note>Allergene: Soja, Schalenfrüchte, Sellerie, Sulfit, Pistazie</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -69,29 +67,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Orientalisches Schweinsgeschnetzeltes mit | Butternudeln und | Wintergemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Kichererbsencurry mit Karoffeln dazu | Basmati Reis | Älplermaggronen mit Röstzwiebeln, Apfelmus und Gruyère | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Schalenfrüchte, Senf, Sesam</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-01-12">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>«Japchae» | Glasnudelgericht | mit Planted, Champignons | Gemüse, Sprossen | Koriander und Sesam</name>
+          <name>Frittierte Samosas mit Sweet Chili Sauce auf | Glasnudel Salat Gurken Cherrytomaten Lauchzwiebeln Sojasprossen | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sesam</note>
+          <note>Herkunft Poulet: Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-01-19">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>«Hausgemachte Lasagne» | mit Soja Gehacktem | Sellerie, Karotten, Tomaten | Sugo &amp; Rucola | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -99,19 +88,18 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Eierspätzli mit | Pilz Ragout und Wurzelgemüse | Apfel Rotkraut | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
+          <name>«Red Chicken Curry» Pouletgeschnetzeltes mit Wok Gemüse | Basmati Reis | Menusalat</name>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2023-01-13">
+    <day date="2023-01-20">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Nasi Goreng» | Indonesisches Reis | Gericht mit Gemüse | Tempeh, Röstzwiebeln | Cashewkerne und Sprossen | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sulfit, Cashew</note>
+          <name>«Hummus Pasta » | Penne mit Kichererbsen | Sauce, Dörrtomaten | Federkohl, Edamame | und Riibmandle | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sesam, Mandel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -120,12 +108,11 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Gemüse Lasagne mit | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>Fischstäbchen mit Currymayonnaise und Ananas | Petersilien Kartoffeln | Rahmspinat | Menusalat</name>
+          <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sesam</note>
+          <note>Herkunft Fischstäbchen: Aus nachhaltiger Zucht EU</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
