@@ -10,6 +10,7 @@
           <note>Allergene: Gluten, Erdnuss, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -40,6 +41,7 @@
           <name>«Tikka Masala» | Planted Streifen mit Ingwer | Kichererbsen &amp; Koriander Dip | Kokosnussreis mit Sesam | Gepickelter Rotkabis | Menusalat</name>
           <note>Allergene: Soja, Senf, Sesam, Sulfit</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -70,6 +72,7 @@
           <name>«Mujaddara» | Linsen Reis Gericht mit | Zwiebeln und Pistazien | Karotten Salat mit Granat- | Apfel &amp; Minze, Soja Joghurt | Menusalat</name>
           <note>Allergene: Soja, Schalenfrüchte, Sellerie, Sulfit, Pistazie</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -91,6 +94,7 @@
           <name>«Hausgemachte Lasagne» | mit Soja Gehacktem | Sellerie, Karotten, Tomaten | Sugo &amp; Rucola | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -111,6 +115,7 @@
           <note>Allergene: Gluten, Soja, Schalenfrüchte, Sesam, Mandel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
