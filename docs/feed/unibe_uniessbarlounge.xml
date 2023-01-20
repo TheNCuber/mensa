@@ -10,7 +10,6 @@
           <note>Allergene: Gluten, Erdnuss, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -41,7 +40,6 @@
           <name>«Tikka Masala» | Planted Streifen mit Ingwer | Kichererbsen &amp; Koriander Dip | Kokosnussreis mit Sesam | Gepickelter Rotkabis | Menusalat</name>
           <note>Allergene: Soja, Senf, Sesam, Sulfit</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -72,7 +70,6 @@
           <name>«Mujaddara» | Linsen Reis Gericht mit | Zwiebeln und Pistazien | Karotten Salat mit Granat- | Apfel &amp; Minze, Soja Joghurt | Menusalat</name>
           <note>Allergene: Soja, Schalenfrüchte, Sellerie, Sulfit, Pistazie</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -87,6 +84,16 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Risotto mit Randen und Tomaten dazu Rucola | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-01-19">
       <category name="Natürlich vegan">
@@ -94,16 +101,25 @@
           <name>«Hausgemachte Lasagne» | mit Soja Gehacktem | Sellerie, Karotten, Tomaten | Sugo &amp; Rucola | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«Red Chicken Curry» Pouletgeschnetzeltes mit Wok Gemüse | Basmati Reis | Menusalat</name>
+          <name>Pouletgeschnetzeltes an rassiger Currysauce mit Wok Gemüse | Basmati Reis | Menusalat</name>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Planted Geschnetzeltes mit Kichererbsen an Tomatensauce | dazu Reis</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
       </category>
@@ -111,11 +127,10 @@
     <day date="2023-01-20">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Hummus Pasta » | Penne mit Kichererbsen | Sauce, Dörrtomaten | Federkohl, Edamame | und Riibmandle | Menusalat</name>
+          <name>«Hummus Pasta » | Penne mit Kichererbsen | Sauce, Dörrtomaten | Federkohl, Edamame</name>
           <note>Allergene: Gluten, Soja, Schalenfrüchte, Sesam, Mandel</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
