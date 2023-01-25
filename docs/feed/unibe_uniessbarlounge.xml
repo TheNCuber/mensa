@@ -74,6 +74,15 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Poulet Meat UniEss an BBQ Sauce | Pouletgeschnetzeltes | Kartoffelstock | Rahmspinat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sesam</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-01-26">
       <category name="Einfach gut">
