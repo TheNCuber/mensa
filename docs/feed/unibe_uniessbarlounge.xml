@@ -10,6 +10,7 @@
           <note>Allergene: Soja</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -29,6 +30,7 @@
           <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -61,6 +63,7 @@
           <name>«Spaghetti Veganara» | mit mariniertem Räucher- | Tofu, Blumenkohl | Cashew Sauce und | italienischer Petersilie | Menusalat</name>
           <note>Allergene: Gluten, Soja, Schalenfrüchte, Sulfit, Cashew</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
