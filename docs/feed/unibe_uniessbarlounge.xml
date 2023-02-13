@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-02-06">
+    <day date="2023-02-13">
       <category name="Natürlich vegan">
         <meal>
-          <name>Nudeln an leicht feuriger | all'Arrabiata | Menusalat</name>
-          <note>Allergene: Gluten, Weizen</note>
+          <name>Indisches Linsendal | mit Naan Brot oder Pitabrot | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,38 +16,39 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Schweins-Rahmgulasch Wiener Art mit | Kartoffelstock dazu | Broccoli | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <name>Ghackets mit Hörnli | Öpfumues | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü» | Red Thaicurry mit Rindfleisch | Basmati Reis</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
-          <note>Herkunft Rind: Schweiz</note>
+          <name>«Food Save Menü» | Lasagne al forno | mit Gemüsewürfel | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch:Rind, Schweiz</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>UniS Mezze Bowl mit Taboule Salat, Rüeblijulienne, Rotkabisjulienne, Falafel, Hummus, mini Pitabrötli, und Jogurtgurkendip mit Minze</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-02-07">
+    <day date="2023-02-14">
       <category name="Natürlich vegan">
         <meal>
-          <name>Farbiges Gemüse Stroganoff | Langkornreis «Max Havelaar» | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <name>«Viva España» | Spanische Paella | Vegane Gemüse-Paella | Menusalat</name>
+          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -56,8 +57,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Baked Potatoes | mit Zitronen und Limetten Tzatziki | auf Ofengemüse | Menusalat</name>
-          <note>Allergene: Soja, Schalenfrüchte, Sesam</note>
+          <name>Grünes Curry mit Gemüse | Basmati | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -75,20 +76,61 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>UniS Mezze Bowl mit Taboule Salat, Rüeblijulienne, Rotkabisjulienne, Falafel, Hummus, mini Pitabrötli, und Jogurtgurkendip mit Minze</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-02-08">
+    <day date="2023-02-15">
       <category name="Natürlich vegan">
         <meal>
-          <name>Pad Thai | Reisnudeln mit frischem Gemüse Bambussprossen und Tofu | Sojasauce | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <name>«VegVeg-Tag» | «Conchiglie alla trapanese » Müschli Knoblauch Tomaten Basilikum | Menusalat</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>«VegVeg-Tag» | Knuspriger Gemüsestrudel | Gemüsewürfel mit Kräuter | Randen-Dip</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü»</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-02-16">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Marokkanische Tajine | mit Kichererbsen und Gemüse | Couscous | Menusalat</name>
+          <note>Allergene: Gluten, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -97,30 +139,31 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Limettenrisotto | mit Edamame | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
+          <name>«Bami Goreng» | Indonesisches Nudelgericht | mit Gemüse und Pilzen | an Sojasauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>UniS Mezze Bowl mit Taboule Salat, Rüeblijulienne, Rotkabisjulienne, Falafel, Hummus, mini Pitabrötli, und Jogurtgurkendip mit Minze</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-02-09">
+    <day date="2023-02-17">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gnocchipfanne | mit buntem Gemüse, frischen Kräutern und Pinienkernen | an einer leichten Zitronen-Safransauce | Menusalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Sulfit</note>
+          <name>Yellow Thai Curry mit Kartoffeln viel frisches Gemüse dazu | Basmati Reis | Menüsalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -129,39 +172,9 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Tessiner Polenta mit | Pilzragout und | Ratatouille | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>UniS Mezze Bowl mit Taboule Salat, Rüeblijulienne, Rotkabisjulienne, Falafel, Hummus, mini Pitabrötli, und Jogurtgurkendip mit Minze</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-02-10">
-      <category name="Einfach gut">
-        <meal>
-          <name>Lasagne al forno | mit Gemüsewürfel | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Herkunft Fleisch:Rind, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Gemüse Bananen Curry mit Thaibasilikum mit Tofu und | Basmati Reis | Menusalat</name>
-          <note>Allergene: Sulfit</note>
+          <name>«Das Berliner Original» | Curry Wurst | Pommes Frites | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -169,10 +182,10 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>UniS Mezze Bowl mit Taboule Salat, Rüeblijulienne, Rotkabisjulienne, Falafel, Hummus, mini Pitabrötli, und Jogurtgurkendip mit Minze</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
