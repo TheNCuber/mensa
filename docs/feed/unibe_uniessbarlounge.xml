@@ -23,6 +23,15 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Es het solangs het | «Conchiglie alla trapanese » Müschli Knoblauch Tomaten Basilikum | Couscouspfanne | Bami Goreng | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Senf, Sesam, Mandel</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-02-21">
       <category name="Natürlich vegan">
