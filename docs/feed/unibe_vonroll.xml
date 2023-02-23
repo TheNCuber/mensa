@@ -69,31 +69,30 @@
     <day date="2023-02-22">
       <category name="natürlich vegi">
         <meal>
-          <name>Basilikum-Risotto | mit Romanesco, Erbsen | &amp; Spinat | dazu Reibkäse</name>
-          <note>Allergene: Milch, Schalenfrüchte</note>
+          <name>Penne | an Gorgonzolarahmsauce | mit Gemüsewürfel | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletragout | an Paprikasauce | dazu Lauch-Kartoffeln</name>
-          <note>Allergene: Milch, Sellerie, Sulfit</note>
+          <name>Pouletragout | an Paprika-Senfsauce | dazu Lauch-Kartoffeln</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Veganes Plantedschnitzel | mit Zitronenschnitz | dazu Pommes Frites</name>
+          <name>Vegetarisches Plantedschnitzel | mit Zitronenschnitz | dazu Pommes Frites</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
