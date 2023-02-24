@@ -97,6 +97,16 @@
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Linseneintopf mit Pastinaken und Okras</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-02-24">
       <category name="Natürlich vegan">
