@@ -3,64 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-02-20">
+    <day date="2023-02-27">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Aloo Gobi» Blumenkohl Kartoffelcurry mit Kürbis Kreuzkümmel Tomaten | mit Naan Brot | Menüsalat</name>
-          <note>Allergene: Senf</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Älplermaggronen mit Röstzwiebeln,Speck, Apfelmus und Gruyère | Menüsalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Speck: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Es het solangs het | «Conchiglie alla trapanese » Müschli Knoblauch Tomaten Basilikum | Couscouspfanne | Bami Goreng | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Senf, Sesam, Mandel</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-02-21">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Spätzlipfanne mit Gemüse | Menüsalat</name>
+          <name>Ananas - Sellerie - Curry mit Linsen | dazu Taschenbrot | Menusalat</name>
           <note>Allergene: Gluten, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">15.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-02-22">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Linsen Eintopf mit Pastinken und Okras dazu | roter Jasmin Reis | Menüsalat</name>
-          <note>Allergene: Soja, Sellerie, Sesam</note>
-          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -68,20 +15,38 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander</name>
-          <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <name>Tortellini mit Spinat-Ricotta-Füllung | Tomaten-Basilikumsauce | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü»</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
-    <day date="2023-02-23">
+    <day date="2023-02-28">
       <category name="Natürlich vegan">
         <meal>
-          <name>Indonesisches Nudelgericht mit Tofu, Bambusspsrossen, und Gemüse</name>
-          <note>Allergene: Gluten, Soja</note>
+          <name>Arabisches Bamja | mit Gemüse | Bulgur mit Cranberry und Nüssen | Menüsalat</name>
+          <note>Allergene: Gluten, Sellerie, Senf</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -91,28 +56,41 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«Red Chicken Curry» Pouletgeschnetzeltes mit Wok Gemüse auf | Basmati Reis</name>
-          <note>Herkunft Poulet: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Linseneintopf mit Pastinaken und Okras</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Gemüse Sweet &amp; Sour | Langkornreis «Max Havelaar» | Menusalat</name>
+          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">15.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
-    <day date="2023-02-24">
+    <day date="2023-03-01">
       <category name="Natürlich vegan">
         <meal>
-          <name>Oceansticks mit veganer Kräutermayo | Petersilien Kartoffeln | Blattspinat</name>
-          <note>Allergene: Gluten, Soja, Milch</note>
+          <name>Falafel Burger | Kartoffel-Gemüsepfanne | Safran- Knoblauchjoghurt | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -121,12 +99,103 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Fischstäbchen mit Knoblauchmyo | Petersilien Kartoffeln | Blattspinat</name>
-          <note>Allergene: Gluten, Krebs, Fisch, Soja, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Fisch: Aus nachhaltiger Zucht</note>
+          <name>Japanisches Sukiyaki mit Rindfleisch | Nudeln mit Rindfleisch und Gemüse | an Sojasauce | Menusalat</name>
+          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü»</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegetarisch</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-02">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Spaghetti alla Putanesca | Oliven, getrocknete Tomaten | auf Wunsch mit Grana Padano | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Chicken Tikka Masala | Nudeln | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
+          <note>Herkunft Geflügel: Poulet, Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü»</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-03">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>&gt;&gt;No Schnitzel&lt;&lt; | Rosmarin Sauce | Country Cuts | Rüebligemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Emmentaler Brät Schnitzel | Rosmarin Jus | Country Cuts | Rüebligemüse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Caesar Bowl» | Knackiger Lattich Salat mit Poulet, Speck, Parmesan, Brotcroutons und Kirschentomaten | Caesar- Dressing</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Geflügel/Fleisch: Poulet, Schweiz/ Schwein, Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
