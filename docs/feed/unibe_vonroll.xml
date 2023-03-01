@@ -36,8 +36,8 @@
     <day date="2023-02-28">
       <category name="natürlich vegi">
         <meal>
-          <name>VegVeg Tag | Mais Pizza | mit Tomaten | Champignons, Peperoni | Mozzarella &amp; Basilikumpesto</name>
-          <note>Allergene: Milch, Schalenfrüchte</note>
+          <name>VegVeg Tag | Gemüseburger | an arrabiata Sauce | dazu Spiralen</name>
+          <note>Allergene: Gluten, Ei, Soja, Schalenfrüchte</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -56,7 +56,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>VegVeg Tag | «Nahut Yemegi» | Kichererbsen an Tomatensauce | mit Zwiebeln und Peperoncini | dazu Vitaminreis mit Fideli</name>
+          <name>VegVeg Tag | «Nohut Yemegi» | Kichererbsen an Tomatensauce | mit Zwiebeln und Peperoncini | dazu Vitaminreis mit Fideli</name>
           <note>Allergene: Gluten, Ei, Sesam, Sulfit</note>
           <note>Vegan</note>
           <price role="other">15.90</price>
