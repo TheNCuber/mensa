@@ -76,18 +76,17 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Geflügelbratwurst | an Zwiebelsauce | mit Kartoffelstock | &amp; Rosenkohl</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Teigwaren | an Sauce Bolognaise | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Firinda Patlican Kebabi» | Rindshackfleisch mit Auberginen | an Tomatensauce | im Ofen gebacken | dazu Couscous mit Kreuzkümmel</name>
-          <note>Allergene: Gluten</note>
+          <name>«Firinda Patlican Kebabi» | Rindshackfleisch mit Auberginen | an Tomatensauce, im Ofen gebacken | mit Couscous mit Kreuzkümmel | dazu Joghurt</name>
+          <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
@@ -98,7 +97,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Nasi Goreng | mit Reis | &amp; Räuchertofu | dazu Wokgemüse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sesam, Sulfit</note>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
