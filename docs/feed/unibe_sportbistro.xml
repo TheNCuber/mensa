@@ -3,74 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-02-27">
+    <day date="2023-03-06">
       <category name="Vegi Bowl">
         <meal>
-          <name>Müscheli Teigwaren | Arrabiatasauce | Reibkäse | Rucola</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Hasel</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>Gebratene Schweins Plätzli | Champignon-Rahmsauce | Kartoffelstock | Kürbisgemüse | Rotkraut</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-02-28">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>VEGVEG-TAG | Griechische Moussaka | Buntes Gemüse | Kartoffeln | Fetakäse</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>VEGVEG-TAG | Sojageschnetzeltes | Curry Sauce | Ananas | Trockenreis | Mandeln</name>
-          <note>Allergene: Soja, Schalenfrüchte, Sulfit, Mandel</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-01">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>Pastetli | Quorn | Safran Sauce | Gemüsewürfel | Butterreis</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>Cervelat Cordonbleu | Baked Potato | Cole Slaw Salat | Sauerrahm Sauce</name>
-          <note>Allergene: Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-02">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>Eier Tortilla | Peperoni | Zucchetti | Erbsen | Rucola</name>
-          <note>Allergene: Ei, Milch</note>
+          <name>Indisches Biryani | Basmatireis | Erbsen | Cashewnüsse | Röstzwiebeln</name>
+          <note>Allergene: Gluten, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -80,19 +17,21 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Poulet Ragout | Teriyaki-Sauce | Nudeln | Asiagemüse | Soja Sprossen</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Herkunft Poulet : Schweiz</note>
+          <name>Gebackener Fleischkäse | Thymiansauce | Schupfnudeln | Broccoli</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-03">
+    <day date="2023-03-07">
       <category name="Vegi Bowl">
         <meal>
-          <name>Sweet and Sour Sauce | Champignons | Mais | Bambusprossen | Basmatireis</name>
-          <note>Allergene: Gluten, Soja, Milch, Sesam, Sulfit, Weizen</note>
+          <name>Linsen-Dal | Gemüsewürfel | Soja Sprossen | Mango Chutney</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -101,9 +40,78 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Rinds Hamburger | Pfeffersauce | Kartoffelgratin | Karotten | Blumenkohl</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <name>Rindshackfleisch | Hörnli | Apfelmus | Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Rind : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-08">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>VEGVEG-TAG | Kartoffel Rösti | Mediterranes Gemüse | Mozzarella | Rucola</name>
+          <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Bowl">
+        <meal>
+          <name>VEGVEG-TAG | Kichererbsen-Curry | Spinat | Lauch | Quinoa</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-09">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Sojageschnetzeltes | Preiselbeersauce | Couscous | Randen | Marktgemüse</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Bowl">
+        <meal>
+          <name>Schweinsgulasch | Sauerkraut | Schnittlauchkartoffeln | Peperoni</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-10">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Grüne Bohnenpfanne | Räuchertofu | Tomatensauce | Kartoffeln</name>
+          <note>Allergene: Soja, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Bowl">
+        <meal>
+          <name>Rotes Thai Curry | Poulet | Asiatisches Gemüse | Parfumreis</name>
+          <note>Allergene: Krebs, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Poulet : Shweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
