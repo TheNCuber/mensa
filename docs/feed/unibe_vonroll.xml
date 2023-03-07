@@ -27,7 +27,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Ocean-Sticks | mit Zitronenschnitz | Salzkartoffeln | dazu Rahmspinat</name>
+          <name>Ocean-Sticks | mit Zitronenschnitz | dazu Fairtrade Vitaminreis | dazu Rahmspinat</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -51,8 +51,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>VegVeg Tag | Paella mit Bio-Suisse Tofu | Erbsen, Peperoni, Zucchetti | und Karotten | dazu geröstete Nüsse | Soja-Kräuter-Dip</name>
-          <note>Allergene: Ei, Erdnuss, Soja, Schalenfrüchte</note>
+          <name>VegVeg Tag | Paella mit Bio-Suisse Tofu | Erbsen, Peperoni &amp; Zucchetti | dazu geröstete Nüsse | Soja-Kräuter-Dip</name>
+          <note>Allergene: Erdnuss, Soja</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -93,7 +93,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Pad Thai | mit Reisnudeln, Sojasprossen | Bundzwiebeln, Pak-Choi | &amp; Koriander</name>
+          <name>Pad Thai | mit Reisnudeln, Sojasprossen | Thai-Gemüse, Pak-Choi | &amp; Koriander</name>
           <note>Allergene: Gluten, Erdnuss, Soja, Sesam</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
