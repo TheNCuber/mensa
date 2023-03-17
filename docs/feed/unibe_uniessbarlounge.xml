@@ -152,8 +152,9 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«Food Save Menü»</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>«Food Save Menü» | Emmentaler Brätschnitzel UniEss | Glacierte Karotten | Kartoffeln | Menusalat</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
