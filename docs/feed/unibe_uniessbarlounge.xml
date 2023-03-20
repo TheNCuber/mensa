@@ -3,93 +3,80 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-03-13">
+    <day date="2023-03-20">
       <category name="Natürlich vegan">
         <meal>
-          <name>Couscous mit Gemüse | Falafel | Sojajoghurt mit Knoblauch | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Tikka Masala mit Planted Geschnetzeltem | mit Kichererbsen und Ingwer-Korianderdip | Basmati Reis</name>
+          <note>Allergene: Gluten, Soja, Sulfit</note>
           <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Chäs-Spätzli mit Röstzwiebeln und | Apfelmus | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
+      <category name="Einfach gut">
         <meal>
-          <name>«Food Save Menü» | Lasagne mit Rindshackfleisch | Schlemmerfilet Bordolaise | Butterkartoffeln</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sellerie</note>
-          <note>Herkunft Rind: Schweiz, Bordolaise: Frankreich</note>
+          <name>Indisches Curry mit Cashewnüssen | Kokosnussmilch, Tomaten und Zwiebeln | dazu Naan Brot | Menusalat</name>
+          <note>Allergene: Sesam</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Bowl» mit pikantem Linsen-Mangosalat mit rotem Chili auf Blattsalat mit Indischem Honig-Senfdressing</name>
+          <note>Allergene: Milch, Schalenfrüchte, Mandel</note>
+          <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-14">
+    <day date="2023-03-21">
       <category name="Natürlich vegan">
         <meal>
-          <name>Persische Auberginen | mit Zhug «Hot Sauce» aus dem Jemen | knuspriges Fladenbrot | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
+          <name>Samosas | mit Sweet Chili Sauce | Glasnudel Salat mit Lauch | und Sojasprossen</name>
+          <note>Allergene: Gluten, Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Pouletragout mit Gemüse an Rahmsauce | Wildreis | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie, Weizen</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Geflügel: Poulet, Schweiz</note>
+          <name>Kichererbsencurry | mit Auberginen | dazu indische Ofenkartoffeln | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
+          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Bowl» mit pikantem Linsen-Mangosalat mit rotem Chili auf Blattsalat mit Indischem Honig-Senfdressing</name>
+          <note>Allergene: Milch, Schalenfrüchte, Mandel</note>
+          <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-15">
+    <day date="2023-03-22">
       <category name="Natürlich vegan">
         <meal>
-          <name>Risotto Ticinese | mit Steinpilzen und Merlot | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <name>Palak Tofu | Indisches Spinat Gericht | mit Tofu, Garam Masala | Ingwer, Granatapfel | Basmatireis und Koriander</name>
+          <note>Allergene: Soja</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -98,83 +85,57 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Emmentaler Brät Schnitzel | Zitronenrosmarin Jus | Pommes risolées | Glasierte Karotten</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <name>Poulet Biryani | mit Auberginen, Granatpafel | und Basmati Reis</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Geflügel: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Pouletragout mit Gemüse | Couscous mit Gemüse</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Weizen</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Poulet: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Bowl» mit pikantem Linsen-Mangosalat mit rotem Chili auf Blattsalat mit Indischem Honig-Senfdressing</name>
+          <note>Allergene: Milch, Schalenfrüchte, Mandel</note>
+          <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-16">
+    <day date="2023-03-23">
       <category name="Natürlich vegan">
         <meal>
-          <name>Indischer Linseneintopf | mit Kokosmilch und Gemüse | Max Havelaar Basmatireis | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Gemüse Sweet &amp; Sour | mit BIO Tofu, Peperoni und Max Havelaar Ananas | Chinese Noodles | Menusalat</name>
+          <name>Pikantes Jackfuticurry mit | Süsskartoffeln aus dem Ofen</name>
           <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
+      <category name="Einfach gut">
         <meal>
-          <name>«Food Save Menü» | Emmentaler Brätschnitzel UniEss | Glacierte Karotten | Kartoffeln | Menusalat</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein: Schweiz</note>
+          <name>Chicken Tikka Masala | Tomaten Koriander Dip | Kokosnussreis mit Sesam</name>
+          <note>Allergene: Soja, Senf, Sulfit</note>
+          <note>Herkunft Geflügel: Schweiz</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Bowl» mit pikantem Linsen-Mangosalat mit rotem Chili auf Blattsalat mit Indischem Honig-Senfdressing</name>
+          <note>Allergene: Milch, Schalenfrüchte, Mandel</note>
+          <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-17">
+    <day date="2023-03-24">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gemüseschnitzel | Zitronen-Mayonnaise | Kartoffeln mit Kräutern | Blattspinat | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sesam</note>
+          <name>Linsen Dal Tarka | Linsen mit geröstetem Blumenkohl und Erbsen | dazu Naanbrot | Menusalat</name>
+          <note>Allergene: Senf</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -183,27 +144,19 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Fischstäbchen mit rassiger | Curry Mayonnaise dazu | Petersilienkartoffeln und | Rahmspinat | Menusalat</name>
-          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <name>Fried Rice mit asiatischem Gemüse | mit Ei | Menusalat</name>
+          <note>Allergene: Soja, Schalenfrüchte</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Heute geschlossen</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
-          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>«Bowl» mit pikantem Linsen-Mangosalat mit rotem Chili auf Blattsalat mit Indischem Honig-Senfdressing</name>
+          <note>Allergene: Milch, Schalenfrüchte, Mandel</note>
+          <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
