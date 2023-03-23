@@ -17,7 +17,7 @@
       <category name="natürlich gut">
         <meal>
           <name>Chili con Carne | mit Rindshackfleisch | Mais &amp; Kidneybohnen | dazu Kräuterreis</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Allergene: Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
@@ -38,7 +38,7 @@
       <category name="natürlich vegi">
         <meal>
           <name>Gemüse Süss-Sauer | mit Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Senf, Sesam, Sulfit</note>
+          <note>Allergene: Soja, Senf, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -78,10 +78,10 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>VegVeg Tag | Gelbes Gemüse-Curry | mit Planted-Geschnetzeltem | und Zitronen-Basmatireis</name>
-          <note>Allergene: Erdnuss, Soja, Senf, Sesam, Sulfit</note>
+          <name>VegVeg Tag | Gelbes Gemüse-Curry | mit Planted-Geschnetzeltem | &amp; Penne</name>
+          <note>Allergene: Gluten, Ei, Erdnuss, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
