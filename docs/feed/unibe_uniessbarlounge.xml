@@ -114,6 +114,7 @@
         <meal>
           <name>Kicherebsencurry | Glasnudel Salat Gurken Cherrytomaten Lauchzwiebeln Sojasprossen</name>
           <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">7.20</price>
           <price role="student">7.20</price>
@@ -146,6 +147,15 @@
           <note>Herkunft Geflügel: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Müschli Knoblauch Tomaten Basilikum | «Chicken Biryani» | Glasierte Karotten | Menusalat</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Mandel</note>
+          <note>Herkunft Geflügel: Schweiz. Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
