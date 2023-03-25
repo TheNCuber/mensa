@@ -141,9 +141,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsragout | an Rauchpaprikasauce | mit Gnocchi | und Romanesco</name>
+          <name>Poulethackbraten | an Rauchpaprikasauce | mit Gnocchi | und Romanesco</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -151,7 +151,7 @@
       <category name="voll anders">
         <meal>
           <name>Spaghetti | mit vegetarischem Rauchlachs | an Dillrahmsauce | Reibkäse | &amp; getrocknete Tomaten</name>
-          <note>Allergene: Gluten, Krebs, Ei, Fisch, Milch, Senf, Sulfit</note>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
