@@ -3,51 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-03-20">
+    <day date="2023-03-27">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse-Tajine | mit Auberginen, Karotten | Kichererbsen &amp; Aprikosen | dazu Couscous | mit Ras el Hanout</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Hörnligratin | mit Schinken, Gemüsestreifen | und Käse überbacken</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="vegi pizza">
-        <meal>
-          <name>Pizza quattro Formaggi | fatto in casa | mit Mozzarella, Gruyère | Gorgonzola und Camembert</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-      <category name="voll pizza">
-        <meal>
-          <name>Pizza o Sole Mio | fatto in casa | mit Mozzarella, Ei, Schinken | und Pilzen</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-21">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Frühlingsrollen | mit Basmati Reis | Sweet Chili Sauce | und asiatischem Gemüse</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Sesam</note>
+          <name>&quot;Obwalder Älplermagronen&quot; | dazu Apfelmus | und Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -56,131 +16,8 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Emmentaler Brätschnitzell | dazu Bäckerinkartoffeln | Broccoli | und Knoblauch Mayonnaise</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf</note>
-          <note>Herkunft Kalb: Schweiz / Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="vegi pizza">
-        <meal>
-          <name>Pizza Ortolana | fatto in casa | mit Peperoni, Auberginen | und Zucchetti</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-      <category name="voll pizza">
-        <meal>
-          <name>Pizza Calzone | fatto in casa | mit Speck, Greyezer | und Tomaten</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-22">
-      <category name="natürlich vegi">
-        <meal>
-          <name>VEGVEG-TAG | Marokkanische | Bulgur-Pfanne | mit gebackenen Falafel | an rassiger Tomatensauce</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>VEGVEG-TAG | &quot;Spaghetti Veganara&quot; | mit mariniertem Räucher- | Tofu, Blumenkohl | und Cashew Sauce</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Senf, Sulfit, Cashew</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="vegi pizza">
-        <meal>
-          <name>VEGVEG-TAG | Pizza Verde | fatto in casa | mit Erbsen, Broccoli | und Lauch</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-      <category name="voll pizza">
-        <meal>
-          <name>VEGVEG-TAG | Pizza Marinara &quot;ohne Käse&quot; | fatto in casa | mit Tomatensauce | Olivenöl und Knoblauch</name>
-          <note>Allergene: Gluten</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-23">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Cannelloni gefüllt | mit Ricotta und Spinat | mit Käse überbacken | dazu Tomatensauce</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Fleischvogel | an Rotweinsauce | mit Kartoffelstock | und Ofengemüse</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Rind : Schweiz / Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="vegi pizza">
-        <meal>
-          <name>Pizza al Funghi | fatto in casa | mit Champignons</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-      <category name="voll pizza">
-        <meal>
-          <name>Pizza il Tronchetto | fatto in casa | mit Rohschinken | und Rucola</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
-          <price role="student">12.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-24">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Oceansticks | mit Salzkartoffeln | Rahmspinat | und Zitronen-Mayonnaise</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>Poulet Stroganoff | mit Peperoni, Champignons | und Essiggurken | dazu Butterreis</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <name>&quot;Pollo Ticinese&quot; | Tessiner Pouletragout | mit Peperoni, Oregano | und Peperoncini | dazu Polenta mit Reibkäse</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
           <note>Herkunft Poulet : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -188,7 +25,7 @@
       </category>
       <category name="vegi pizza">
         <meal>
-          <name>Pizza Tricolore | fatto in casa | mit Cherrytomaten, Parmesan | und Pesto</name>
+          <name>Pizza Caprese | fatto in casa | mit Mozzarella, Tomaten | und Basilikum</name>
           <note>Allergene: Gluten, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -198,9 +35,174 @@
       </category>
       <category name="voll pizza">
         <meal>
-          <name>Pizza Napoli | fatto in casa | mit Sardellen, Kapern | und schwarze Oliven</name>
+          <name>Pizza Prosciutto e Funghi | fatto in casa | mit Schinken | und Champignons</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-28">
+      <category name="natürlich vegi">
+        <meal>
+          <name>&quot;Bündner Pizokel&quot; | nach Capuns Art | mit Mangold, Gemüsestreifen | Bechamel Sauce | und Käse überbacken</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>&quot;Zürich Geschnetzeltes&quot; | Schweinsgeschnetzeltes | an Champignonrahmsauce | mit Kartoffelrösti</name>
+          <note>Allergene: Soja, Milch, Sulfit</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pizza con Aglio | e Peproncini | fatto in casa | mit Mozzarella, Knoblauch | und Peperoncini</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pizza Cacio e Pepe | fatto in casa | mit Mozzarella | und Salami</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-29">
+      <category name="natürlich vegi">
+        <meal>
+          <name>&quot;Uri Rhys und Pohr&quot; | Risotto mit Lauch | und Röstzwiebeln</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>&quot;Berner rippli | Schweinhals Rippli | mit Schnittlauchkartoffeln | Sauerkraut | dazu Senf</name>
+          <note>Allergene: Milch, Senf</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pizza Melanzane | e Grana Padano | fatto in casa | mit Auberginen | und Grana Padano</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pizza Buttafuoco | fatto in casa | mit Zwiebeln, Knoblauch | Speck und Oregano</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-30">
+      <category name="natürlich vegi">
+        <meal>
+          <name>&quot;Walliser Rösti&quot; | Kartoffelrösti | mit Tomaten | und Raclettekäse</name>
+          <note>Allergene: Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>&quot;Luzerner Chügelipastetli&quot; | Pastetli mit Kalbsbrätkügeli | Champignonsauce | dazu Trockenreis | und Karotten mit Erbsen</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Kalb : Schweiz / Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pizza Peperonata | fatto in casa | mit Tomaten, Mozzarella | und Peperonata</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pizza Hawaii | fatto in casa | mit Ananas und Schinken</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-03-31">
+      <category name="natürlich vegi">
+        <meal>
+          <name>&quot;Appenzeller Käsespätzli&quot; | Spätzlipfanne | mit Appenzeller Käsesauce</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>&quot;Waadtländer Saucisson&quot; | Saucisson | auf Kartoffel-Lauchgemüse | mit Senf</name>
+          <note>Allergene: Milch, Senf, Sulfit</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pizza Verde | fatto in casa | mit Erbsen, Broccoli | und Spinat</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pizza Salmone | fatto in casa | mit geräuchertem Lachs | Kapern und rucola</name>
           <note>Allergene: Gluten, Fisch, Milch</note>
-          <note>Herkunft Sardellen : Spanien</note>
+          <note>Herkunft Lachs : Norwegen</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.90</price>
           <price role="student">12.90</price>
