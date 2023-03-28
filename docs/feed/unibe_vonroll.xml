@@ -25,12 +25,11 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Ocean-Sticks | mit Soja-Kräuter-Dip | dazu Bräterkartoffeln | &amp; Blattspinat</name>
-          <note>Allergene: Gluten, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Pad Thai | mit Gemüse | an süsser Sojasauce | dazu Cashew-Nüsse</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Schalenfrüchte, Sellerie, Sesam, Lupinen</note>
           <note>Vegan</note>
           <price role="other">15.90</price>
-          <price role="student">10.90</price>
+          <price role="student">9.90</price>
         </meal>
       </category>
     </day>
@@ -86,12 +85,12 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Happy-Noodles | mit Wokgemüse | dazu Räuchertofu</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <name>Ocean-Sticks | mit Soja-Kräuter-Dip | dazu Bräterkartoffeln | &amp; Blattspinat</name>
+          <note>Allergene: Gluten, Soja</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">15.90</price>
-          <price role="student">11.90</price>
+          <price role="student">10.90</price>
         </meal>
       </category>
     </day>
