@@ -98,9 +98,8 @@
     <day date="2023-03-30">
       <category name="natürlich vegi">
         <meal>
-          <name>Orientalisches Linsenragout | mit Wurzelgemüse | &amp; Salzkartoffeln | dazu Labneh</name>
-          <note>Allergene: Milch, Sellerie, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Nasi Goreng | mit Tofu &amp; Gemüse</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -117,11 +116,11 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Paniertes Schweinsschnitzel | mit Zitronenschnitz | dazu Pommes Frites</name>
-          <note>Allergene: Gluten, Ei</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Fischknusperli | mit Tartarsauce | dazu Pommes Frites</name>
+          <note>Allergene: Gluten, Ei, Fisch, Senf</note>
+          <note>Herkunft Fisch: Nord Pazifik (Seelachs)</note>
           <price role="other">15.90</price>
-          <price role="student">13.90</price>
+          <price role="student">10.90</price>
         </meal>
       </category>
     </day>
