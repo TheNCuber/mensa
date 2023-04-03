@@ -3,11 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-03-27">
+    <day date="2023-04-03">
       <category name="Natürlich vegan">
         <meal>
-          <name>Ananas - Sellerie - Curry mit Quinoa | im Brot | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie</note>
+          <name>Bratkartoffeln mit Rosmarin | mit frischem Grillgemüse | dazu pikante Avocado Jalapeno Sauce | Menusalat</name>
+          <note>Allergene: Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,40 +17,29 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Tortellini mit Spinat-Ricotta-Füllung | Tomaten-Basilikumsauce | Menusalat</name>
+          <name>Cannelloni mit Spinatfüllung | überbacken mit Tomatensauce und Käse | Menusalat</name>
           <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <note>Genuss in Balance</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Fried Rice mit viel Gemüse und Ei | Jackfruit Curry | Menusalat</name>
-          <note>Allergene: Soja, Schalenfrüchte</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">7.20</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Uniess Swiss- Bowl | mit Teigwarensalat, Rohschinken, Sbrinzrollen, Karottensalat und Weisskabissalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
+          <name>Frühlingsbowl mit frischem Spinat, Falafel Granatapfelkernen, Süsskartoffeln und Gurken</name>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-28">
+    <day date="2023-04-04">
       <category name="Natürlich vegan">
         <meal>
-          <name>Arabisches Bamja | mit Gemüse | Bulgur mit Cranberry und Nüssen | Menüsalat</name>
-          <note>Allergene: Gluten, Sellerie, Senf</note>
-          <note>Genuss in Balance</note>
+          <name>Vegane Gnocchi | mit Gemüse | an rassiger Tomatensauce</name>
+          <note>Allergene: Gluten, Sellerie, Sulfit, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -57,9 +48,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Gemüse Sweet &amp; Sour | Langkornreis «Max Havelaar» | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Gemüse Bananen Curry mit Thaibasilikum | auf Basmati Reis | Menusalat</name>
+          <note>Allergene: Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -68,130 +58,73 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">15.90</price>
+          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
           <price role="student">12.90</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Uniess Swiss- Bowl | mit Teigwarensalat, Rohschinken, Sbrinzrollen, Karottensalat und Weisskabissalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
+          <name>Blattsalat mit Falafel, Süsskartoffeln und Gurke</name>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-29">
+    <day date="2023-04-05">
       <category name="Natürlich vegan">
         <meal>
-          <name>Falafel Burger | Kartoffel-Gemüsepfanne | Safran- Knoblauchjoghurt | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie</note>
+          <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Poulet Meat Balls | an rauchiger Barbecue Sauce | mit Kartoffelstock | dazu Bohnenhochzeit</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sesam</note>
+          <note>Herkunft Poulet: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Blattsalat mit Falafel, Süsskartoffeln und Gurke</name>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-06">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>«Pasta al Funghi» Orecchiette mit Champignons, Federkohl, Baumnüsse und Rucola | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Bärlauch Risotto mit Spargeln | Menusalat</name>
+          <note>Allergene: Ei, Soja, Milch, Schalenfrüchte, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Japanisches Sukiyaki mit Rindfleisch | Nudeln mit Rindfleisch und Gemüse | an Sojasauce | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
-          <note>Herkunft Fleisch: Rind, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Ananas - Sellerie - Curry mit Quinoa | Arabisches Bamja | Bulgur</name>
-          <note>Allergene: Gluten, Sellerie, Senf</note>
-          <note>Vegan</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Uniess Swiss- Bowl | mit Teigwarensalat, Rohschinken, Sbrinzrollen, Karottensalat und Weisskabissalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-30">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Spaghetti alla Putanesca | Oliven, getrocknete Tomaten | auf Wunsch mit Grana Padano | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Grünes Thai Curry mit Poulet | Basmati Reis | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf</note>
-          <note>Herkunft Geflügel: Poulet, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>«Food Save Menü» | Japanisches Sukiyaki mit Rindfleisch</name>
-          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <price role="other">7.20</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Uniess Swiss- Bowl | mit Teigwarensalat, Rohschinken, Sbrinzrollen, Karottensalat und Weisskabissalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-31">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>&gt;&gt;No Schnitzel&lt;&lt; | Rosmarin Sauce | Country Cuts | Rüebligemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Lasagne mit Rindshackfleisch | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Uniess Swiss- Bowl | mit Teigwarensalat, Rohschinken, Sbrinzrollen, Karottensalat und Weisskabissalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
         </meal>
       </category>
     </day>

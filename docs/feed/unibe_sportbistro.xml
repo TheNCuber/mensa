@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-03-27">
+    <day date="2023-04-03">
       <category name="Vegi Bowl">
         <meal>
-          <name>&quot;Obwalder Älplermagronen&quot; | Magronen | Rahmsauce | Apfelmus | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <name>Quinoa Chili Burger | Gebackenen Kartoffelecken | Coleslaw Salat | Curry Mayonnaise | Tomatensalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,61 +16,19 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>&quot;Pollo Ticinese&quot; | Pouletragout | Peperoni | Polenta | Reibkäse</name>
-          <note>Allergene: Gluten, Soja, Milch</note>
-          <note>Herkunft Poulet : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-28">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>&quot;Bündner Pizokel&quot; | Pizokel | Bechamel Sauce | Gemüsestreifen | Blattmangold</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>&quot;Zürich Geschnetzeltes&quot; | Schweinsgeschnetzeltes | Champignonrahmsauce | Kartoffelrösti</name>
-          <note>Allergene: Soja, Milch, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-29">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>&quot;Uri Rhys und Pohr&quot; | Risotto | Lauch | Röstzwiebeln | Reibkäse</name>
+          <name>Rinds Hackbällchen | Tomaten-Basilikumsauce | Spaghetti | Reibkäse | Rucola</name>
           <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>&quot;Berner rippli | Schweinhals Rippli | Schnittlauchkartoffeln | Sauerkraut | Senf</name>
-          <note>Allergene: Milch, Senf</note>
-          <note>Herkunft Schwein : Schweiz</note>
+          <note>Herkunft Rind : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-30">
+    <day date="2023-04-04">
       <category name="Vegi Bowl">
         <meal>
-          <name>&quot;Walliser Rösti&quot; | Kartoffelrösti | Tomaten | Raclettekäse</name>
-          <note>Allergene: Milch, Sulfit</note>
+          <name>Sellerie Curry | Ananas | Linsen | Bambussprossen</name>
+          <note>Allergene: Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -79,32 +37,45 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>&quot;Luzerner Chügelipastetli&quot; | Pastetli mit Kalbsbrätkügeli | Champignonsauce | Trockenreis | Karotten &amp; Erbsen</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Kalb : Schweiz / Schwein : Schweiz</note>
+          <name>Schweinsbratwurst | Zwiebelsauce | Bratkartoffeln | Grilltomaten | Röstzwiebeln</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-31">
+    <day date="2023-04-05">
       <category name="Vegi Bowl">
         <meal>
-          <name>&quot;Appenzeller Käsespätzli&quot; | Spätzli | Appenzeller Käsesauce | Röstzwiebeln</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch</note>
-          <note>Vegetarisch</note>
+          <name>Planted «Tikka Masala» | Kichererbsen | Kokosnussreis mit Sesam | Gepickelter Rotkabis | Sojajoghurt mit Koriander</name>
+          <note>Allergene: Soja, Senf, Sesam, Sulfit</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>&quot;Waadtländer Saucisson&quot; | Saucisson | Kartoffel | Lauch | Senf</name>
-          <note>Allergene: Milch, Senf, Sulfit</note>
+          <name>Gebratenen Gnocchi | Pilzsauce | Speck | Federkohl</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
           <note>Herkunft Schwein : Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-06">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>&quot;Soja Ghackets&quot; | Hörnli | Gemüsewurfel | Apfelmus | Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>

@@ -3,11 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-03-27">
+    <day date="2023-04-03">
       <category name="natürlich vegi">
         <meal>
-          <name>Asiatische Spaghettipfanne | mit Wokgemüse | Chili &amp; Sesamöl</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie, Sesam</note>
+          <name>Frühlings-Risotto | mit Bärlauch, Spargeln | Spinat &amp; Reibkäse</name>
+          <note>Allergene: Ei, Milch, Schalenfrüchte, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -16,129 +17,71 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | an Kräuter-Rahmsauce | mit Gnocchi | &amp; Bohnen</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Chicken Tikka Masala | mit Gemüse | dazu Zitronen-Couscous</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Pad Thai | mit Gemüse | an süsser Sojasauce | dazu Cashew-Nüsse</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Schalenfrüchte, Sellerie, Sesam, Lupinen</note>
-          <note>Vegan</note>
+          <name>Chrunchy-Vegi Burger | im Black Sesam-Bun | mit Tomate &amp; Gurke | dazu Pommes Frites</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">15.90</price>
+          <price role="student">13.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-04">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Farfalle | an Gorgonzola Rahmsauce | mit getrockneten Tomaten &amp; Rucola</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Kalbsbratwurst | an Zwiebelsauce | dazu Rosmarin-Kartoffeln | &amp; Karotten</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Kalb/Schwein)</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>«Jambalaya» | Kreolische Reispfanne | mit Gemüse &amp; Kidneybohnen | dazu Chorizo | &amp; Joghurtkräuter-Dip</name>
+          <note>Allergene: Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">15.90</price>
           <price role="student">9.90</price>
         </meal>
       </category>
     </day>
-    <day date="2023-03-28">
+    <day date="2023-04-05">
       <category name="natürlich vegi">
         <meal>
-          <name>Asiatische Spaghettipfanne | mit Wokgemüse | Chili &amp; Sesamöl</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie, Sesam</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Rinds-Meatballs | an Tomatensauce | dazu Kartoffelstock | &amp; Lauch-Gemüse</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Beyond-Burger | mit BBQ Sauce | Zwiebeln &amp; Salat | dazu Wedges</name>
-          <note>Allergene: Gluten, Sesam, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Kimchi-Reis | mit Gemüse | Chili &amp; Sesamöl</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit</note>
           <note>Vegan</note>
-          <price role="other">15.90</price>
-          <price role="student">13.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-29">
-      <category name="natürlich vegi">
-        <meal>
-          <name>«Walliser Rösti» | mit Tomaten | &amp; Raclettekäse überbacken</name>
-          <note>Allergene: Milch, Senf</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Grünes-Curry | mit Pouletgeschnetzeltes | &amp; Gemüse | dazu Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Ocean-Sticks | mit Soja-Kräuter-Dip | dazu Bräterkartoffeln | &amp; Blattspinat</name>
-          <note>Allergene: Gluten, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">15.90</price>
-          <price role="student">10.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-30">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Nasi Goreng | mit Tofu &amp; Gemüse</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Cannelloni gefüllt mit Rindfleisch | an Tomaten-Basilikumsauce | mit Käse überbacken</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>Fischknusperli | mit Tartarsauce | dazu Pommes Frites</name>
-          <note>Allergene: Gluten, Ei, Fisch, Senf</note>
-          <note>Herkunft Fisch: Nord Pazifik (Seelachs)</note>
-          <price role="other">15.90</price>
-          <price role="student">10.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-03-31">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Mais Pizza | mit Champignons, Tomaten | Mozzarella &amp; Basilikum | dazu Menüsalat &amp; Frucht</name>
-          <note>Allergene: Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Pikantes Schweinsgeschnetzeltes | Gyros Style | mit Tzatziki | &amp; Ofenkartoffeln</name>
-          <note>Allergene: Gluten, Milch, Senf</note>
+          <name>Schweinsragout | an Pilzsauce | mit Hörnli | dazu Mischgemüse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -146,11 +89,62 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Gebratene Pouletbrust | mit Kräuterbutter | Camargue Reis | dazu Reibkäse &amp; Rucola</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <name>Pouletschenkelsteak Panko | mit Zitronenschnitz | &amp; Wedges</name>
+          <note>Allergene: Gluten, Ei</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-06">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Gemüse-Lasagne | mit Karotten, Kohlräbli | Zuchetti &amp; Spinat | auf Tomatensauce</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Pouletgeschnetzeltes | an Rahmsauce | mit Erbsen &amp; Peperoni | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Momos | mit Edamame &amp; Spinat gefüllt | auf Gemüsestreifen | dazu Soja-Knoblauchsauce | &amp; Basmatireis</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">15.90</price>
+          <price role="student">13.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-07">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Geschlossen</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Geschlossen</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
