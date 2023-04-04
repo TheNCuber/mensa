@@ -6,30 +6,18 @@
     <day date="2023-04-03">
       <category name="Natürlich vegan">
         <meal>
-          <name>Bratkartoffeln mit Rosmarin | mit frischem Grillgemüse | dazu pikante Avocado Jalapeno Sauce | Menusalat</name>
-          <note>Allergene: Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Cannelloni mit Spinatfüllung | überbacken mit Tomatensauce und Käse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Genuss in Balance</note>
-          <note>Vegetarisch</note>
+          <name>OSTERMONTAG GESCHLOSSEN</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Frühlingsbowl mit frischem Spinat, Falafel Granatapfelkernen, Süsskartoffeln und Gurken</name>
+          <name>UniS Mezze Bowl | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
@@ -38,8 +26,9 @@
     <day date="2023-04-04">
       <category name="Natürlich vegan">
         <meal>
-          <name>Vegane Gnocchi | mit Gemüse | an rassiger Tomatensauce</name>
-          <note>Allergene: Gluten, Sellerie, Sulfit, Weizen</note>
+          <name>Orecchiette alla Mediterranea | mit Olivenöl, Basilikum, Knoblauch, Peperoncino, Tomaten und frischer Rucola | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -48,8 +37,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Gemüse Bananen Curry mit Thaibasilikum | auf Basmati Reis | Menusalat</name>
-          <note>Allergene: Sulfit</note>
+          <name>Blumenkohl- Käse- Medaillon | Petersilien Kartoffeln | Rahmspinat | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -58,18 +47,19 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.50</price>
+          <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Blattsalat mit Falafel, Süsskartoffeln und Gurke</name>
+          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
@@ -78,8 +68,9 @@
     <day date="2023-04-05">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <name>Gemüse Sweet &amp; Sour mit Tofu | Basmatireis | Menusalat</name>
+          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -88,29 +79,38 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Poulet Meat Balls | an rauchiger Barbecue Sauce | mit Kartoffelstock | dazu Bohnenhochzeit</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <name>Schweinsgeschnetzeltes an Pilzrahmsauce | Spätzli | Broccoli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Blattsalat mit Falafel, Süsskartoffeln und Gurke</name>
+          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«Food Save Menü»</name>
+          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <note>Vegetarisch</note>
+          <price role="other">7.20</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
     <day date="2023-04-06">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Pasta al Funghi» Orecchiette mit Champignons, Federkohl, Baumnüsse und Rucola | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Frühlings Gnocchipfanne | mit Bärlauch, Spargel und Gemüsewürfel | an Safran- Zitronensauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit, Weizen</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -118,13 +118,40 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Bärlauch Risotto mit Spargeln | Menusalat</name>
-          <note>Allergene: Ei, Soja, Milch, Schalenfrüchte, Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Grosis Rindshackbraten an Rotweinsauce | Polenta | Ratatouille | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«UniS Mezze Bowl» | mit Libanesischem Petersiliensalat, Hummus, Falafel, Rohkostsalate, Joghurt- Minzsauce, Sriracha Chili Sauce | mini Pitabrot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-07">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Oceansticks | mit Bärlauchmayonnaise | Salz Kartoffelnn | Cremiger Lauch | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Senf, Sulfit</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Schlemmerfilet Bordolaise | mit Bärlauchmayonnaise | und Butterkartoffeln | dazu Cemiger Lauch</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Senf, Sulfit</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
