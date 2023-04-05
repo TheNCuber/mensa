@@ -49,10 +49,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Kalbsbratwurst | an Zwiebelsauce | dazu Rosmarin-Kartoffeln | &amp; Karotten</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <name>Kalbsbratwurst | an Zwiebelsauce | Bärlauch-Risotto | dazu Rosmarin-Kartoffeln | &amp; Karotten</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Kalb/Schwein)</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
