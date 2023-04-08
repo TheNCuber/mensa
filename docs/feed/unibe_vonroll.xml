@@ -99,9 +99,8 @@
     <day date="2023-04-06">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse-Lasagne | mit Karotten, Kohlräbli | Zuchetti &amp; Spinat | auf Tomatensauce</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Tortellini | mit Spinat und Ricotta | an Tomatensauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
