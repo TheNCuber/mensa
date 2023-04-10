@@ -3,79 +3,46 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-04-03">
+    <day date="2023-04-11">
       <category name="Vegi Bowl">
         <meal>
-          <name>Quinoa Chili Burger | Gebackenen Kartoffelecken | Coleslaw Salat | Curry Mayonnaise | Tomatensalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Raviolini Verdura | Tomatenpesto | Getrocknete Tomaten | Rucola | Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
+    </day>
+    <day date="2023-04-12">
       <category name="Daily Bowl">
         <meal>
-          <name>Rinds Hackbällchen | Tomaten-Basilikumsauce | Spaghetti | Reibkäse | Rucola</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Rind : Schweiz</note>
+          <name>Poulet Meat Balls | Pfefferrahmsauce | Spiralen | Rotkraut</name>
+          <note>Allergene: Gluten, Ei, Sellerie, Sulfit</note>
+          <note>Herkunft Poulet : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-04-04">
+    <day date="2023-04-13">
       <category name="Vegi Bowl">
         <meal>
-          <name>Sellerie Curry | Ananas | Linsen | Bambussprossen</name>
-          <note>Allergene: Sellerie</note>
+          <name>Ebly | Sauitierten Pilzen | Romanesco | Äpfeln | Röstzwiebeln</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Schweinsbratwurst | Zwiebelsauce | Bratkartoffeln | Grilltomaten | Röstzwiebeln</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <name>Spaghetti | Carbonara Sauce | Reibkäse | Rucola</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Herkunft Schwein : Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-04-05">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>Planted «Tikka Masala» | Kichererbsen | Kokosnussreis mit Sesam | Gepickelter Rotkabis | Sojajoghurt mit Koriander</name>
-          <note>Allergene: Soja, Senf, Sesam, Sulfit</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>Gebratenen Gnocchi | Pilzsauce | Speck | Gemüsestreifen</name>
-          <note>Allergene: Gluten, Milch, Sellerie</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-04-06">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>&quot;Soja Ghackets&quot; | Hörnli | Gemüsewurfel | Apfelmus | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
