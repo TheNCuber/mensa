@@ -45,9 +45,8 @@
     <day date="2023-04-12">
       <category name="natürlich vegi">
         <meal>
-          <name>Gnocchipfanne | mit Frühlingsgemüse | an Bärlauch-Rahmsauce | dazu geröstete Mandeln</name>
-          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Tortellini | mit Spinat und Ricotta | an Bärlauch-Rahmsauce | dazu geröstete Mandeln</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sulfit, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -55,9 +54,10 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsbraten | an Honig-Senfsauce | mit Gnocchi | &amp; Bohnen</name>
-          <note>Allergene: Gluten, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Tortellini | mit Rindfleischfüllung | an Bärlauchrahmsauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
