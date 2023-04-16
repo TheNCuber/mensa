@@ -77,6 +77,14 @@ Traceback (most recent call last):
   File "/home/runner/work/mensa/mensa/unifr/__init__.py", line 59, in feed
     mealPrice = int(decimal.Decimal(menu.find("small").find(text=True,recursive=False).strip()) * 100)
 decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
+
+unifr/reginamundi:
+Traceback (most recent call last):
+  File "/home/runner/work/mensa/mensa/updateFeeds.py", line 126, in updateFeeds
+    content = getattr(parser, feedMethod)(mensaReference)
+  File "/home/runner/work/mensa/mensa/unifr/__init__.py", line 59, in feed
+    mealPrice = int(decimal.Decimal(menu.find("small").find(text=True,recursive=False).strip()) * 100)
+decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
 </pre></article>
       <article>
 <ol style="list-style-type:none">
