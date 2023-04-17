@@ -3,22 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-04-10">
+    <day date="2023-04-17">
       <category name="Natürlich vegan">
         <meal>
-          <name>OSTERMONTAG GESCHLOSSEN</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-04-11">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Pasta alla Mediterranea | mit Olivenöl, Basilikum, Knoblauch, Peperoncino, Tomaten und frischer Rucola | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Genuss in Balance</note>
+          <name>Indisches Linsendal | mit Naan Brot | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -27,65 +16,158 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Blumenkohl- Käse- Medaillon | Petersilien Kartoffeln | Rahmspinat | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-04-12">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Gemüse Sweet &amp; Sour mit Tofu | Basmatireis | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Schweinsgeschnetzeltes an Pilzrahmsauce | Spätzli | Broccoli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-04-13">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Frühlings Gnocchipfanne | mit Bärlauch, Spargel und Gemüsewürfel | an Safran- Zitronensauce | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit, Weizen</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Grosis Rindshackbraten an Rotweinsauce | Polenta | Ratatouille | Menusalat</name>
+          <name>Ghackets mit Hörnli | Öpfumues | Menusalat</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
           <note>Herkunft Fleisch: Rind, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
-    <day date="2023-04-14">
+    <day date="2023-04-18">
       <category name="Natürlich vegan">
         <meal>
-          <name>Oceansticks | mit Bärlauchmayonaise | dazu Salz Kartoffeln | und Cremiger Lauch | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Senf, Sulfit</note>
+          <name>Falafel | auf Couscous mit Granatapfelkernen und Gemüsebrunoise | dazu Sojajoghurt mit Minze | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Grünes Curry mit Gemüse | Basmati | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>«UniS Cordon Bleu» | Pommes Frites | Tagesgemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">15.90</price>
+          <price role="student">12.90</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-19">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>«VegVeg-Tag» | «Viva España» | Vegane Gemüse-Paella | Menusalat</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>«VegVeg-Tag» | Knuspriger Gemüsestrudel | Gemüsewürfel mit Kräuter | Randen-Dip</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-20">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Marokkanische Tajine | mit Kichererbsen und Gemüse | auf Bulgur | Menusalat</name>
+          <note>Allergene: Gluten, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>«Bami Goreng» | Indonesisches Nudelgericht | mit Gemüse und Pilzen | an Sojasauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-21">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Vegane Tortelli All`Arrabbiata | Bärlauch Pesto | Menüsalat</name>
+          <note>Allergene: Gluten, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Fischknusperli | mit erfrischender Zitronen-Mayonnaise | dazu Butterkartoffeln | und Blattspinat mit Zwiebeln | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Fisch, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«NYC Bowl» | mit Rindfleisch Pastrami, Röstkartoffeln, Rainbow Slaw, Avocado, Mais, Rotezwiebeln, Cherrytomaten und Smoky BBQ Sauce</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
