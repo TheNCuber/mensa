@@ -26,6 +26,16 @@
       </category>
     </day>
     <day date="2023-04-18">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Hörnligratin | Buntes Gemüse | Käse</name>
+          <note>Allergene: Gluten, Milch, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Daily Bowl">
         <meal>
           <name>Pouletschenkel | Thymiansauce | Griesstätschli | Ratatouille | Getrocknete Tomaten</name>
@@ -42,6 +52,16 @@
           <name>VEGVEG-TAG | Gemüseballs | Rassige Tomatensauce | Marokkanische Bulgur-Pfanne | Gemüsesreifen</name>
           <note>Allergene: Gluten, Ei, Soja, Sellerie, Sulfit</note>
           <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Bowl">
+        <meal>
+          <name>VEGVEG-TAG | Auberginen | Massaman Curry Sauce | Kartoffeln | Vitaminreis | Erdnüssen</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Weizen</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -64,6 +84,26 @@
           <name>Schweinsragout | Aprikosensauce | Kartoffelstock | Grünem Bohnen</name>
           <note>Allergene: Gluten, Milch, Sulfit</note>
           <note>Herkunft Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-04-21">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Chili sin Carne | Tofu | Mais | Kidneybohnen | Trockenreis</name>
+          <note>Allergene: Soja, Senf, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Bowl">
+        <meal>
+          <name>Spaghetti | Bolognese | Gemüse Würfel | Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Rind : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>

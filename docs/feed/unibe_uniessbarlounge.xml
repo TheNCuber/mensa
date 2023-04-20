@@ -116,8 +116,8 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Hörnli | Hackbraten | Tagesgemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <name>Hörnli | Hackbraten | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sesam</note>
           <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
