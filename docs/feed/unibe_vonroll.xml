@@ -99,9 +99,8 @@
     <day date="2023-04-20">
       <category name="natürlich vegi">
         <meal>
-          <name>Spätzligratin | mit Frühlingsgemüse | an Rahmsauce | mit Reibkäse überbacken</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Tortellini | mit Spinat und Ricotta | an Tomatenrahmsauce | &amp; Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit, Weizen</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -139,12 +138,21 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spaghetti Carbonara | mit Speck &amp; Zwiebeln | dazu Reibkäse</name>
+          <name>Spaghetti Carbonara | mit Schinken &amp; Zwiebeln | dazu Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>«Gratin Batenjan» | Auberginen mit Peperoni | Champignon &amp; Tomaten gefüllt | mit Käse überbacken | auf Tomatensauce mit Safranreis</name>
+          <note>Allergene: Milch, Sellerie, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">15.90</price>
+          <price role="student">11.90</price>
         </meal>
       </category>
     </day>
