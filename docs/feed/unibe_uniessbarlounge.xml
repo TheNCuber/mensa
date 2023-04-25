@@ -49,7 +49,6 @@
           <name>Dal Ravioli mit | Gemüse und Linsenfüllung | Randen Erdnuss Pesto und Spinat | Menusalat</name>
           <note>Allergene: Gluten, Erdnuss, Soja, Sulfit, Weizen</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -81,7 +80,6 @@
           <name>«Chili sin carne» Eintopf mit Linsen | Tortilla Chips | Menusalat</name>
           <note>Allergene: Ei, Milch, Sesam, Sulfit</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -103,7 +101,6 @@
           <note>Allergene: Soja, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
