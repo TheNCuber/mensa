@@ -81,9 +81,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Duroc-Schweinsbraten | aus dem Emmental | an Sauermost-Sauce | dazu Chou-Rave-Chöch | «Urtraditionelles Gericht»</name>
+          <name>Duroc-Schweinsbraten | an Sauermost-Sauce | dazu Chou-Rave-Chöch | «Urtraditionelles Gericht» | dazu Salat &amp; Frucht</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein/Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
