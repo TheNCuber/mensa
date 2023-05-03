@@ -48,9 +48,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletgeschnetzeltes | an Kräuterrahmsauce | mit Karotten &amp; Bohnen | dazu Polenta</name>
-          <note>Allergene: Milch, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Pouletgeschnetzeltes | an Kräuterrahmsauce | mit Karotten &amp; Bohnen | dazu Spaghetti</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -58,7 +57,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Première in unserer Küche | Hol dir deinen Kebab direkt vom Koch | Dürüm-Cheebab | an Knoblauch-Joghurt-Dip | dazu Pommes Frites</name>
+          <name>Première in unserer Küche | Hol dir deinen Kebab direkt vom Koch | Dürüm-Planted-Kebab | an Knoblauch-Joghurt-Dip | dazu Pommes Frites</name>
           <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
