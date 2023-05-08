@@ -3,12 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-05-01">
+    <day date="2023-05-08">
       <category name="Natürlich vegan">
         <meal>
-          <name>Baked Potatoe aus dem Ofen | mit mariniertem Grillgemüse | dazu frischer Kräuterquark | Menusalat</name>
-          <note>Allergene: Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>«Aloo Gobi» Blumenkohl Kartoffelcurry mit Spargeln, Kreuzkümmel und Tomaten | dazu warmes Naan Brot | Menusalat</name>
+          <note>Allergene: Senf</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -16,29 +15,30 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Truten Piccata | mit Spaghetti | dazu Tomatensauce | und Broccoli mit Mandeln | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Geflügel, Schweiz</note>
+          <name>Ghacketes und Hörnli | mit Apelmues und Röstzwiebeln | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
+      <category name="Wochenbowl">
         <meal>
-          <name>Es het solangs het | Fleischkäse | Cous Cous | Reis | Menusalat</name>
-          <note>Allergene: Gluten, Milch, Sellerie</note>
+          <name>Knackiger Lattich mit Pouletstreifen, Speck, Cherrytomaten, Parmesanflocken und Brotcroutons</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Poulet, Schwein: Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-05-02">
+    <day date="2023-05-09">
       <category name="Natürlich vegan">
         <meal>
-          <name>Kennst du deine Wurzeln? | Spiralen Fusilli UrDinkel | mit Seenländer Spargelragout | Reibkäse von der Berner Molkerei Schütz | Menusalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
+          <name>Frühlingshafte Gnocchipfanne mit frischen Spargeln, Bärlauch und Blattspinat | Menusalat</name>
+          <note>Allergene: Gluten, Sellerie, Sulfit, Weizen</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -46,8 +46,9 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Shakshuka | Cous Cous mit frischer Petersilie, Peperoni, Stangensellerie und gehacktes Ei | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie</note>
+          <name>Frittierte Samosas | mit Sweet Chili Sauce | mit erfrischendem Glasnudel Salat Gurken Cherrytomaten Lauchzwiebeln Sojasprossen | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -55,19 +56,29 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Schweins Cordon Bleu | Regio Pommes frites | Tagesgemüse | Menusalat</name>
+          <name>Schweins Cordon Bleu | mit Pommes Frites | dazu Tagesgemüse</name>
           <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Schwein, Schweiz</note>
-          <price role="other">15.90</price>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
           <price role="student">12.90</price>
         </meal>
       </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Knackiger Lattich mit Pouletstreifen, Speck, Cherrytomaten, Parmesanflocken und Brotcroutons</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Poulet, Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
-    <day date="2023-05-03">
+    <day date="2023-05-10">
       <category name="Natürlich vegan">
         <meal>
-          <name>Massaman Curry mit Räucher Tofu und Spargeln | mit Wildreis | Menusalat</name>
-          <note>Allergene: Erdnuss, Soja, Sulfit</note>
+          <name>Planted Curry mit Broccoli und Mais | dazu gedämpfter Jasmin Reis | Menusalat</name>
+          <note>Allergene: Gluten, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -76,72 +87,86 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Pastetli mit Brätkügeli | Erbsli und Rüebli glasiert | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Herkunft Kalb, Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Pasta | Truten Brust Piccata | Tomatensauce | Broccoli</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Geflügel: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-05-04">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Blumenkohl Kartoffelcurry mit Süsskartoffeln Kreuzkümmel Tomaten | mit Pitabrot | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sesam</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Kennst du deine Wurzeln? | Aaretaler Schweinsbratwurst | mit Senf | UniEss Kartoffelsalat | Rüeblisalat | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Brätkügeli | Langkornreis | Shakshuka mit Ei</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-05-05">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Getreiderisotto mit frischem Ruccola | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Tortellini mit Fleischfüllung | mit frischer Tomatensauce mit Basilikum | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <name>Orientalischer Rindsragout mit Zimt und Orangen | auf Couscous mit Minze</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit, Weizen</note>
           <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Knackiger Lattich mit Pouletstreifen, Speck, Cherrytomaten, Parmesanflocken und Brotcroutons</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Poulet, Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-05-11">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Risotto mit Spargeln und Erbsen | Menusalat</name>
+          <note>Allergene: Ei, Soja, Milch, Schalenfrüchte, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Knackiger Lattich mit Pouletstreifen, Speck, Cherrytomaten, Parmesanflocken und Brotcroutons</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Poulet, Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-05-12">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Oceansticks | mit Zitronen-Mayonnaise | dazu Salz Kartoffeln mit Petersilie | Cremiger Lauch</name>
+          <note>Allergene: Gluten, Soja, Milch, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Fischstäbchen | mit Zitronen-Mayonnaise | und Butterkartoffeln | dazu cremiger Lauch</name>
+          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <note>Herkunft Fisch: Aus nachhaltiger Zucht</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Knackiger Lattich mit Pouletstreifen, Speck, Cherrytomaten, Parmesanflocken und Brotcroutons</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Poulet, Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
