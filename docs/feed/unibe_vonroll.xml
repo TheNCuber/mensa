@@ -102,22 +102,30 @@
     <day date="2023-05-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Gelberbseneintopf | mit Kartoffeln, Auberginen | Schwarzwurzeln &amp; Tomaten</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Vegi-Balls | an Salbei-Rahmsauce | dazu Spätzli</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Poulet-Meat-Balls | an Salbei-Rahmsauce | dazu Spätzli | &amp; Broccoli</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Senf, Sesam, Sulfit, Pistazie</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Rinds Meat-Balls | an Tomatensauce | dazu Spätzli | &amp; Broccoli</name>
+          <note>Allergene: Gluten, Ei, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Emmentaler Lammvoressen | mit Kartoffelstock | &amp; Karotten</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Fleisch: Schweiz (Lamm)</note>
+          <price role="other">15.90</price>
+          <price role="student">13.90</price>
         </meal>
       </category>
     </day>
