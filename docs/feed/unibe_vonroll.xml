@@ -132,8 +132,9 @@
     <day date="2023-05-12">
       <category name="natürlich vegi">
         <meal>
-          <name>&quot;Maluns&quot; | Traditionelles Bündner Gericht | aus Kartoffeln | mit Gemüsestreifen | &amp; Apfelmus</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <name>Spätzli | an Tomatensauce | mit Zettenalp-Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -142,7 +143,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spaghetti Bolognaise | mit Reibkäse</name>
+          <name>Spätzli Bolognaise | mit Zettenalp-Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
