@@ -6,9 +6,10 @@
     <day date="2023-05-15">
       <category name="natürlich vegi">
         <meal>
-          <name>Pilz-Risotto | mit Reibkäse | &amp; Cherrytomaten</name>
-          <note>Allergene: Milch, Sulfit</note>
+          <name>Gnocchi-Pfanne | mit Spargeln und Brokkoli | dazu Reibkäse | &amp; Cherrytomaten</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
           <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -16,10 +17,11 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletgeschnetzeltes | mit getrockneten Tomaten | &amp; Basilikum an Rahmsauce | dazu Kartoffelstock | &amp; Bohnen</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <name>plant-based geschnetzeltes | mit getrockneten Tomaten | &amp; Basilikum an Rahmsauce | dazu Kartoffelstock | &amp; Bohnen</name>
+          <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
