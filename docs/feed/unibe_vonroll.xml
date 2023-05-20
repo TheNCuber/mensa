@@ -133,16 +133,16 @@
         <meal>
           <name>Spätzligratin mit Speck | Spargel, Erbsen | &amp; Frühlingszwiebeln | an Rahmsauce | mit Käse überbacken</name>
           <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Döner | mit seiner Sauce | Rotkabis, Zwiebeln &amp; Salat | dazu Pommes-Frites</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
+          <name>Döner mit Poulet | mit seiner Sauce | Rotkabis, Zwiebeln &amp; Salat | dazu Pommes-Frites</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
