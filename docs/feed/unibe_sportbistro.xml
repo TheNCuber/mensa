@@ -3,44 +3,55 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-05-15">
+    <day date="2023-05-22">
       <category name="Vegi Bowl">
         <meal>
-          <name>Fagiolini Eintopf | Kicherbsen | Lauch | Tomaten Concasse | Croutons</name>
-          <note>Allergene: Gluten, Milch, Weizen, Gerste</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-05-16">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>Penne | Tomatenrahmsauce | Reibkäse | Rucola | Getrocknete Tomaten</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>Blumenkohl Curry | Basmati Reis | Kichererbsen | Kartoffeln | Mango</name>
+          <note>Allergene: Soja, Schalenfrüchte, Sulfit, Cashew</note>
+          <note>Genuss in Balance</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>Jambalaya Reis | Pouletragout | Sellerie | Peperoni | Frühlingszwiebeln</name>
-          <note>Allergene: Sellerie</note>
+          <name>Spaghetti | Carbonara Sauce | Reibkäse | Rucola</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-05-23">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Gemüseballs | Orangen-Couscous | Gurkensalat | Peperoni Hummus</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-05-24">
+      <category name="Daily Bowl">
+        <meal>
+          <name>Gebackene Poulet Flügeli | Folienkartoffel | Sauerrahm Sauce | Cole Slaw</name>
+          <note>Allergene: Ei, Milch, Senf, Sulfit</note>
           <note>Herkunft Poulet : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-05-17">
+    <day date="2023-05-26">
       <category name="Vegi Bowl">
         <meal>
-          <name>VEGVEG-TAG | Ebly-Pfanne | Spargeln | Romanesco | Apfel | Röstzwiebeln</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Pizokelauflauf | Gemüsestreifen | Bechamelsauce | Käse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -48,12 +59,12 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>VEGVEG-TAG | Oceansticks | Schnittlauch Kartoffeln | Blattspinat | Erbsen | Veganer Tartarsauce</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <name>Fischstäbchen | Salzkartoffeln | Rahmspinat | Zitronen-Mayonnaise</name>
+          <note>Allergene: Gluten, Ei, Fisch, Milch, Senf</note>
+          <note>Herkunft Fisch : Pacifik</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
     </day>

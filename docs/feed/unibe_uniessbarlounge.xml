@@ -3,12 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-05-15">
+    <day date="2023-05-22">
       <category name="Natürlich vegan">
         <meal>
-          <name>Vegane Spanische Paella mit farbigen Peperoni und Gartenerbsen | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
+          <name>Massaman Curry mit Räucher Tofu | und Gemüse und Kartoffeln | Basmati Reis | Menusalat</name>
+          <note>Allergene: Erdnuss, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -17,30 +16,29 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Nasi Goreng Asiatisches Reisgericht mit Gemüse und Poulet an würziger Sojasauce | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <name>Penne Amatriciana | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <note>Herkunft Speck: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-    </day>
-    <day date="2023-05-16">
-      <category name="Natürlich vegan">
+      <category name="Wochenbowl">
         <meal>
-          <name>Massaman Curry mit Räucher Tofu und Spargeln | Couscous mit Brunoise | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sulfit</note>
+          <name>UniS Mezze Bowl | Cous Cous Salat mit Falafel, Joghurtsauce, Hummus und Mini Pita-Brot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
-      <category name="Einfach gut">
+    </day>
+    <day date="2023-05-23">
+      <category name="Natürlich vegan">
         <meal>
-          <name>Singapore Nudeln mit Sojasprossen Peperoncini Pack Choi, Edamane Karottenjulienne und Stangensellerie | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Gemüsestroganoff mit Pilzen und Spargeln | dazu Gnocchi | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -49,19 +47,30 @@
       </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Schweins Cordon Bleu im Panko | dazu Pommes Frites | mit Tagesgemüse | Menusalat</name>
+          <name>Schweins Cordon Bleu | Pommes Frites | Tagesgemüse | Menusalat</name>
           <note>Allergene: Gluten, Ei, Milch</note>
           <note>Herkunft Schwein: Schweiz</note>
           <price role="other">15.90</price>
           <price role="student">12.90</price>
         </meal>
       </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>UniS Mezze Bowl | Cous Cous Salat mit Falafel, Joghurtsauce, Hummus und Mini Pita-Brot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
-    <day date="2023-05-17">
+    <day date="2023-05-24">
       <category name="Natürlich vegan">
         <meal>
-          <name>VegVeg Day | No-Schnitzel an kräftigem Rosmarin-Zitronenjus | Country-Cuts | Menusalat</name>
-          <note>Allergene: Gluten, Soja</note>
+          <name>Gersotto mit Spargeln und Cherrytomaten | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -70,32 +79,87 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Kartoffelstock | mit cremigem Spargelragout | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
+          <name>Hagu Hansbraten | Thymiianjus | Butternudeln | Tagesgemüse</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>UniS Mezze Bowl | Cous Cous Salat mit Falafel, Joghurtsauce, Hummus und Mini Pita-Brot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-05-25">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>«Conchiglie alla trapanese » Müschli Knoblauch Tomaten Basilikum | Menusalat</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Trutenragout Garam Masala | Basmati Reis | Menusalat</name>
+          <note>Allergene: Soja, Schalenfrüchte, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Geflügel: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>UniS Mezze Bowl | Cous Cous Salat mit Falafel, Joghurtsauce, Hummus und Mini Pita-Brot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
-    <day date="2023-05-18">
+    <day date="2023-05-26">
       <category name="Natürlich vegan">
         <meal>
-          <name>Auffahrt: HEUTE GESCHLOSSEN</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>Vegane Lasagne mit viel Gemüse und Soja | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-    </day>
-    <day date="2023-05-19">
-      <category name="Natürlich vegan">
+      <category name="Einfach gut">
         <meal>
-          <name>GENIESST DAS SCHÖNE UND LANGE WOCHENENDE! | EUER UNIESS TEAM</name>
-          <note>Allergene: frei von deklarat. pflichtigen Allergenen</note>
+          <name>Schlemmerfilet Italienisch | Butterkartoffeln | Rahmspinat | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Herkunft Fisch: Aus nachhaltiger Zucht</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>UniS Mezze Bowl | Cous Cous Salat mit Falafel, Joghurtsauce, Hummus und Mini Pita-Brot</name>
+          <note>Allergene: Gluten, Milch, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
