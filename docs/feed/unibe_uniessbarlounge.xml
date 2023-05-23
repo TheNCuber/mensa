@@ -10,6 +10,7 @@
           <note>Allergene: Erdnuss, Soja, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -41,6 +42,7 @@
           <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -73,6 +75,7 @@
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
