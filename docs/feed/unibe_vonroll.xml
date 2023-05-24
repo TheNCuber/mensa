@@ -37,8 +37,8 @@
     <day date="2023-05-23">
       <category name="natürlich vegi">
         <meal>
-          <name>Griechische Kartoffelpfanne | mit Zucchetti, Peperoni | &amp; Oliven | dazu Feta-Käse</name>
-          <note>Allergene: Milch, Senf</note>
+          <name>Spiralen | an Tomatensauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -48,9 +48,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsbraten | an Rosmarinsauce | mit Spiralen | &amp; Karotten</name>
+          <name>Poulet Burger | an Rosmarinsauce | mit Spiralen | &amp; Karotten</name>
           <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -58,7 +58,7 @@
       <category name="voll anders">
         <meal>
           <name>Crunchy-Burger | mit Sauerrahm-Kräutersauce | Gurken, Tomaten &amp; Salat | dazu Wedges</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Senf, Sesam</note>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
