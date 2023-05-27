@@ -132,9 +132,9 @@
       <category name="natürlich vegi">
         <meal>
           <name>Tikka-Masala mit Planted-Streifen | Gemüse, Ingwer | Kichererbsen &amp; Kokosmilch | dazu Vitaminreis</name>
-          <note>Allergene: Gluten, Soja, Sesam, Sulfit</note>
+          <note>Allergene: Soja, Milch, Sellerie, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -153,7 +153,7 @@
           <name>Vegane Currywurst | mit Röstzwiebeln | dazu Kartoffel Wedges</name>
           <note>Allergene: Gluten, Sellerie, Senf, Sesam, Sulfit, Weizen, Dinkel</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <note>Vegan</note>
           <price role="other">15.90</price>
           <price role="student">11.90</price>
         </meal>
