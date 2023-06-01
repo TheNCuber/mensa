@@ -19,7 +19,6 @@
           <name>Grünes Planted Curry mit frischem Gemüse | dazu Basmati Reis | Menusalat</name>
           <note>Allergene: Soja, Sellerie, Sulfit</note>
           <note>Vegan</note>
-          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -69,6 +68,15 @@
           <note>Herkunft Schwein/Kalb: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Lasagne | Trutenragout | an feiner Paprikasauce | und Butterkartoffeln | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie, Sulfit</note>
+          <note>Herkunft Geflügel: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>

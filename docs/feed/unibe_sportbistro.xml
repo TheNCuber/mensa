@@ -27,9 +27,8 @@
     <day date="2023-05-31">
       <category name="Vegi Bowl">
         <meal>
-          <name>Gebackener Falafel | Marokkanischer Bulgur | Rotkabissalat | Chili-Mayonnaise</name>
+          <name>Gebackener Falafel | Marokkanischer Couscous | Rotkabissalat | Chili-Mayonnaise</name>
           <note>Allergene: Gluten, Ei, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
