@@ -53,8 +53,8 @@
     <day date="2023-05-31">
       <category name="natürlich vegi">
         <meal>
-          <name>&quot;Palak Paneer&quot; | Spinat-Käsegericht aus Indien | dazu Basmatireis</name>
-          <note>Allergene: Milch, Sellerie, Sesam</note>
+          <name>Rotes-Curry | mit Gemüse &amp; Quorn | dazu Couscous</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -91,7 +91,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Pouletgeschnetzeltes | an Sherry-Vanille-Sauce | dazu Spinat-Gnocchi | &amp; Karotten</name>
+          <name>Pouletgeschnetzeltes | an Sherry-Vanille-Sauce | dazu Gnocchi | &amp; Karotten</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
