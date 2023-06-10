@@ -38,32 +38,7 @@
     <main>
       <article>Parser for <a target="_blank" href="https://openmensa.org">openmensa.org</a>. The parser runs in a <a target="_blank" title="What's a Github action?" href="https://docs.github.com/en/actions">Github action<sup>❓</sup></a> and pushes the XML feeds to this page</article>
       <article><h3><a href="https://github.com/TheNCuber/mensa/actions/">🗿 Parser status</a></h3>
-<pre>unibe:
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.9.16/x64/lib/python3.9/site-packages/requests/models.py", line 971, in json
-    return complexjson.loads(self.text, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.16/x64/lib/python3.9/json/__init__.py", line 346, in loads
-    return _default_decoder.decode(s)
-  File "/opt/hostedtoolcache/Python/3.9.16/x64/lib/python3.9/json/decoder.py", line 337, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-  File "/opt/hostedtoolcache/Python/3.9.16/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/mensa/mensa/updateFeeds.py", line 135, in updateFeeds
-    raise e
-  File "/home/runner/work/mensa/mensa/updateFeeds.py", line 126, in updateFeeds
-    content = getattr(parser, feedMethod)(mensaReference)
-  File "/home/runner/work/mensa/mensa/unibe/__init__.py", line 66, in feed
-    dictonary = json.loads(r.json()[0])
-  File "/opt/hostedtoolcache/Python/3.9.16/x64/lib/python3.9/site-packages/requests/models.py", line 975, in json
-    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
-requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-unifr/perolles:
+<pre>unifr/perolles:
 Traceback (most recent call last):
   File "/home/runner/work/mensa/mensa/updateFeeds.py", line 126, in updateFeeds
     content = getattr(parser, feedMethod)(mensaReference)

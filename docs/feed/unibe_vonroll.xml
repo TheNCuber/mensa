@@ -126,6 +126,7 @@
         <meal>
           <name>Planted-Geschnetzeltes | an Paprikasauce | mit Champignon, Peperoni | &amp; Essiggurken | dazu Schupfnudeln</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -133,9 +134,10 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindssauerbraten | an Rotweinsauce | dazu Bräterkartoffeln | &amp; Erbsen</name>
+          <name>Rindsburger | an Rotweinsauce | dazu Bräterkartoffeln | &amp; Erbsen</name>
           <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>

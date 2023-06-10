@@ -158,20 +158,20 @@
     <day date="2023-06-09">
       <category name="natürlich vegi">
         <meal>
-          <name>Planted Tikka Masala | mit Kichererbsen | dazu Kokosnuss Reis mit Sesam | und Koriander Dip</name>
-          <note>Allergene: Soja, Schalenfrüchte, Sesam, Sulfit</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <name>«Tikka Masala» | Planted Streifen mit Ingwer | Kichererbsen &amp; Koriander Dip | Kokosnussreis mit Sesam | Gepickelte Zwiebeln</name>
+          <note>Allergene: Soja, Schalenfrüchte, Senf, Sesam, Sulfit</note>
+          <note>Vegan</note>
+          <price role="other">11.50</price>
+          <price role="student">9.50</price>
         </meal>
       </category>
       <category name="einfach gut">
         <meal>
-          <name>Hackbraten | an Pilzrahmsauce | dazu Nudeln | und Broccoli</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz / Rind : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <name>Rinds-Hacktätschli | Pilzrahmsauce mit Kräuter | Nudeln | Broccoli mit Mandeln</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Sulfit, Mandel</note>
+          <note>Herkunft Fleisch: Schweiz</note>
+          <price role="other">12.50</price>
+          <price role="student">10.50</price>
         </meal>
       </category>
       <category name="vegi pizza">
