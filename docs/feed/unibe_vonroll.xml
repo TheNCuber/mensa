@@ -44,16 +44,16 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsragout | mit getrockneten Aprikosen | an Minze-Dillsauce | dazu Penne | &amp; Romanesco</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Pouletgeschnetzeltes | an Currysauce | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Milch, Senf</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>Crunchy-Vegi Burger | im Red Sesam-Bun | mit Cocktailsauce | Tomate &amp; Gurke | dazu Country-Cuts</name>
+          <name>Vegi-Grill-Burger | im Taschenbrot | mit Cocktailsauce | Tomate &amp; Gurke | dazu Country-Cuts</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sesam</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
