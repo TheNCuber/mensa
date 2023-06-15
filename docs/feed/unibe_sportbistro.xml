@@ -46,6 +46,15 @@
       </category>
     </day>
     <day date="2023-06-14">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>VEGVEG-TAG | Risotto | Champignon | Lauch | Röstzwiebeln | Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Daily Bowl">
         <meal>
           <name>VEGVEG-TAG | Auberginenwurfel | Massaman Curry Sauce | Vitaminreis | Kartoffel | Erdnüssen</name>
@@ -58,6 +67,16 @@
       </category>
     </day>
     <day date="2023-06-15">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Quinoa Chili Burger | Bratkartoffeln | Maissalat | Knoblauch Mayonnaise</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Daily Bowl">
         <meal>
           <name>Poulet Ragout | Caccia Tore Sauce | Kräuter Polenta | Peperoni | Oliven</name>
