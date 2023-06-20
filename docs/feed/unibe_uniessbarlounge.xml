@@ -8,6 +8,7 @@
         <meal>
           <name>Dirty fires | Pommes frites mit Cheddar Cheese, Sauce Nachos, Relish, Tomaten, Jalapenos und Koriander | Menusalat</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -28,6 +29,7 @@
         <meal>
           <name>Halloumi | im Pitabrot mit Gyros Gewürz, Lattich, Tomaten, Gurken, Tzatziki. Dill und Pommes frites | Menusalat</name>
           <note>Allergene: Gluten, Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -48,6 +50,7 @@
         <meal>
           <name>Massaman Curry mit Räucher Tofu und Spargeln | Basmati Reis | Menusalat</name>
           <note>Allergene: Erdnuss, Soja, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -68,6 +71,8 @@
         <meal>
           <name>Quinoapfanne Uniess | Sojajoghurt mit Koriander | Menusalat</name>
           <note>Allergene: Soja, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -78,6 +83,7 @@
           <name>Trutenschnitzel in Cornflakes Panko Panade Tex-Mex Gemüse Reis mit Quinoa und Ahornsauce | Menusalat</name>
           <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Geflügel: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">8.50</price>
         </meal>
@@ -88,6 +94,8 @@
         <meal>
           <name>Orecchiette alla Mediterranea | Menusalat</name>
           <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -98,6 +106,7 @@
           <name>Asien Style Hot Dog | mit Gemüse Pickels, Erdnüsse geschmortem Schweinebauch Bundzwiebeln und Koriander | Menusalat</name>
           <note>Allergene: Gluten, Ei, Sellerie, Senf, Sulfit</note>
           <note>Herkunft Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">8.50</price>
         </meal>

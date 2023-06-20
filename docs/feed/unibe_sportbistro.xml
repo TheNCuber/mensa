@@ -28,6 +28,7 @@
         <meal>
           <name>Älpler Magronen | Apfelmus | Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -58,6 +59,7 @@
           <name>Kalbs Adrio | Rosmarinsauce | Griess-Tätschli | Blumenkohl</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Kalb : Schweiz / Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -68,6 +70,7 @@
         <meal>
           <name>Eblysotto | Pilzen | Romanesco | Röstzwiebeln | Sautierte Äpfeln</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -78,6 +81,7 @@
           <name>Spaghetti | Bolognese | Gemüse Würfel | Reibkäse</name>
           <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Rind : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -88,6 +92,8 @@
         <meal>
           <name>Eier Tortilla | Kartoffeln | Peperoni | Erbsen | Rucola</name>
           <note>Allergene: Ei, Milch, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -97,6 +103,7 @@
         <meal>
           <name>Poulet Ragout | Rotes Thai Curry Sauce | Asiatisches Gemüse | Basmati Reis</name>
           <note>Allergene: Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Poulet : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>

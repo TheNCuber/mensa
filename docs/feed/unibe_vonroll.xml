@@ -8,7 +8,7 @@
         <meal>
           <name>&quot;Palak Paneer&quot; | Spinat-Käsegericht aus Indien | dazu Basmatireis</name>
           <note>Allergene: Milch</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -47,6 +47,7 @@
           <name>Riz-Casimir | mit Pouletgeschnetzeltem | &amp; Gemüse | dazu Vitaminreis</name>
           <note>Allergene: Gluten, Sellerie, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -55,7 +56,7 @@
         <meal>
           <name>Happy-Noodles | mit Wokgemüse, Chinakohl | Broccoli &amp; Quorn</name>
           <note>Allergene: Gluten, Ei, Soja, Sellerie, Sesam</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">10.90</price>
         </meal>
@@ -66,6 +67,7 @@
         <meal>
           <name>Spiralen | an Basilikumpesto | mit Cherrytomaten | &amp; Champignons | dazu Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -76,6 +78,7 @@
           <name>Fleischkäse | an Senfsauce | dazu Ofenkartoffeln | &amp; Erbsen</name>
           <note>Allergene: Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -113,6 +116,7 @@
         <meal>
           <name>Dinkel-Burger | mit Sauerrahm-Kräutersauce | Gurken, Tomaten &amp; Salat | dazu Pommes-Frites</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Senf, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
@@ -124,6 +128,7 @@
         <meal>
           <name>Walliser Rösti | mit Tomate | &amp; Raclettekäse überbacken</name>
           <note>Allergene: Milch, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -133,7 +138,9 @@
         <meal>
           <name>Asiatische Reispfanne | mit Poulet, Gemüse | Soja-, &amp; Bambussprossen</name>
           <note>Allergene: Soja, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>

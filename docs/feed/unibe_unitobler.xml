@@ -26,6 +26,8 @@
         <meal>
           <name>Pinsa Verdura | mit buntem Gemüse</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
@@ -35,7 +37,9 @@
         <meal>
           <name>Pinsa Hawaii | mit Schinken und Ananas</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
         </meal>
@@ -46,6 +50,7 @@
         <meal>
           <name>Älpler Magronen | mit Apfelmus | und Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -64,6 +69,8 @@
         <meal>
           <name>Pinsa Verdura | mit buntem Gemüse</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
@@ -73,7 +80,9 @@
         <meal>
           <name>Pinsa Hawaii | mit Schinken und Ananas</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
         </meal>
@@ -94,6 +103,7 @@
           <name>Kalbs Adrio | an Rosmarinsauce | mit Griess-Tätschli | und Blumenkohl</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Kalb : Schweiz / Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -102,6 +112,8 @@
         <meal>
           <name>Pinsa Verdura | mit buntem Gemüse</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
@@ -111,7 +123,9 @@
         <meal>
           <name>Pinsa Hawaii | mit Schinken und Ananas</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
         </meal>
@@ -122,6 +136,7 @@
         <meal>
           <name>Eblysotto | mit Pilzen, Romanesco | sautierte Äpfeln | und Röstzwiebeln</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -132,6 +147,7 @@
           <name>Spaghetti | Bolognese | mit Reibkäse</name>
           <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Rind : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -178,6 +194,8 @@
         <meal>
           <name>Pinsa Verdura | mit buntem Gemüse</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
@@ -187,7 +205,9 @@
         <meal>
           <name>Pinsa Hawaii | mit Schinken und Ananas</name>
           <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">11.90</price>
           <price role="student">9.90</price>
         </meal>
