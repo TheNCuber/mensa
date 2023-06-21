@@ -39,7 +39,16 @@
         <meal>
           <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander | Menusalat</name>
           <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Brätchugeli | mit Wild Reis Mix</name>
+          <note>Allergene: Gluten, Milch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
