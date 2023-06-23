@@ -8,6 +8,7 @@
         <meal>
           <name>Kartoffel Rösti | Mediterranem Gemüse | Mozzarella | Rucola</name>
           <note>Allergene: Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
