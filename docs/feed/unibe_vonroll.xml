@@ -101,9 +101,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | an Zitronen-Salbeirahmsauce | dazu Bräterkartoffeln | &amp; Bohnen</name>
-          <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Rindsburger | an Tomatensauce | dazu Bräterkartoffeln | &amp; Bohnen</name>
+          <note>Allergene: Gluten, Milch, Sesam</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
