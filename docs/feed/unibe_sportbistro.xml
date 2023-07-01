@@ -82,7 +82,9 @@
         <meal>
           <name>Orientalische Rindshackfleisch | Zucchetti | Mais | Bohnen | Pilaw Reis</name>
           <note>Allergene: Milch, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Rind : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -93,6 +95,7 @@
         <meal>
           <name>Soja Geschnetzeltes | Sweet and Sour Sauce | Peperoni | Ananas | Basmatireis</name>
           <note>Allergene: Gluten, Soja, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>

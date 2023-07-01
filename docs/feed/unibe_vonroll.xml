@@ -104,6 +104,7 @@
           <name>Rindsburger | an Tomatensauce | dazu Bräterkartoffeln | &amp; Bohnen</name>
           <note>Allergene: Gluten, Milch, Sesam</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -124,7 +125,6 @@
         <meal>
           <name>Älplermagronen | mit Kartoffeln, Röstzwiebeln | &amp; Apfelmus</name>
           <note>Allergene: Gluten, Milch, Sulfit</note>
-          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
