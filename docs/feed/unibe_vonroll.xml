@@ -38,9 +38,9 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | mit Gemüse an Paprikarahmsauce | dazu Nudeln</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Poulet-Meatballs | an Senfsauce | dazu Penne mit Pesto rosso</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
