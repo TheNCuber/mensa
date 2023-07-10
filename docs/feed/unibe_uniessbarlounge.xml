@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-07-03">
+    <day date="2023-07-10">
       <category name="Natürlich vegan">
         <meal>
-          <name>Vegane Tortelli All`Arrabbiata | an Pesto Rosso | mit frischem Rucola | Menüsalat</name>
-          <note>Allergene: Gluten, Milch, Schalenfrüchte</note>
+          <name>Ananas - Sellerie - Curry mit Quinoa | Menusalat</name>
+          <note>Allergene: Sellerie</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,19 +15,22 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Kalbspojarski | an Rosmarin Sauce | mit Penne | und Rüebli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Kalb/Schwein: Schweiz</note>
+          <name>Tortellini mit Spinat-Ricotta-Füllung | Tomaten-Basilikumsauce | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2023-07-04">
+    <day date="2023-07-11">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Power Bowl» | Perlen Couscous mit Kräutern | geröstete Randen Würfel, Safran- Hummus | Green Power Balls und Harissa Dip | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <name>Arabisches Bamja | mit Gemüse | Bulgur mit Cranberry und Nüssen | Menüsalat</name>
+          <note>Allergene: Gluten, Sellerie, Senf</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -36,39 +39,18 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Orientalisches Schweinsgeschnetzeltes | Bratkartoffeln | Bohnenhochzeit | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sesam</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
+          <name>Japanisches Sukiyaki mit Rindfleisch, Gemüse und Sojsauce | Menusalat</name>
+          <note>Allergene: Gluten, Fisch, Soja, Weizen</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-07-05">
+    <day date="2023-07-12">
       <category name="Natürlich vegan">
         <meal>
-          <name>Malaysisches Gemüsecurry | an pikanter Ananas-Kokoscurrysauce | Parfümreis | Menusalat</name>
-          <note>Allergene: Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Blätterteigpastetli mit Brätchügeli | Erbsen und Rüebli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Fleisch: Schwein, Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-07-06">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Gemüse- Medaillon | auf Gemüsepfanne mit Kartoffeln | Sojajoghurt mit Schnittlauch | Menusalat</name>
+          <name>Falafel Burger | Kartoffel-Gemüsepfanne | Safran- Knoblauchjoghurt | Menusalat</name>
           <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -79,20 +61,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Älpler-Spätzli | Öpfumues und &quot;Röstziebele&quot; | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Gemüse Sweet and Souer | Basmati Reis | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
     </day>
-    <day date="2023-07-07">
+    <day date="2023-07-13">
       <category name="Natürlich vegan">
         <meal>
-          <name>Chickeriki Nuggets vegan | hausgemachte Aioli mit Curry | frittierte Kartoffeln | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Senf, Sesam, Sulfit</note>
+          <name>Spaghetti alla Putanesca | Oliven, getrocknete Tomaten | auf Wunsch mit Grana Padano | Menusalat</name>
+          <note>Allergene: Gluten</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -101,9 +83,30 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>«Red Thaicurry » mit Rindfleisch | grünen Bohnen und Cherrytomaten | Basmatireis | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
-          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <name>Grünes Thai Curry mit Poulet | Basmati Reis | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf</note>
+          <note>Herkunft Geflügel: Poulet, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-07-14">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>&gt;&gt;No Schnitzel&lt;&lt; | Rosmarin Sauce | Country Cuts | Rüebligemüse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Lasagne mit Rindshackfleisch | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
