@@ -58,7 +58,6 @@
         <meal>
           <name>Nasi-Goreng | mit Tofu, Reis | Wokgemüse &amp; Sojasprossen | dazu Sweet Chilisauce</name>
           <note>Allergene: Gluten, Ei, Soja, Sellerie, Sesam, Weizen, Gerste</note>
-          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -69,7 +68,6 @@
           <name>Nasi-Goreng | mit Poulet, Reis | Wokgemüse &amp; Sojasprossen | dazu Sweet Chilisauce</name>
           <note>Allergene: Gluten, Ei, Soja, Sellerie, Sesam, Weizen, Gerste</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -97,7 +95,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>«Chriristas Ghassi» | Indisches Curry mit Schweinefleisch | &amp; Gemüse | dazu Vitaminreis</name>
+          <name>«Chriristas Ghassi» | Indisches Curry mit Schweinefleisch | &amp; Gemüse | dazu Gemüsereis mit Tofu</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
