@@ -3,11 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-07-17">
+    <day date="2023-07-24">
       <category name="natürlich vegi">
         <meal>
-          <name>Penne | an Gemüse-Rahmsauce | dazu Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit, Weizen</note>
+          <name>Hörnli | mit Basilikumpesto | &amp; Cherrytomaten | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,19 +16,41 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Penne Bolognaise | dazu Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <name>Hörnli &amp; Ghackets | mit Reibkäse | &amp; Apfelmus</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-07-18">
+    <day date="2023-07-25">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse-Tajine | mit Sommergemüse | dazu Couscous &amp; Sultaninen</name>
-          <note>Allergene: Gluten, Sellerie</note>
+          <name>Vegane Paella | mit saisonalem Gemüse | Oliven | &amp; Soja-Joghurt Dip</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Paella | mit Poulet | saisonalem Gemüse, Oliven | &amp; Soja-Joghurt Dip</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-07-26">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Spätzlipfanne | mit Gemüsewürfel &amp; Champignons | an Appenzeller-Käserahmsauce</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -37,41 +60,21 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rinds-Tajine | mit Sommergemüse | dazu Couscous &amp; Sultaninen</name>
-          <note>Allergene: Gluten, Soja, Senf, Sesam, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-07-19">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Asiatische Reispfanne | mit mariniertem Saitan | &amp; Sweet-Chili Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Asiatische Reispfanne | mit gebratenem Poulet | &amp; Sweet-Chili Dip</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
-          <note>Genuss in Balance</note>
+          <name>Poulet-Meatballs | dazu Spätzlipfanne | mit Gemüsewürfel &amp; Champignons | an Appenzeller-Käserahmsauce</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-07-20">
+    <day date="2023-07-27">
       <category name="natürlich vegi">
         <meal>
-          <name>Mediterrane Pasta-Pfanne | mit getrockneten Tomaten | zweierlei Oliven | &amp; Basilikum-Pesto | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sulfit</note>
+          <name>Griechische Kartoffelpfanne | mit Zucchetti, Aubergine | Oliven &amp; Feta | dazu Tzatziki</name>
+          <note>Allergene: Milch, Senf</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -79,29 +82,29 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Mediterrane Pasta-Pfanne | mit Wienerliräder | getrockneten Tomaten | zweierlei Oliven | &amp; Basilikum-Pesto | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Rindsgeschnetzeltes | mit gerösteten Zucchetti | &amp; Auberginen | dazu Tzatziki | &amp; Kartoffeln</name>
+          <note>Allergene: Gluten, Milch, Senf</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-07-21">
+    <day date="2023-07-28">
       <category name="natürlich vegi">
         <meal>
-          <name>Massaman-Curry | mit Wokgemüse, Shiitake-Pilzen | dazu Reispfanne</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Vegan</note>
+          <name>Chili sin Carne | mit Tofu | Kartoffeln | &amp; Tortilla-Chips</name>
+          <note>Allergene: Gluten, Soja, Milch, Sulfit</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Massaman-Curry | mit Poulet | Wokgemüse &amp; Shiitake-Pilzen | dazu Reispfanne</name>
-          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Chili con carne | mit Kartoffeln | &amp; Tortilla-Chips</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
