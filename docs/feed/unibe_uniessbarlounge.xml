@@ -3,41 +3,20 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-07-24">
+    <day date="2023-08-02">
       <category name="Natürlich vegan">
         <meal>
-          <name>Quinoapfanne mit Kefen, Bohnen, Pfälzerkarotten und Tomaten dazu | Cocktail Sauce mit Lauchzwiebeln | Menusalat</name>
-          <note>Allergene: Schalenfrüchte, Sellerie, Senf, Sulfit, Mandel</note>
+          <name>Falafel auf feinem orientalischem | Bulgur mit Aprikosen und Granatapfel mit | Sojajoghurt und Koriander | Menusalat</name>
+          <note>Allergene: Gluten</note>
           <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Poulet Casimir mit Früchten garniert | Pilaw Reis | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Senf</note>
-          <note>Herkunft Poulet: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-    </day>
-    <day date="2023-07-25">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Planted Thai Curry mit Zitronengras und Ingwer dazu | Reisnudeln | Menusalat</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
       <category name="Einfach gut">
         <meal>
-          <name>Griechische Gemüse - Kartoffelpfanne mit schwarzen und grünen Oliven dazu Feta und | Tzatziki | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Schalenfrüchte, Sellerie</note>
+          <name>Cremige Chäsehörnli mit Röstzwiebeln | Apfelmus und | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -45,54 +24,32 @@
         </meal>
       </category>
     </day>
-    <day date="2023-07-26">
+    <day date="2023-08-03">
       <category name="Natürlich vegan">
         <meal>
-          <name>Penne an pikanter | Arrabiata Sauce | Menusalat</name>
-          <note>Allergene: Gluten, Weizen</note>
+          <name>Linsen Dal Indisch mit Kartoffel und Wurzelgemüse verfeinert mit Mangowürfeli dazu | Pitabrot | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Bandnudeln mit Gemüse und Teriyaki Sauce | Menusalat</name>
-          <note>Allergene: Gluten, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-07-27">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>No Schnitzel mit Zitronenschnitz auf | Tomaten-Basilikumsauce dazu | Pommes Rissolées | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Bratwurst mit Senf dazu | Cole Slaw mit Kräutern | Maissalat und feinen | Gurkensalat dazu frisches | Ruchbrot | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Herkunft Kalb: Schweiz/Schwein: Schweiz</note>
+          <name>Rindsgeschnetzeltes Stroganoff | an feiner geräuchter Paprikasauce | Kartoffelstock mit Kräutern | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-07-28">
+    <day date="2023-08-04">
       <category name="Natürlich vegan">
         <meal>
-          <name>Kartoffel-Gemüsegratin mit Kräutern | Tomaten Chili Salsa | Menusalat</name>
-          <note>Allergene: Soja, Sulfit</note>
+          <name>Planted chicken gebraten an feiner | Orangensauce mit Zitronengras | Basmati Reis | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -101,8 +58,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Risotto mit frischen Cherrytomaten und Basilikum | Menusalat</name>
-          <note>Allergene: Soja, Milch, Sellerie</note>
+          <name>Grillgemüse mit | Thymian - Bratkartoffeln | mit Crème fraîche mit Schnittlauch | Menusalat</name>
+          <note>Allergene: Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
