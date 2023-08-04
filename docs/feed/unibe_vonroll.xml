@@ -98,9 +98,11 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Chili con Carne | mit Kartoffeln</name>
-          <note>Allergene: Senf</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Schellfisch in Knusperpanade | dazu Salzkartoffeln | &amp; Erbsen</name>
+          <note>Allergene: Gluten, Fisch</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fisch: Nordostatlantik (Schellfisch)</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
