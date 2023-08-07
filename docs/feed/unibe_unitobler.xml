@@ -2,5 +2,217 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2023-08-07">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Käse-Hörnli | mit Berg Käse | und Röstzwiebeln</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Pouletschenkel | an Thymiansauce | mit Kartoffel Gnocchi | und Brokkoli mit Mandeln</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie, Sulfit, Mandel</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pinsa Caprese | mit Mozzarella, Tomaten | und Basilikum</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pinsa Diavola | mit Salami, Knoblauch | und Peproncini</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-08">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Sweet and Sour | Soja-Geschnetzeltes | mit Peperoni, Ananas | und Basmati Reis</name>
+          <note>Allergene: Gluten, Soja, Sesam, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Walliser Rösti | mit Speck, Tomaten | und Raclettekäse überbacken</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pinsa Caprese | mit Mozzarella, Tomaten | und Basilikum</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pinsa Diavola | mit Salami, Knoblauch | und Peperoncini</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-09">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Quinoa Chili Burger | mit Kartoffel Ecken | Cole Slaw Salat | und Currymayonnaise</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Kalbs Pojarski | an Senfsauce | dazu Nudeln | und Grüne Bohnen</name>
+          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <note>Herkunft Kalb / Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pinsa Caprese | mit Mozzarella, Tomaten | und Basilikum</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pinsa Diavola | mit Salami, Knoblauch | und Peperoncini</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-10">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Gebackene Falafel | dazu Couscous mit Granatapfel | und Tzatziki Sauce</name>
+          <note>Allergene: Gluten, Milch, Senf</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Schweinsbratwurst | mit Kartoffel Salat | Gurken, Bundzwiebeln | und Senf</name>
+          <note>Allergene: Milch, Senf, Sulfit</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pinsa Caprese | mit Mozzarella, Tomaten | und Basilikum</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pinsa Diavola | mit Salami, Knoblauch | und Peperoncini</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-11">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Pasta alla Caponata | mit Tomatensauce | Auberginen, Zucchetti | Peperoni, Oliven | und Reibkäse</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Rot Thai Curry | mit Poulet | asiatischem Gemüse | und Trockenreis</name>
+          <note>Allergene: Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="vegi pizza">
+        <meal>
+          <name>Pinsa Caprese | mit Mozzarella, Tomaten | und Basilikum</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+      <category name="voll pizza">
+        <meal>
+          <name>Pinsa Diavola | mit Salami, Knoblauch | und Peperoncini</name>
+          <note>Allergene: Gluten, Soja, Milch</note>
+          <note>Herkunft Fleisch : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.90</price>
+          <price role="student">11.90</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>

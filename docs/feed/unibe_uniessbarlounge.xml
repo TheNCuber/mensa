@@ -3,53 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-08-02">
+    <day date="2023-08-07">
       <category name="Natürlich vegan">
         <meal>
-          <name>Falafel auf feinem orientalischem | Bulgur mit Aprikosen und Granatapfel mit | Sojajoghurt und Koriander | Menusalat</name>
-          <note>Allergene: Gluten</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Cremige Chäsehörnli mit Röstzwiebeln | Apfelmus und | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-08-03">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Linsen Dal Indisch mit Kartoffel und Wurzelgemüse verfeinert mit Mangowürfeli dazu | Pitabrot | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sesam</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Rindsgeschnetzeltes Stroganoff | an feiner geräuchter Paprikasauce | Kartoffelstock mit Kräutern | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-08-04">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Planted chicken gebraten an feiner | Orangensauce mit Zitronengras | Basmati Reis | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sesam</note>
+          <name>Indisches Linsendal | mit Naan Brot | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -58,10 +17,98 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Grillgemüse mit | Thymian - Bratkartoffeln | mit Crème fraîche mit Schnittlauch | Menusalat</name>
-          <note>Allergene: Milch</note>
+          <name>Spaghetti | Rindsbolognese | Öpfumues | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Rind, Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-08">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>«Conchiglie alla trapanese » | Müschli mit Knoblauch- Tomaten- Basilikumpesto und Mandeln | Menusalat</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Mandel</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Grünes Curry mit Gemüse | Basmati | Menüsalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-09">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>«Viva España» | Vegane Gemüse-Paella | Menusalat</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Knuspriger Gemüsestrudel | Gemüsewürfel mit Kräuter | Randen-Dip</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-10">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Marokkanische Tajine | mit Kichererbsen und Gemüse | Couscous | Menusalat</name>
+          <note>Allergene: Gluten, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Curry Wurst | Pommes Frites | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-11">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Vegane Tortellini mit Gemüse Dal Füllung | Gartenkräuter Pesto | Menüsalat</name>
+          <note>Allergene: Gluten, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Bami Goreng | Indonesisches Nudelgericht | mit Gemüse und Pilzen | an Sojasauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sesam</note>
+          <note>Genuss in Balance</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
