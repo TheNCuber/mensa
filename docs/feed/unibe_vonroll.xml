@@ -3,34 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-08-07">
+    <day date="2023-08-14">
       <category name="natürlich vegi">
         <meal>
-          <name>Khao-Pad | Gebratener Reis mit Tofu | Ei, Gemüse, Ananas | &amp; roten Zwiebeln</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie, Sesam</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Khao-Pad | Gebratener Reis mit Poulet | Ei, Gemüse, Ananas | &amp; roten Zwiebeln</name>
-          <note>Allergene: Gluten, Ei, Soja, Sellerie, Senf, Sesam</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-08-08">
-      <category name="natürlich vegi">
-        <meal>
-          <name>&quot;Panaeng Curry&quot; | mit Planted-Geschnetzeltem | &amp; Gemüse | dazu Jasminreis</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf</note>
+          <name>«Aloo Gobi» | Broccoli-Kartoffelcurry</name>
+          <note>Allergene: Senf</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -39,63 +16,41 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>&quot;Panaeng Curry&quot; | mit Schweinsgeschnetzeltem | &amp; Gemüse | dazu Jasminreis</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Senf</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>«Aloo Gobi» | Broccoli-Kartoffelcurry | mit Poulet-Meatballs</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Senf, Sesam, Pistazie</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-08-09">
+    <day date="2023-08-15">
       <category name="natürlich vegi">
         <meal>
-          <name>«Chow mein Quorn» | Gebratene Nudeln | mit Quorn und Gemüse</name>
-          <note>Allergene: Gluten, Ei, Soja, Sesam</note>
+          <name>Bami-Goreng | mit Tofu &amp; Wokgemüse | dazu Sweet-Chili-Dip</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>«Chow mein Beef» | Gebratene Nudeln | mit Rindfleisch und Gemüse</name>
-          <note>Allergene: Gluten, Soja, Sesam</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-08-10">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Sweet &amp; Sour Gemüse | mit Basmatireis</name>
-          <note>Allergene: Gluten, Soja, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Sweet &amp; Sour | mit Schweinefleisch | &amp; Gemüse | dazu Basmatireis</name>
-          <note>Allergene: Gluten, Soja, Sulfit</note>
+          <name>Bami-Goreng | mit Schweinsgeschnetzeltem | &amp; Wokgemüse | dazu Sweet-Chili-Dip</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-08-11">
+    <day date="2023-08-16">
       <category name="natürlich vegi">
         <meal>
-          <name>Seitan Szechuan | mit Gemüse | &amp; Jasminreis</name>
-          <note>Allergene: Gluten, Ei, Soja, Sesam</note>
+          <name>VEGVEG-Tag | Linsen Dal | mit Kartoffeln | und Wurzelgemüse | dazu Labneh</name>
+          <note>Allergene: Milch, Sellerie, Senf, Sesam</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -105,11 +60,52 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Beef Szechuan | mit Gemüse | &amp; Jasminreis</name>
-          <note>Allergene: Gluten, Soja, Senf, Sesam</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>VEGVEG-Tag | Rotes Curry | mit Planted-Geschnetzeltem | &amp; Gemüse | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-17">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Pad Thai | mit Reisnudeln | Sojasprossen, Bundzwiebeln | &amp; Wokgemüse | dazu Limette &amp; Erdnüsse</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Schalenfrüchte, Sellerie, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Pad Thai | mit Reisnudeln | Pouletgeschnetzeltem | Sojasprossen &amp; Wokgemüse | dazu Limette &amp; Erdnüsse</name>
+          <note>Allergene: Gluten, Erdnuss, Soja, Sellerie, Sesam</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-18">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Quorngeschnetzeltes | an Tikka-Masala-Sauce | mit Wokgemüse | dazu Jasminreis</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Pouletschenkel | an Tikka-Masala-Sauce | mit Wokgemüse | dazu Jasminreis</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
