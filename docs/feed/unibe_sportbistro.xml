@@ -51,7 +51,7 @@
           <name>VEGVEG-TAG | Spätzligratin | Buntem Gemüse | Käse Überbacken</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -61,6 +61,7 @@
           <name>VEGVEG-TAG | Chili sin Carne | Trockenreis | Tofu | Mais | Kidneybohnen</name>
           <note>Allergene: Soja, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
