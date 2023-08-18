@@ -94,9 +94,8 @@
     <day date="2023-08-18">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gemüse Bananen Ananas Curry mit Thaibasilikum | Basmati Reis | Menusalat</name>
-          <note>Allergene: Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Kreolische Reispfanne | Pikante Tomatensauce | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -104,10 +103,9 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Schlemmerfilet Bordolaise | dazu Wildreis und | Blattspinat mit Zwiebeln | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fisch: Frankreich</note>
+          <name>Schweinsbratwurst mit | Müscheli | Menusalat</name>
+          <note>Allergene: Gluten, Ei</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
