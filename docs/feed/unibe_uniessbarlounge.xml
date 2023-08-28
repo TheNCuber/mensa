@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-08-21">
+    <day date="2023-08-28">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gemüsestrudel auf | Fenchel Gemüse | Randendip | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Pasta an leicht feuriger | all'Arrabiata | Menusalat</name>
+          <note>Allergene: Gluten, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,20 +16,19 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Hörnli und Gehacktes mit | Apfelmus dazu | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Schweins-Rahmgulasch Wiener Art mit | Kartoffelstock dazu | Rüebli | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schwein, Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-08-22">
+    <day date="2023-08-29">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Jambalaya» Kreolische Reispfanne | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Farbiges Gemüse Stroganoff | Langkornreis «Max Havelaar» | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -38,8 +37,8 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Älplermaggronen mit Röstzwiebeln, Apfelmus und Gruyère | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
+          <name>Baked Potatoes | mit Zitronen und Limetten Tzatziki | auf Ofengemüse | Menusalat</name>
+          <note>Allergene: Soja, Schalenfrüchte, Sesam</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -47,10 +46,56 @@
         </meal>
       </category>
     </day>
-    <day date="2023-08-23">
+    <day date="2023-08-30">
       <category name="Natürlich vegan">
         <meal>
-          <name>Paella mit Erbsen, Peperoni, Fenchel und Zucchetti dazu | Kräuter-Soja-Dip und Mandeln</name>
+          <name>Pad Thai | Reisnudeln mit frischem Gemüse Bambussprossen und Tofu | Sojasauce | Menusalat</name>
+          <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Limettenrisotto | mit Edamame | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-08-31">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Gnocchipfanne | mit buntem Gemüse, frischen Kräutern und Pinienkernen | an einer leichten Zitronen-Safransauce | Menusalat</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Tessiner Polenta mit | Pilzragout und | Ratatouille | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-09-01">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Rotes Gemüsecurry mit Planted | Basmati Reis | Menusalat</name>
+          <note>Allergene: Sesam</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -60,56 +105,11 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>&quot;Palak Paneer&quot; Spinat Käsegericht aus Indien mit | Basmati Reis | Menusalat</name>
-          <note>Allergene: Soja, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
+          <name>Rindsgeschnetzeltes Stroganoff | mit Pilaw Reis | und Broccoli | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Fleisch:Rind, Schweiz</note>
           <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-08-24">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Tajine mit Kichererbsen, Süsskartoffeln und | orientalischem Cous Cous | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Gnocchipfanne mit | Ratatouille, Feta und Oregano dazu geröstete Erdnüsse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-08-25">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>Rotes Gemüse - Curry mit Tofu dazu | Jasmin Reis | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Penne mit Pesto rosso und Antipasti dazu | Reibkäse und Rucola | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="student">7.80</price>
         </meal>
       </category>
     </day>
