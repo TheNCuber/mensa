@@ -54,6 +54,15 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Tajine mit Kichererbsen dazu | Couscous | Gnocchipfanne | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Sulfit</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-08-30">
       <category name="Natürlich vegan">
