@@ -45,6 +45,16 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Gnocchipfanne mit Gemüse und Rindfleisch</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-09-06">
       <category name="Natürlich vegan">
