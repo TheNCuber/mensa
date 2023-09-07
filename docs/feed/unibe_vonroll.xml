@@ -50,7 +50,7 @@
     <day date="2023-09-06">
       <category name="natürlich vegi">
         <meal>
-          <name>Powerfood-Pfanne | mit zweifarbigem Quinoa | saisonalem Gemüse | &amp; Kichererbsen | dazu Joghurt-Kräuter-Dip | garniert mit Mandeln</name>
+          <name>Powerfood-Pfanne | mit zweifarbigem Quinoa | saisonalem Gemüse &amp; Kichererbsen | dazu Joghurt-Kräuter-Dip | garniert mit Mandeln</name>
           <note>Allergene: Erdnuss, Milch, Schalenfrüchte, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -60,8 +60,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Poulet-Paella | mit Erbsen, Peperoni | Karotten, Zucchetti | dazu Kräuter-Soja-Dip | &amp; Mandeln</name>
-          <note>Allergene: Soja, Schalenfrüchte</note>
+          <name>Poulet-Paella | mit Erbsen, Peperoni | Karotten, Zucchetti | dazu Kräuter-Soja-Dip</name>
+          <note>Allergene: Soja</note>
           <note>Genuss in Balance</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <note>Umweltfreundlicher Genuss</note>
