@@ -99,6 +99,15 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Gemüsegratin | Toast Hawaii | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Sulfit, Mandel, Hasel, Walnuss, Cashew, Pekan, Para, Pistazie, Macadamia, Queensland</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-09-08">
       <category name="Natürlich vegan">
