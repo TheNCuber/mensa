@@ -3,33 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-09-04">
+    <day date="2023-09-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Gemüse Süss-sauer | dazu Vitaminreis</name>
-          <note>Allergene: Soja, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Pouletragout | an Tomaten-Balsamico-Sauce | mit Pfälzerrüebli &amp; Bohnen | dazu Salzkartoffeln mit Minze</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-09-05">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Planted-Geschnetzeltes | an Safranrahmsauce | mit Karotten &amp; Zucchetti | dazu Brätkartoffeln</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <name>Spaghetti «aglio e olio» | mit Tomaten &amp; Peperoni | dazu Reibkäse | &amp; Brunnenkresse</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -38,43 +16,19 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Fleischkäse | mit Senfsauce | dazu Gnocchi | &amp; Ratatouille-Gemüse</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch. Schweiz (Schwein)</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Siedfleisch | mit Merrettichsauce | dazu Petersilienkartoffeln | &amp; Karotten</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-09-06">
+    <day date="2023-09-12">
       <category name="natürlich vegi">
         <meal>
-          <name>Powerfood-Pfanne | mit zweifarbigem Quinoa | saisonalem Gemüse &amp; Kichererbsen | dazu Joghurt-Kräuter-Dip | garniert mit Mandeln</name>
-          <note>Allergene: Erdnuss, Milch, Schalenfrüchte, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Poulet-Paella | mit Erbsen, Peperoni | Karotten, Zucchetti | dazu Kräuter-Soja-Dip</name>
-          <note>Allergene: Soja</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-09-07">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Zitronen-Risotto | mit Cherrytomaten | &amp; Reibkäse</name>
-          <note>Allergene: Milch</note>
+          <name>Walliser Rösti | mit Tomate | &amp; Raclettekäse überbacken</name>
+          <note>Allergene: Milch, Senf</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -83,7 +37,28 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spaghetti | an pikante Tomatensauce | mit Chorizo | gerösteten Auberginen | &amp; Basilikum</name>
+          <name>Nasi Goreng | Reispfanne mit Poulet | Wokgemüse, Broccoli | und Sojasprossen</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-09-13">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Falafel | mit Joghurt-Tahini-Dip | dazu Couscouspfanne | mit Kichererbsen | Zucchetti &amp; Auberginen</name>
+          <note>Allergene: Gluten, Milch, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Spätzligratin | mit Speck, Zwiebeln | &amp; Gemüse</name>
           <note>Allergene: Gluten, Ei, Milch</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
@@ -91,11 +66,11 @@
         </meal>
       </category>
     </day>
-    <day date="2023-09-08">
+    <day date="2023-09-14">
       <category name="natürlich vegi">
         <meal>
-          <name>Älplermagronen | mit Kartoffeln | Röstzwiebeln &amp; Reibkäse | dazu Apfelmus</name>
-          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <name>Penne | mit Basilikumpesto | Cherrytomaten | Reibkäse &amp; Rucola</name>
+          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Sellerie</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -104,9 +79,30 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Rindsgeschnetzeltes-Teriyaki | mit Pilzen &amp; Frühlingszwiebeln | dazu Jasminreis</name>
-          <note>Allergene: Gluten, Soja, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Berner Zungenwurst | mit Senf | dazu Linseneintopf | mit Kartoffeln und Wurzelgemüse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-09-15">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Kartoffelgnocchipfanne | mit Dörrtomaten &amp; Salbei | auf Kürbissauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Grünes Curry | mit Pouletgeschnetzeltem | und Thai-Gemüse | dazu Vitaminreis</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
