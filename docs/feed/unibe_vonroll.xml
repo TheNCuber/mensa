@@ -68,12 +68,12 @@
     <day date="2023-09-20">
       <category name="natürlich vegi">
         <meal>
-          <name>VEGVEG-Tag | Quorngeschnetzeltes | an Zitronenrahmsauce | mit saisonalem Gemüse | &amp; Bräterkartoffeln</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf</note>
+          <name>VEGVEG-Tag | «Tikka Chana Masala» | Kichererbsen Curry mit | Penne</name>
+          <note>Allergene: Gluten, Sesam, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <note>Vegan</note>
+          <price role="other">15.90</price>
+          <price role="student">9.90</price>
         </meal>
       </category>
       <category name="natürlich gut">
