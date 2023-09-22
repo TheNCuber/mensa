@@ -147,6 +147,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Pastapfanne mit Gemüse und Pilzen</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Schalenfrüchte, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-09-22">
       <category name="Natürlich vegan">
