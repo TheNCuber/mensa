@@ -23,7 +23,7 @@
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="vegi pizza">
+      <category name="Daily Pizza">
         <meal>
           <name>Pizza Caprese | fatto in casa | mit Mozzarella, Tomaten | und Basilikum</name>
           <note>Allergene: Gluten, Milch</note>
@@ -33,7 +33,7 @@
           <price role="student">10.00</price>
         </meal>
       </category>
-      <category name="voll pizza">
+      <category name="Weekly Pizza">
         <meal>
           <name>Pizza il Tronchetto | fatto in casa | mit Rohschinken und Rucola</name>
           <note>Allergene: Gluten, Milch</note>
@@ -65,7 +65,7 @@
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="vegi pizza">
+      <category name="Daily Pizza">
         <meal>
           <name>Pizza Ortolana | fatto in casa | mit Peperoni, Auberginen | und Zucchetti</name>
           <note>Allergene: Gluten, Milch</note>
@@ -76,7 +76,7 @@
           <price role="student">11.90</price>
         </meal>
       </category>
-      <category name="voll pizza">
+      <category name="Weekly Pizza">
         <meal>
           <name>Pizza Diavola | fatto in casa | mit Peperoncini, Knoblauch | und Salami</name>
           <note>Allergene: Gluten, Milch</note>
@@ -109,7 +109,7 @@
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="vegi pizza">
+      <category name="Daily Pizza">
         <meal>
           <name>VEGVEG-TAG | Pizza Caprese | fatto in casa | mit Mozzarella, Tomaten | und Basilikum</name>
           <note>Allergene: Gluten, Milch</note>
@@ -119,7 +119,7 @@
           <price role="student">11.90</price>
         </meal>
       </category>
-      <category name="voll pizza">
+      <category name="Weekly Pizza">
         <meal>
           <name>VEGVEG-TAG | Pizza Cavolfiore e Zucchine | fatto in casa | mit Vegane Mozzarella | Blumenkohl und Zucchetti</name>
           <note>Allergene: Gluten, Lupinen</note>
@@ -152,7 +152,7 @@
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="vegi pizza">
+      <category name="Daily Pizza">
         <meal>
           <name>Pizza Ortolana mit Peperoni, Auberginen und Zucchetti | fatto in casa | mit Peperoni, Auberginen | und Zucchetti</name>
           <note>Allergene: Gluten, Milch</note>
@@ -163,7 +163,7 @@
           <price role="student">11.90</price>
         </meal>
       </category>
-      <category name="voll pizza">
+      <category name="Weekly Pizza">
         <meal>
           <name>Pizza il Tronchetto | fatto in casa | mit Rohschinken und Rucola</name>
           <note>Allergene: Gluten, Milch</note>
@@ -194,7 +194,7 @@
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="vegi pizza">
+      <category name="Daily Pizza">
         <meal>
           <name>Pizza Caprese | fatto in casa | mit Mozzarella, Tomaten | und Basilikum</name>
           <note>Allergene: Gluten, Milch</note>
@@ -204,7 +204,7 @@
           <price role="student">11.90</price>
         </meal>
       </category>
-      <category name="voll pizza">
+      <category name="Weekly Pizza">
         <meal>
           <name>Pizza Diavola | fatto in casa | mit Peproncini, Knoblauch | und Salami</name>
           <note>Allergene: Gluten, Milch</note>
