@@ -69,8 +69,8 @@
     <day date="2023-09-27">
       <category name="natürlich vegi">
         <meal>
-          <name>«Urud Dal» | Schwarzes Bohnengericht | mit Wurzelgemüse &amp; Spinat | dazu Reis | &amp; New Roots Nature</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie</note>
+          <name>Chili Sin Carne mit brewbee Hack | dazu Reis | &amp; New Roots Nature</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -78,7 +78,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Poulet-Meatballs | an Tomatensauce | mit Gnocchi | &amp; Broccoli</name>
+          <name>Poulet-Meatballs | an Tomatensauce | mit Gnocchi | &amp; Erbsen</name>
           <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Senf, Sesam, Sulfit, Pistazie</note>
           <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
@@ -87,7 +87,7 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>Paniertes Schweinsschnitzel | Österreicher Art | mit Pommes Frites | &amp; Zitronenschnitz</name>
+          <name>Paniertes Schweinsschnitzel | mit Pommes Frites | &amp; Zitronenschnitz</name>
           <note>Allergene: Gluten, Ei</note>
           <note>Herkunft Fleisch: Schweiz(Schwein)</note>
           <price role="other">15.90</price>
