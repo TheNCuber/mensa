@@ -112,7 +112,6 @@
           <name>Tortellini mit Rindfleischfüllung | mit Ratatouille-Sauce | &amp; Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
-          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -134,7 +133,7 @@
           <name>«Green Mountain Balls» | Pflanzliche Erbsen-Bällchen | dazu Preiselbeer-Sauce | mit Kartoffelstock &amp; Bohnen</name>
           <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
           <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
