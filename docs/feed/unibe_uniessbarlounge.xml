@@ -3,79 +3,99 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-09-25">
+    <day date="2023-10-02">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Persische Auberginen | auf Ebly mit kleinem Gemüse | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
+          <note>Herkunft 7.20/13.50</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
       <category name="Einfach gut">
         <meal>
-          <name>«Gersten Bowl» | Mit Randen, Karotten | Erbsen, Freiland Onsen | Ei, Rucola, Baumnüsse | &amp; Chili Dressing</name>
-          <note>Allergene: Gluten, Ei, Soja, Schalenfrüchte, Sulfit, Walnuss</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Schweinsgeschnetzeltes | an Pfeffer Sauce mit | Butternudeln dazu | Bohnenhochzeit | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Asiatische Wochenbowl mit Glasnudelsalat frischen Kräutern und Ei</name>
+          <note>Allergene: Soja, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-10-03">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Ananas - Sellerie - Curry mit Linsen | Menusalat</name>
+          <note>Allergene: Sellerie</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Polenta mit Frischkäse dazu | herbstliches Ratatouille | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Natürlich vegan">
+      <category name="Wochenbowl">
         <meal>
-          <name>Getreiderisotto mit Gemüsewürfel und Ruccola | Menusalat</name>
-          <note>Allergene: Gluten, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <name>Asiatische Wochenbowl mit Glasnudelsalat frischen Kräutern und Ei</name>
+          <note>Allergene: Soja, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-09-26">
+    <day date="2023-10-04">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Pasta carciofi e | mandorle» Penne | mit Artischocken Creme | Mandeln, Cherry Tomaten | Zitrone &amp; Menüsalat</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Sesam, Sulfit, Mandel</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Meat Balls | an rauchiger BBQ Sauce | mit Kartoffelstock | Menusalat</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sellerie, Senf, Sesam, Sulfit</note>
-          <note>Herkunft Geflügel/Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-09-27">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>«Urud Dal» | Schwarzes Bohnen | Gericht mit Wurzel | Gemüse, Reis, Spinat | &amp; New Roots Nature</name>
-          <note>Allergene: Gluten, Schalenfrüchte, Sellerie, Mandel</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>Kreolische Reispfanne | Menusalat</name>
+          <name>Biryani mit Gemüse und Cashewnüsse Reisgericht aus Pakistan | Menusalat</name>
           <note>Allergene: Soja, Sellerie</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Herbstliche Gnocchipfanne mit Spinat, Haselnüsse und Kräutern | Menusalat</name>
+          <note>Allergene: Gluten, Schalenfrüchte, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Asiatische Wochenbowl mit Glasnudelsalat frischen Kräutern und Ei</name>
+          <note>Allergene: Soja, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
     </day>
-    <day date="2023-09-28">
+    <day date="2023-10-05">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Grillierter Burrito» | gefüllt mit Bohnen | Mais, Seitan, Reis | hausgemachter | Erbsen Mole &amp; Chili</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sulfit, Weizen, Cashew</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Kürbis Süsskartoffel Curry | mit Pitabrot | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Schalenfrüchte, Sellerie, Sesam, Sulfit, Weizen</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -83,29 +103,28 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Pastetli mit Brätkügeli | Rüebli und Erbsengemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Herkunft Kalb/Schwein: Schweiz</note>
+          <name>Älplermaggronen mit Speck dazu | Apfelmus und Röstzwiebeln | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Speck: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
+      <category name="Wochenbowl">
         <meal>
-          <name>Pastapfanne mit Artischocken und Cherrytomaten | Meat Balls an BBQ Sauce | Menusalat</name>
-          <note>Allergene: Gluten, Milch, Sesam</note>
-          <note>Herkunft Poulet/Schwein: Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <name>Asiatische Wochenbowl mit Glasnudelsalat frischen Kräutern und Ei</name>
+          <note>Allergene: Soja, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-09-29">
+    <day date="2023-10-06">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Green Mountain Balls» | Pflanzliche Erbsen | Bällchen mit Soja | Preiselbeer Sauce | Spätzli &amp; Bohnen</name>
-          <note>Allergene: Gluten, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
+          <name>Oceansticks | an pikanter Cocktailsauce | mit Petersilien Kartoffeln | und Lauch Gemüse | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie, Senf</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -113,11 +132,20 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Fischstäbchen | an erfrischender Zitronen-Mayonnaise | mit Wildreis | und Blattspinat mit Zwiebeln | Menusalat</name>
-          <note>Allergene: Gluten, Krebs, Ei, Fisch, Soja, Sellerie, Senf, Sesam</note>
-          <note>Herkunft Freie Wildbahn</note>
+          <name>Risotto mit Orangen und Ruccola | Menusalat</name>
+          <note>Allergene: Soja, Milch, Sellerie, Sulfit</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>Asiatische Wochenbowl mit Glasnudelsalat frischen Kräutern und Ei</name>
+          <note>Allergene: Soja, Sesam</note>
+          <note>Vegetarisch</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
