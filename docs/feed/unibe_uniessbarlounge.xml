@@ -61,6 +61,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Spätzlipfanne mit Schweinsgeschnetzeltes | Ebly mit Gemüsewürfel und Auberginen | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Sellerie</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-10-04">
       <category name="Natürlich vegan">
