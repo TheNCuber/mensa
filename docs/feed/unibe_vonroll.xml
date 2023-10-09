@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-10-02">
+    <day date="2023-10-09">
       <category name="natürlich vegi">
         <meal>
-          <name>Spaghetti | an Tomatensauce | dazu Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <name>Älplermagronen | mit Kartoffeln &amp; Röstzwiebeln | dazu Reibkäse &amp; Apfelmus</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -15,8 +15,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Schweinsgeschnetzeltes | an Senfsauce | mit Bräterkartoffeln | dazu Karotten</name>
-          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <name>Mit Saucisson | gefülleter Schweinsbraten | an Rosmarinsauce | dazu Hörnli | &amp; Erbsen</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -24,19 +24,19 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Streetfood-Woche» | Chicken Nuggets | mit Cocktailsauce | &amp; Pommes-Frites</name>
-          <note>Allergene: Gluten, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <name>Ocean-Sticks | mit veganer Schnittlauchsauce | &amp; Zitronenschnitz | dazu Salzkartoffeln | &amp; Blattspinat</name>
+          <note>Allergene: Gluten, Soja, Senf, Sulfit</note>
+          <note>Vegetarisch</note>
           <price role="other">15.90</price>
           <price role="student">11.90</price>
         </meal>
       </category>
     </day>
-    <day date="2023-10-03">
+    <day date="2023-10-10">
       <category name="natürlich vegi">
         <meal>
-          <name>Spiralen | mit Kürbispesto | gerösteter Randen | Reibkäse &amp; Salbei</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
+          <name>Kartoffel-Lauchgratin | mit geröstete Randen</name>
+          <note>Allergene: Gluten, Milch</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -44,37 +44,8 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Poulet-Meat Balls | an Senfsauce | mit Spiralen</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte, Senf, Sesam, Sulfit, Pistazie</note>
-          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="voll anders">
-        <meal>
-          <name>«Streetfood-Woche» | Currywurst | mit Röstzwiebeln | &amp; Kartoffel-Wedges</name>
-          <note>Allergene: Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein/Kalb)</note>
-          <price role="other">15.90</price>
-          <price role="student">11.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-04">
-      <category name="natürlich vegi">
-        <meal>
-          <name>Vegane-Cevapcici | auf Peperonicoulis | dazu Tomaten-Gemüsereis</name>
-          <note>Allergene: Sellerie, Sulfit</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="natürlich gut">
-        <meal>
-          <name>Surrä-Mockä | mit seiner Sauce | dazu Kartoffelstock | &amp; Rotkraut</name>
-          <note>Allergene: Milch, Senf</note>
+          <name>Rindsragout an Paprikasauce | mit Eierspätzli | und Rosenkohl</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Rind)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -82,48 +53,48 @@
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Streetfood-Woche» | Fajitas mit Planted-Pulled | Mais, Gurken &amp; Salat | an New-Roots Cremesauce | dazu Antipastisalat</name>
-          <note>Allergene: Gluten, Soja, Schalenfrüchte, Senf, Sulfit</note>
-          <note>Vegan</note>
+          <name>Paniertes Schweinsschnitzel | mit Zitronenschnitz | &amp; Pommes Frites</name>
+          <note>Allergene: Gluten, Ei</note>
+          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
       </category>
     </day>
-    <day date="2023-10-05">
+    <day date="2023-10-11">
       <category name="natürlich vegi">
         <meal>
-          <name>Spiralen | mit Pesto | &amp; Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Schalenfrüchte</note>
-          <note>Vegetarisch</note>
+          <name>«Jaffna-Curry» | mit Kokosmilch | Tofu &amp; Gemüse | dazu Basmatireis</name>
+          <note>Allergene: Soja, Sellerie</note>
+          <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spätzligratin | mit Speck &amp; Gemüse | dazu Rucola</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Herkunft Fleisch: Schweiz (Schwein)</note>
+          <name>Pouletgeschnetzeltes | an Rahmsauce | mit gemischten Pilzen | dazu Nudeln</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Streetfood-Woche» | Fish &amp; Chips | mit Tartarsauce</name>
-          <note>Allergene: Gluten, Fisch</note>
-          <note>Herkunft Fisch: Nord-Pazifik (Pollack)</note>
+          <name>«VonRolls Kürbiseintopf» | mit Poulet | &amp; Kartoffeln</name>
+          <note>Allergene: Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
           <price role="other">15.90</price>
-          <price role="student">12.90</price>
+          <price role="student">10.90</price>
         </meal>
       </category>
     </day>
-    <day date="2023-10-06">
+    <day date="2023-10-12">
       <category name="natürlich vegi">
         <meal>
-          <name>Steinpilz-Risotto | mit Reibkäse | &amp; geröstetem Kürbis</name>
-          <note>Allergene: Milch, Sulfit</note>
+          <name>Gnocchipfanne | mit Bohnen, Karotten | Lauch und Zucchetti | an Kürbisrahmsauce | dazu Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -131,20 +102,49 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Spaghetti-Bolognaise | mit Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Rind)</note>
+          <name>Siedfleisch &amp; Speck | mit Salzkartoffeln | &amp; Rahmsauerkraut</name>
+          <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Riind/Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="voll anders">
         <meal>
-          <name>«Streetfood-Woche» | Frühlingsrolle | mit Sweet-Chili-Dip | &amp; Glasnudel-Salat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja, Sesam, Sulfit</note>
+          <name>Pouletflügeli | mit Cocktail Sauce | dazu Kartoffel-Wedges | &amp; Cole-Slaw Salat</name>
+          <note>Allergene: Ei, Senf, Sulfit</note>
+          <note>Herkunft Fleisch: Schweiz (Poulet)</note>
+          <price role="other">15.90</price>
+          <price role="student">10.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-10-13">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Gemüse-Lasagne | mit Wurzelgemüse | auf Tomatensauce</name>
+          <note>Allergene: Gluten, Ei, Milch</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="natürlich gut">
+        <meal>
+          <name>Panierter Kliesche | mit Tartarsauce | &amp; Vitaminreis | dazu Broccoli</name>
+          <note>Allergene: Gluten, Ei, Fisch, Senf, Sulfit</note>
+          <note>Herkunft Fisch: Nordost Pazifik (Raue Kliesche)</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="voll anders">
+        <meal>
+          <name>Happy-Noodles | mit Wokgemüse, Chinakohl | Brokkoli &amp; Räuchertofu</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sesam</note>
           <note>Vegan</note>
           <price role="other">15.90</price>
-          <price role="student">12.90</price>
+          <price role="student">10.90</price>
         </meal>
       </category>
     </day>
