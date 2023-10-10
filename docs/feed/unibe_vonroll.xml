@@ -6,7 +6,7 @@
     <day date="2023-10-09">
       <category name="natürlich vegi">
         <meal>
-          <name>Älplermagronen | mit Kartoffeln &amp; Röstzwiebeln | dazu Reibkäse &amp; Apfelmus</name>
+          <name>Älplermagronen | mit Kartoffeln | dazu Reibkäse &amp; Apfelmus</name>
           <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
@@ -15,7 +15,7 @@
       </category>
       <category name="natürlich gut">
         <meal>
-          <name>Mit Saucisson | gefülleter Schweinsbraten | an Rosmarinsauce | dazu Hörnli | &amp; Erbsen</name>
+          <name>Schweinsbraten | mit Saucisson gefüllt | an Rosmarinsauce | dazu Hörnli | &amp; Erbsen</name>
           <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
           <note>Herkunft Fleisch: Schweiz (Schwein)</note>
           <price role="other">13.50</price>
@@ -26,7 +26,7 @@
         <meal>
           <name>Ocean-Sticks | mit veganer Schnittlauchsauce | &amp; Zitronenschnitz | dazu Salzkartoffeln | &amp; Blattspinat</name>
           <note>Allergene: Gluten, Soja, Senf, Sulfit</note>
-          <note>Vegetarisch</note>
+          <note>Vegan</note>
           <price role="other">15.90</price>
           <price role="student">11.90</price>
         </meal>
@@ -104,7 +104,7 @@
         <meal>
           <name>Siedfleisch &amp; Speck | mit Salzkartoffeln | &amp; Rahmsauerkraut</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Schweiz (Riind/Schwein)</note>
+          <note>Herkunft Fleisch: Schweiz (Rind/Schwein)</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>

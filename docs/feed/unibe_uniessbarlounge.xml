@@ -31,6 +31,14 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Lauchrisotto mit Speckwürfeli | Menusalat</name>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-10-10">
       <category name="Natürlich vegan">

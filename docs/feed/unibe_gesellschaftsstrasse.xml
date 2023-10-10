@@ -28,7 +28,7 @@
           <note>Allergene: Gluten, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -38,7 +38,7 @@
           <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Schwein : Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -68,7 +68,7 @@
           <note>Allergene: Gluten, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -78,7 +78,7 @@
           <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Schwein : Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -108,7 +108,7 @@
           <note>Allergene: Gluten, Ei, Milch</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -118,7 +118,7 @@
           <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Schwein : Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -149,7 +149,7 @@
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -159,7 +159,7 @@
           <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Schwein : Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -190,7 +190,7 @@
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
@@ -200,7 +200,7 @@
           <note>Allergene: Gluten, Milch</note>
           <note>Herkunft Schwein : Schweiz</note>
           <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.90</price>
+          <price role="other">11.00</price>
           <price role="student">11.00</price>
         </meal>
       </category>
