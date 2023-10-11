@@ -8,6 +8,7 @@
         <meal>
           <name>«Jerk Tofu» | Jamiacan Jerk Tofu | Reis | Erbsen | Ananas Salsa mit koriander</name>
           <note>Allergene: Gluten, Fisch, Soja, Milch, Sulfit, Weizen</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -18,6 +19,7 @@
           <name>«Chilli Cheese Potatoes» | Kartoffelecken | Chili con Carne | Sourcream | gepickelte Zwiebel</name>
           <note>Allergene: Soja, Milch, Senf, Sulfit</note>
           <note>Herkunft Rind : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
@@ -28,6 +30,8 @@
         <meal>
           <name>«Mac &amp; Cheese» | Magronen | Cheese Sauce | Röstzwiebeln | Reibkäse</name>
           <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -48,6 +52,7 @@
         <meal>
           <name>«Jambalaya Reispfanne» | Vegane Wurst | Peperoni | Bundzwiebeln | Chimichurri Sauce</name>
           <note>Allergene: Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -56,7 +61,7 @@
       <category name="Daily Bowl">
         <meal>
           <name>«Baked Chicken» | Pouletschenkel | Cajun Gemüse | Süsskartoffel mit Limette</name>
-          <note>Allergene: Sulfit</note>
+          <note>Allergene: Milch, Sulfit</note>
           <note>Herkunft Poulet : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -68,6 +73,7 @@
         <meal>
           <name>«Dirty Fries» | Bratkartoffeln | Cheddar Käse | Relish | Nachos &amp; Jalapenos</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -88,6 +94,7 @@
         <meal>
           <name>«Irish Stew» | Soja Geschnetzeltes | Rotweinsauce | Karotten, Sellerie | Kartoffeln und Lauch</name>
           <note>Allergene: Soja, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -97,6 +104,7 @@
         <meal>
           <name>«Fried Turkey» | Panierte Truten Schnitzel | Tex-Mex Gemüse Reis | Quinoa | Ahorn Sauce</name>
           <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Truten : Ungarn</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>

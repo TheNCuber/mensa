@@ -8,6 +8,7 @@
         <meal>
           <name>«Jambalaya» Kreolische Reispfanne | Menusalat</name>
           <note>Allergene: Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -17,6 +18,7 @@
         <meal>
           <name>Spaghetti mit | Rindsbolognese dazu | Reibkäse | Menusalat</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Rind: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
@@ -26,6 +28,7 @@
         <meal>
           <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
           <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
@@ -34,7 +37,9 @@
       <category name="An der hinteren Station">
         <meal>
           <name>Lauchrisotto mit Speckwürfeli | Menusalat</name>
+          <note>Genuss in Balance</note>
           <note>Herkunft Schwein: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
@@ -54,6 +59,7 @@
         <meal>
           <name>Indisches Linsen Dal mit Kartoffel und Wurzelgemüse | Warmes Naan Brot | Menusalat</name>
           <note>Allergene: Sellerie</note>
+          <note>Genuss in Balance</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -63,9 +69,20 @@
         <meal>
           <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
           <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
+        </meal>
+      </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Spaghetti | Rindsbolognese | Cremiges Tomatenrisotto</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
@@ -74,6 +91,7 @@
         <meal>
           <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander | Menusalat</name>
           <note>Allergene: Gluten, Erdnuss, Soja</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -92,6 +110,7 @@
         <meal>
           <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
           <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
@@ -102,6 +121,8 @@
       <category name="Natürlich vegan">
         <meal>
           <name>Mariniertes Grillgemüse mit | Ofensüsskartoffeln | mit veganem Creme fraiche | Menusalat</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -120,6 +141,7 @@
         <meal>
           <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
           <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
@@ -131,6 +153,7 @@
         <meal>
           <name>Veganer Gemüsestrudel mit | Randen Dip auf | Wurzelgemüsewürfel mit Kräuter | Menusalat</name>
           <note>Allergene: Gluten, Soja, Sellerie</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -149,6 +172,7 @@
         <meal>
           <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
           <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
