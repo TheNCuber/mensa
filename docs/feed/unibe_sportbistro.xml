@@ -3,75 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-10-09">
+    <day date="2023-10-16">
       <category name="Vegi Bowl">
         <meal>
-          <name>«Jerk Tofu» | Jamiacan Jerk Tofu | Reis | Erbsen | Ananas Salsa mit koriander</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sulfit, Weizen</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>«Chilli Cheese Potatoes» | Kartoffelecken | Chili con Carne | Sourcream | gepickelte Zwiebel</name>
-          <note>Allergene: Soja, Milch, Senf, Sulfit</note>
-          <note>Herkunft Rind : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-10">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>«Mac &amp; Cheese» | Magronen | Cheese Sauce | Röstzwiebeln | Reibkäse</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>«Schweinefleisch Gyros Teller» | Tzatziki | Kartoffeln | Gurken | Tomaten</name>
-          <note>Allergene: Milch, Senf, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-11">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>«Jambalaya Reispfanne» | Vegane Wurst | Peperoni | Bundzwiebeln | Chimichurri Sauce</name>
-          <note>Allergene: Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Daily Bowl">
-        <meal>
-          <name>«Baked Chicken» | Pouletschenkel | Cajun Gemüse | Süsskartoffel mit Limette</name>
-          <note>Allergene: Milch, Sulfit</note>
-          <note>Herkunft Poulet : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-12">
-      <category name="Vegi Bowl">
-        <meal>
-          <name>«Dirty Fries» | Bratkartoffeln | Cheddar Käse | Relish | Nachos &amp; Jalapenos</name>
+          <name>Gebackene Falafel | Ras el Hanout Couscous | Tzatziki Sauce | Rotkabissalat</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -79,21 +14,24 @@
           <price role="student">7.20</price>
         </meal>
       </category>
+    </day>
+    <day date="2023-10-17">
       <category name="Daily Bowl">
         <meal>
-          <name>«Grilled Pork» | Schweins Steak | Baked Beans | Cole Slaw salat | Kornbrot</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
+          <name>&quot;Walliser Rösti&quot; | Tomaten | Speck | Raclettekäse</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Speck : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
     </day>
-    <day date="2023-10-13">
+    <day date="2023-10-18">
       <category name="Vegi Bowl">
         <meal>
-          <name>«Irish Stew» | Soja Geschnetzeltes | Rotweinsauce | Karotten, Sellerie | Kartoffeln und Lauch</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <name>VEGEVEG-TAG | Vegane Bratwurst | Senfsauce | Spiralen | Buntem Gemüse</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -102,10 +40,32 @@
       </category>
       <category name="Daily Bowl">
         <meal>
-          <name>«Fried Turkey» | Panierte Truten Schnitzel | Tex-Mex Gemüse Reis | Quinoa | Ahorn Sauce</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <name>VEGVEG-TAG | Chili sin Carne mit Linsen | Trockenreis | Mais | Kidneybohnen</name>
+          <note>Allergene: Sulfit</note>
           <note>Genuss in Balance</note>
-          <note>Herkunft Truten : Ungarn</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-10-20">
+      <category name="Vegi Bowl">
+        <meal>
+          <name>Oceansticks | Schnittlauchkartoffeln | Rahmspinat | Zitronen-Mayonnaise | Zitronenschnitz</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Bowl">
+        <meal>
+          <name>Poulet Ragout | Marengosauce | Champignons | Nudeln | Kräuter Croutons</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Poulet : Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>

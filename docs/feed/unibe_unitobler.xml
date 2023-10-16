@@ -3,134 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-10-09">
+    <day date="2023-10-16">
       <category name="natürlich vegi">
         <meal>
-          <name>«Jerk Tofu» | Jamiacan Jerk Tofu | mit Reis, Erbsen | Ananas Salsa | und Koriander</name>
-          <note>Allergene: Gluten, Fisch, Soja, Milch, Sulfit, Weizen</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>«Dirty Fries» | Pommes frites | mit Chili con Carne | Peperoni, Bohnen, Sourcream | und gepickelte Zwiebeln</name>
-          <note>Allergene: Soja, Milch, Senf, Sulfit</note>
-          <note>Herkunft Rind : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Daily Pizza">
-        <meal>
-          <name>Pizza Caprese | fatto in casa | mit Tomaten, Mozzarella | und Basilikum</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">11.00</price>
-          <price role="student">11.00</price>
-        </meal>
-      </category>
-      <category name="Weekly Pizza">
-        <meal>
-          <name>Pizza Buttafuoco | fatto in casa | mit Speck, Zwiebeln | und Oregano</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">11.00</price>
-          <price role="student">11.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-10">
-      <category name="natürlich vegi">
-        <meal>
-          <name>«Mac &amp; Cheese» | Überbackene Magronen | in Käse Sauce | mit Röstzwiebeln | und Schnittlauch</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>«Gyros Teller» | Schweinefleisch Gyros | mit Tzatziki, Tomaten | Gurken, Lattich, Pommes | frites &amp; gepickelte Zwiebeln</name>
-          <note>Allergene: Milch, Senf, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Daily Pizza">
-        <meal>
-          <name>Pizza con Zucca e Feta | fatto in casa | mit Kürbis und Feta</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">11.00</price>
-          <price role="student">11.00</price>
-        </meal>
-      </category>
-      <category name="Weekly Pizza">
-        <meal>
-          <name>Pizza Buttafuoco | fatto in casa | mit Speck, Zwiebeln | und Oregano</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">11.00</price>
-          <price role="student">11.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-11">
-      <category name="natürlich vegi">
-        <meal>
-          <name>«Jambalaya» | Kreolisches Reispfanne | mit Veganer Wurst | Peperoni, Paprika, Bundzwiebeln | und Chimichurri Sauce</name>
-          <note>Allergene: Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="einfach gut">
-        <meal>
-          <name>«Baked Buttermilk Chicken» | Pouletschenkel | mit Geröstetes Cajun Gemüse | und Süsskartoffel mit Limette</name>
-          <note>Allergene: Milch, Sulfit</note>
-          <note>Herkunft Poulet : Schweiz</note>
-          <price role="other">13.50</price>
-          <price role="student">7.80</price>
-        </meal>
-      </category>
-      <category name="Daily Pizza">
-        <meal>
-          <name>Pizza Melanzane | e Grana Padano | fatto in casa | mit Auberginen | und Grana Padano</name>
-          <note>Allergene: Gluten, Ei, Milch</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegetarisch</note>
-          <price role="other">11.00</price>
-          <price role="student">11.00</price>
-        </meal>
-      </category>
-      <category name="Weekly Pizza">
-        <meal>
-          <name>Pizza Buttafuoco | fatto in casa | mit Speck, Zwiebeln | und Oregano</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">11.00</price>
-          <price role="student">11.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-12">
-      <category name="natürlich vegi">
-        <meal>
-          <name>«Chili Cheese Fries» | Pommes Frites | mit Cheddar, Tomaten | Nachos, Relish | und Jalapenos</name>
+          <name>Gebackene Falafel | an Ras el Hanout Couscous | dazu Tzatziki Sauce | und Rotkabissalat</name>
           <note>Allergene: Gluten, Milch, Senf, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -140,16 +16,28 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>«Grilled Pork» | Schweins Steak | mit Baked Beans | Cole Slaw salat | und Kornbrot</name>
-          <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Schwein : Schweiz</note>
+          <name>Spaghetti | mit Bolognese Sauce | und Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Rind : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Daily Pizza">
         <meal>
-          <name>Pizza con Peperonata | fatto in casa | mit Peperoni</name>
+          <name>Pizza Prosciutto e Fungi | fatto in casa | mit Schinken | und Champignons</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.00</price>
+          <price role="student">11.00</price>
+        </meal>
+      </category>
+      <category name="Weekly Pizza">
+        <meal>
+          <name>Pizza Verde | fatto in casa | mit Broccoli, Rosenkohl | und Erbsen</name>
           <note>Allergene: Gluten, Milch</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -158,22 +46,12 @@
           <price role="student">11.00</price>
         </meal>
       </category>
-      <category name="Weekly Pizza">
-        <meal>
-          <name>Pizza Buttafuoco | fatto in casa | mit Speck, Zwiebeln | und Oregano</name>
-          <note>Allergene: Gluten, Milch</note>
-          <note>Herkunft Schwein : Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">11.00</price>
-          <price role="student">11.00</price>
-        </meal>
-      </category>
     </day>
-    <day date="2023-10-13">
+    <day date="2023-10-17">
       <category name="natürlich vegi">
         <meal>
-          <name>«Irish Stew» | Soja Geschnetzeltes | in Rotweinsauce | mit Karotten, Sellerie | Kartoffeln und Lauch</name>
-          <note>Allergene: Soja, Sellerie, Sulfit</note>
+          <name>Rotes Thai Curry | mit asiatischem Gemüse | Shiitake Pilze, Sojasprossen | und Basmatireis</name>
+          <note>Allergene: Gluten, Soja, Weizen</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -182,17 +60,61 @@
       </category>
       <category name="einfach gut">
         <meal>
-          <name>«Fried Turkey» | Truten Schnitzel in | Cornflakes Panko Panade | mit Tex-Mex Gemüse Reis | Quinoa &amp; Ahorn Sauce</name>
-          <note>Allergene: Gluten, Milch, Sellerie, Sulfit</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Truten : Ungarn</note>
+          <name>&quot;Walliser Rösti&quot; | mit Tomaten, Speck | und Raclettekäse überbacken</name>
+          <note>Allergene: Milch</note>
+          <note>Herkunft Speck : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Daily Pizza">
         <meal>
-          <name>Pizza Italia | fatto in casa | mit Spinat, Tomaten | und Ricotta</name>
+          <name>Pizza Cacio e Pepe | fatto in casa | mit Mozzarella | und Salami</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.00</price>
+          <price role="student">11.00</price>
+        </meal>
+      </category>
+      <category name="Weekly Pizza">
+        <meal>
+          <name>Pizza Verde | fatto in casa | mit Broccoli, Rosenkohl | und Erbsen</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.00</price>
+          <price role="student">11.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-10-18">
+      <category name="natürlich vegi">
+        <meal>
+          <name>VEGEVEG-TAG | Vegane Bratwurst | an Senfsauce | mit Spiralen | und Buntem Gemüse</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>VEGVEG-TAG | Chili sin Carne | mit Linsen, Peperoni | Mais, Kidneybohnen | und Trockenreis</name>
+          <note>Allergene: Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Daily Pizza">
+        <meal>
+          <name>VEGVEG-TAG | Pizza con Aglio e Peperoncini | fatto in casa | mit Knoblauch, Peperoncino | und Rucola</name>
           <note>Allergene: Gluten, Milch</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
@@ -203,9 +125,95 @@
       </category>
       <category name="Weekly Pizza">
         <meal>
-          <name>Pizza Buttafuoco | fatto in casa | mit Speck, Zwiebeln | und Oregano</name>
+          <name>VEGVEG-TAG | Pizza Verde | fatto in casa | mit Broccoli, Rosenkohl | und Erbsen</name>
           <note>Allergene: Gluten, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.00</price>
+          <price role="student">11.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-10-19">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Ebly Eintopf | mit Kürbis, Sellerie | Baumnüsse, Rucola | und Reibkäse</name>
+          <note>Allergene: Gluten, Milch, Schalenfrüchte, Sellerie</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Wildhackbraten | an Waldpilzsauce | dazu Spätzli | und Rosenkohl</name>
+          <note>Allergene: Gluten, Ei, Milch, Sellerie, Sulfit</note>
+          <note>Herkunft Wild : EU / NZ, Schwein : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Daily Pizza">
+        <meal>
+          <name>Pizza Capricciosa | fatto in casa | mit Schinken, Oliven | und Peperoni</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Herkunft Schwein : Schweiz</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.00</price>
+          <price role="student">11.00</price>
+        </meal>
+      </category>
+      <category name="Weekly Pizza">
+        <meal>
+          <name>Pizza Verde | fatto in casa | mit Broccoli, Rosenkohl | und Erbsen</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">11.00</price>
+          <price role="student">11.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-10-20">
+      <category name="natürlich vegi">
+        <meal>
+          <name>Oceansticks | mit Schnittlauchkartoffeln | Rahmspinat | und Zitronen-Mayonnaise</name>
+          <note>Allergene: Gluten, Ei, Milch, Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="einfach gut">
+        <meal>
+          <name>Poulet Ragout Marengo | mit Tomaten, Champignons | dazu Nudeln | und Kräuter Croutons</name>
+          <note>Allergene: Gluten, Ei, Milch, Sulfit</note>
+          <note>Herkunft Poulet : Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Daily Pizza">
+        <meal>
+          <name>Pizza al Tonno | fatto in casa | mit Thunfisch | Zwiebelringe | und Kapern</name>
+          <note>Allergene: Gluten, Fisch, Milch</note>
+          <note>Herkunft Thon : Vietnam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <price role="other">11.00</price>
+          <price role="student">11.00</price>
+        </meal>
+      </category>
+      <category name="Weekly Pizza">
+        <meal>
+          <name>Pizza Verde | fatto in casa | mit Broccoli, Rosenkohl | und Erbsen</name>
+          <note>Allergene: Gluten, Milch</note>
+          <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <price role="other">11.00</price>
           <price role="student">11.00</price>

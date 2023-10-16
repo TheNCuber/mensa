@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2023-10-09">
+    <day date="2023-10-16">
       <category name="Natürlich vegan">
         <meal>
-          <name>«Jambalaya» Kreolische Reispfanne | Menusalat</name>
-          <note>Allergene: Soja, Sellerie</note>
+          <name>Gerösteter Hokkaido Kürbis | auf Eblygemüse | mit Pilzsauce | Menusalat</name>
+          <note>Allergene: Gluten, Milch, Sulfit</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -16,40 +16,29 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Spaghetti mit | Rindsbolognese dazu | Reibkäse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Herkunft Rind: Schweiz</note>
+          <name>Spaghetti an feiner | Carbonare - Sauce mit | Reibkäse | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch</note>
+          <note>Herkunft Schinken: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Lauchrisotto mit Speckwürfeli | Menusalat</name>
-          <note>Genuss in Balance</note>
+          <name>«Bowl» Salmon Poké mit Sushi - Reis, Mango, Gurken Ingwer und Lachs</name>
+          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
           <note>Herkunft Schwein: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-10-10">
+    <day date="2023-10-17">
       <category name="Natürlich vegan">
         <meal>
-          <name>Gersotto mit getrockneten Tomaten und Oliven | Chimichurri Sauce | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>«Aloo Gobi» Blumenkohl Kartoffelcurry mit Kürbis Kreuzkümmel und Tomaten | Menusalat</name>
+          <note>Allergene: Senf</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -57,81 +46,38 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Indisches Linsen Dal mit Kartoffel und Wurzelgemüse | Warmes Naan Brot | Menusalat</name>
-          <note>Allergene: Sellerie</note>
-          <note>Genuss in Balance</note>
+          <name>Peperoni-Apfel-Gulasch mit Essiggurken und Sauerrahm | auf Wildreis | Menusalat</name>
+          <note>Allergene: Soja, Sulfit</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
         </meal>
       </category>
-      <category name="Wochenbowl">
-        <meal>
-          <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">8.50</price>
-          <price role="student">8.50</price>
-        </meal>
-      </category>
       <category name="An der hinteren Station">
         <meal>
-          <name>Spaghetti | Rindsbolognese | Cremiges Tomatenrisotto</name>
+          <name>Es wird Wild im UniS | Hirschpfeffer Jäger Art mit | Eierspätzli dazu | Apfel Rotkraut und | Rosenkohl | Menusalat</name>
           <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Rind: Schweiz</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2023-10-11">
-      <category name="Natürlich vegan">
-        <meal>
-          <name>«Pad Thai» Reisnudeln mit Tofu, Limetten, Erdnüssen, Koriander | Menusalat</name>
-          <note>Allergene: Gluten, Erdnuss, Soja</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
-      <category name="Einfach gut">
-        <meal>
-          <name>&gt;&gt;1001 Nacht&gt;&gt; | Orientalischen Bulgur mit | Falafel dazu | Joghurt Dip mit Pffferminze | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Milch, Senf</note>
-          <note>Vegetarisch</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
+          <note>Herkunft Herkunft: aus freier Wildbahn</note>
+          <price role="other">15.90</price>
+          <price role="student">15.90</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <name>«Bowl» Salmon Poké mit Sushi - Reis, Mango, Gurken Ingwer und Lachs</name>
+          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
-      <category name="An der hinteren Station">
-        <meal>
-          <name>Gersotto mit Tomaten und Oliven | Linsen Dal Indisch mit Kartoffel und Wurzelgemüse</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
-          <note>Genuss in Balance</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
-          <price role="other">13.50</price>
-          <price role="student">7.20</price>
-        </meal>
-      </category>
     </day>
-    <day date="2023-10-12">
+    <day date="2023-10-18">
       <category name="Natürlich vegan">
         <meal>
-          <name>Mariniertes Grillgemüse mit | Ofensüsskartoffeln | mit veganem Creme fraiche | Menusalat</name>
+          <name>«Farfalle profumo autunnale» mit Kürbis, Wirsing und Salbei | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Sulfit</note>
           <note>Genuss in Balance</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
@@ -141,29 +87,28 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Chicken Tikka Masala auf | Duftreis mit | Asiatischem Gemüse | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam</note>
-          <note>Herkunft Poulet: Schweiz</note>
+          <name>Emmentaler Brätschnitzel UniEss | mit Rosmarin Sauce | dazu Country-Cuts | und Rüebli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <name>«Bowl» Salmon Poké mit Sushi - Reis, Mango, Gurken Ingwer und Lachs</name>
+          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
       </category>
     </day>
-    <day date="2023-10-13">
+    <day date="2023-10-19">
       <category name="Natürlich vegan">
         <meal>
-          <name>Veganer Gemüsestrudel mit | Randen Dip auf | Wurzelgemüsewürfel mit Kräuter | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Sellerie</note>
+          <name>Farbiger Quinoa mit, Edamame, Okra, Pfälzer Karotten, Sellerie und Kräutern dazu | Harissa Dip | Menusalat</name>
+          <note>Allergene: Soja</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
@@ -172,8 +117,39 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Ravioli mit Pilzfüllung auf mariniertem | Federkohl mit Ingwer und Soja Sauce dazu | Salbei Butter | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie</note>
+          <name>Rindsgulasch nach ungarischer Art an geräucherter Paprikasauce | mit Kräuter-Kartoffelstock | Menusalat</name>
+          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
+          <note>Herkunft Rind: Schweiz</note>
+          <price role="other">13.50</price>
+          <price role="student">7.80</price>
+        </meal>
+      </category>
+      <category name="Wochenbowl">
+        <meal>
+          <name>«Bowl» Salmon Poké mit Sushi - Reis, Mango, Gurken Ingwer und Lachs</name>
+          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
+          <price role="other">8.50</price>
+          <price role="student">8.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2023-10-20">
+      <category name="Natürlich vegan">
+        <meal>
+          <name>Baked Potatoe mit | veganem Creme fraiche | und Grillgemüse | Menusalat</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
+      <category name="Einfach gut">
+        <meal>
+          <name>Cremiges Kürbis Risotto mit Ruccola | Menusalat</name>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
           <price role="other">13.50</price>
           <price role="student">7.20</price>
@@ -181,10 +157,9 @@
       </category>
       <category name="Wochenbowl">
         <meal>
-          <name>Unis Salad Bowl mit Pulled Jackfruit, Süsskartoffeln, Rotkabis, Rucola und Kresse</name>
-          <note>Allergene: Soja, Sellerie, Senf, Sulfit</note>
-          <note>Umweltfreundlicher Genuss</note>
-          <note>Vegan</note>
+          <name>«Bowl» Salmon Poké mit Sushi - Reis, Mango, Gurken Ingwer und Lachs</name>
+          <note>Allergene: Gluten, Fisch, Soja, Sesam, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">8.50</price>
           <price role="student">8.50</price>
         </meal>
