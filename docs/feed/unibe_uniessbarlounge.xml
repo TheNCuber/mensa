@@ -32,6 +32,15 @@
           <price role="student">8.50</price>
         </meal>
       </category>
+      <category name="An der hinteren Station">
+        <meal>
+          <name>Ravioli mit Pouletragout</name>
+          <note>Genuss in Balance</note>
+          <note>Herkunft Schweiz: Poulet</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2023-10-17">
       <category name="Natürlich vegan">
@@ -87,11 +96,12 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Emmentaler Brätschnitzel UniEss | mit Rosmarin Sauce | dazu Country-Cuts | und Rüebli | Menusalat</name>
-          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Schwein: Schweiz</note>
+          <name>Gemüseschnitzel | mit Cocktail Sauce | Risi-Bisi | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sesam</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegetarisch</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="Wochenbowl">
@@ -117,9 +127,9 @@
       </category>
       <category name="Einfach gut">
         <meal>
-          <name>Rindsgulasch nach ungarischer Art an geräucherter Paprikasauce | mit Kräuter-Kartoffelstock | Menusalat</name>
-          <note>Allergene: Gluten, Soja, Milch, Sellerie</note>
-          <note>Herkunft Rind: Schweiz</note>
+          <name>Emmentaler Brätschnitzel UniEss | mit Rosmarin Sauce | dazu Country-Cuts | und Rüebli | Menusalat</name>
+          <note>Allergene: Gluten, Ei, Soja, Milch, Sellerie, Senf, Sulfit</note>
+          <note>Herkunft Schwein: Schweiz</note>
           <price role="other">13.50</price>
           <price role="student">7.80</price>
         </meal>

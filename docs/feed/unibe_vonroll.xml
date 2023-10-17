@@ -6,7 +6,7 @@
     <day date="2023-10-16">
       <category name="natürlich vegi">
         <meal>
-          <name>Griechische Kartoffelpfanne | mit Auberginen, Zucchetti | zweierlei Oliven | &amp; Feta</name>
+          <name>Happy Noodles mit Räuchertofu | und Brokkoli</name>
           <note>Allergene: Milch, Schalenfrüchte</note>
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegetarisch</note>
@@ -27,7 +27,7 @@
         <meal>
           <name>Rehpfeffer | mit Speck &amp; Silberzwiebeln | dazu Eierspätzli | &amp; Rotkraut</name>
           <note>Allergene: Gluten, Ei, Milch, Sellerie, Senf, Sulfit</note>
-          <note>Herkunft Fleisch: Europa (Reh)</note>
+          <note>Herkunft Fleisch: Europa (Reh) Schweiz (Schwein)</note>
           <price role="other">15.90</price>
           <price role="student">13.90</price>
         </meal>
@@ -81,7 +81,7 @@
           <note>Umweltfreundlicher Genuss</note>
           <note>Vegan</note>
           <price role="other">13.50</price>
-          <price role="student">7.80</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
       <category name="voll anders">
@@ -92,6 +92,17 @@
           <note>Vegan</note>
           <price role="other">13.90</price>
           <price role="student">11.90</price>
+        </meal>
+      </category>
+      <category name="VegVeg">
+        <meal>
+          <name>VEGVEG-Tag | Planted-Geschnetzeltes | an Kräutersauce | mit Bratkartoffeln | &amp; grünen Bohnen</name>
+          <note>Allergene: Gluten, Soja, Sellerie, Senf, Sulfit</note>
+          <note>Genuss in Balance</note>
+          <note>Umweltfreundlicher Genuss</note>
+          <note>Vegan</note>
+          <price role="other">13.50</price>
+          <price role="student">7.20</price>
         </meal>
       </category>
     </day>
